@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="EX_E_ska6" pos="-1|-1" roration="0" epos="0|0"/>
+  <part name="EX_E_ska5" pos="0|0" roration="0" epos="0|115"/>
+  <part name="EX_E_ska4" pos="0|11" roration="0" epos="-5|176"/>
+  <part name="EX_E_ska3" pos="0|6" roration="0" epos="0|0"/>
+  <part name="EX_E_ska2" pos="0|0" roration="0" epos="0|60"/>
+  <part name="EX_E_ska1" pos="0|0" roration="0" epos="-5|149"/>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="EnergySmall_w"/>
+  <part name="EnergySmall_w__1"/>
+  <part name="Light_g2a_w"/>
+  <part name="box_a_w"/>
+  <part name="box_b_w"/>
+  <part name="box_c_w"/>
+  <part name="shieldGenerator_01a_w"/>
+  <part name="shieldGenerator_02a_W"/>
+  <part name="shieldGenerator_02b_W"/>
+</root>

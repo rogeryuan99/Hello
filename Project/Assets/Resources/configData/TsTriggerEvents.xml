@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Events>
+	<!--<TsTriggerEventDef id="-3" name=""                                			type="NORMAL" rejects=""  	preconditions=""   branches=""	  call=""                               parms=""/>-->
+	<!--<TsTriggerEventDef id="-2" name="LevelLoaded_UIMain"              			type="NORMAL" rejects=""  	preconditions=""   branches=""	  call="PlayStroy"                      parms="-2"/>-->
+	<TsTriggerEventDef id="-2" name="LevelLoaded_UIMain"              			type="NORMAL" rejects=""  	preconditions=""   branches="0"   call="FirstInTutorial"                parms="-2"/>
+	<TsTriggerEventDef id="-1" name="LevelLoaded_UIMain"              			type="NORMAL" rejects=""  	preconditions="-2" branches=""	  call="StartFirstPlayTutorial"         parms="-1|FirstPlay"/>
+	<TsTriggerEventDef id="-.5" name="DialogOpened_ChapterListDlg(Clone)" 		type="NORMAL" rejects=""    preconditions="-1" branches=""	  call="StartFirstInChapterDlgTutorial" parms="-.5|FirstInChapterDlg"/>
+	<TsTriggerEventDef id="0"  name="BattleInit_888-1"                  	    type="NORMAL" rejects=""  	preconditions=""   branches=""	  call="StartLevel1Tutorial"            parms="0|Level1_Battle"/>
+	<TsTriggerEventDef id="1"  name="BattleVictory_1-1" 		          	  	type="NORMAL" rejects=""  	preconditions="0"  branches=""	  call="StartLevel1VectoryTutorial"     parms="1|Level1_Vectory"/>
+<!--	<TsTriggerEventDef id="2"  name="BattleInit_1-2"                  			type="NORMAL" rejects="3" 	preconditions=""   branches=""	  call="StartLevel2GearUpTutorial"      parms="2|Level2_GearUp"/>
+	<TsTriggerEventDef id="3"  name="LevelGoNext_1-2"                 			type="NORMAL" rejects="2" 	preconditions=""   branches=""	  call="StartLevel2GearUpTutorial"      parms="2|Level2_GearUp"/>-->
+	<!-- GearUp -->
+	<TsTriggerEventDef id="2"  name="BattleReady_1-2"                  			type="NORMAL" rejects="" 	preconditions=""   branches=""	  call="StartLevel2GearUpTutorial"      parms="2|Level2_GearUp"/>
+	<TsTriggerEventDef id="4"  name="BattleVictory_1-2" 	             		type="NORMAL" rejects=""  	preconditions=""   branches=""	  call="StartLevel2VectoryTutorial"     parms="4|Level2_Vectory"/>
+	
+<!--	<TsTriggerEventDef id="4.1.1"  name="BattleInit_1-3"   	             		type="NORMAL" rejects="4.1.2" preconditions=""      branches="4.2|4.3.1" call="StartLevel3ChangeEnterDlgTutorial" parms="4.1.1|Level3_Change_EnterDlg"/>
+	<TsTriggerEventDef id="4.1.2"  name="LevelGoNext_1-3" 	             		type="NORMAL" rejects="4.1.1" preconditions=""      branches="4.2|4.3.1" call="StartLevel3ChangeEnterDlgTutorial" parms="4.1.1|Level3_Change_EnterDlg"/>
+-->
+	<TsTriggerEventDef id="4.1.1"  name="BattleReady_1-3"   	             	type="NORMAL" rejects=""      preconditions=""      branches="4.2|4.3.1" call="StartLevel3ChangeEnterDlgTutorial" parms="4.1.1|Level3_Change_EnterDlg"/>
+	<TsTriggerEventDef id="4.2"    name="EventFinished_4.1.1" 					type="NORMAL" rejects=""      preconditions=""      branches=""	         call="StartLevel3ChangeRecruiteTutorial" parms="4.2|Level3_Change_Recruite"/>
+	<TsTriggerEventDef id="4.3.1"  name="EventFinished_4.2"                     type="NORMAL" rejects="4.3.2" preconditions="4.2"   branches=""	         call="StartLevel3ChangeSelectTutorial"   parms="4.3.1|Level3_Change_Select_Directly"/>
+	<TsTriggerEventDef id="4.3.2"  name="EventFinished_4.1.1"                   type="NORMAL" rejects="4.3.1" preconditions="4.2"   branches=""	         call="StartLevel3ChangeSelectTutorial"   parms="4.3.1|Level3_Change_Select"/>
+	<TsTriggerEventDef id="4.4"    name="EventFinished_4.3.1"                   type="NORMAL" rejects=""      preconditions=""      branches=""	         call="StartLevel3ChangeEndTutorial"      parms="4.4|Level3_Change_End"/>
+	<!---->
+	<!--<TsTriggerEventDef id="5"  name="BattleReady_1-3"                 			type="NORMAL" rejects=""  	preconditions=""   branches=""	  call="StartLevel3Tutorial"            parms="5|Level3_Ready"/>-->
+	<TsTriggerEventDef id="6"  name="BattleVictory_1-3" 		            	type="NORMAL" rejects=""  	preconditions=""   branches=""	  call="StartLevel3VectoryTutorial"     parms="6|Level3_Vectory"/>
+	
+<!--<TsTriggerEventDef id="7"  name="BattleInit_1-4"                  			type="NORMAL" rejects="8" 	preconditions=""   branches="10.1|11.1" call="StartLevel4SkillTreeTutorial" parms="7|Level4_SkillTree"/>
+	<TsTriggerEventDef id="8"  name="LevelGoNext_1-4"                 			type="NORMAL" rejects="7" 	preconditions=""   branches="10.1|11.1" call="StartLevel4SkillTreeTutorial" parms="7|Level4_SkillTree"/>
+-->	
+	<!--<TsTriggerEventDef id="7"  name="BattleReady_1-4"                  			type="NORMAL" rejects="" 	preconditions=""   branches="10.1|11.1" call="StartLevel4SkillTreeTutorial" parms="7|Level4_SkillTree"/>
+	<TsTriggerEventDef id="9"  name="BattleStarted_1-4"               			type="NORMAL" rejects=""  	preconditions=""   branches="" 	  call="StartLevel4SkillTutorial"       parms="9|Level4_Skill"/>
+	<TsTriggerEventDef id="10" name="DialogOpened_SkillTreeDlg(Clone)_STARLORD" type="NORMAL" rejects="" 	preconditions=""   branches=""    call="StartLevel4StarLordSkillTree"   parms="10|Level4_SkillTree_StarLord"/>
+	<TsTriggerEventDef id="11" name="DialogOpened_SkillTreeDlg(Clone)_DRAX" 	type="NORMAL" rejects=""    preconditions=""   branches="" 	  call="StartLevel4DraxSkillTree"       parms="11|Level4_SkillTree_Drax"/>
+	
+	<TsTriggerEventDef id="10.1" name="DialogOpened_SkillTreeDlg(Clone)_STARLORD" type="NORMAL" rejects="" 	preconditions="10" branches=""    call="StartLevel4StarLordSkillTree"   parms="10.1|Level4_SkillTree_StarLord_Equip"/>
+	
+	<TsTriggerEventDef id="11.1" name="DialogOpened_SkillTreeDlg(Clone)_DRAX" 	type="NORMAL" rejects=""  	preconditions="11" branches="" 	  call="StartLevel4DraxSkillTree"       parms="11.1|Level4_SkillTree_Drax_Equip"/>
+	<TsTriggerEventDef id="12" name="EventFinished_10.1"                   		type="NORMAL" rejects="13"  preconditions="10.1|11.1" branches="" call="StartLevel4SkillTreeFinished"   parms="12|Level4_SkillTree_Finished"/>
+	<TsTriggerEventDef id="13" name="EventFinished_11.1"                  		type="NORMAL" rejects="12"  preconditions="10.1|11.1" branches="" call="StartLevel4SkillTreeFinished"   parms="12|Level4_SkillTree_Finished"/>
+	<TsTriggerEventDef id="14" name="BattleInit_1-10"                       	type="NORMAL" rejects="15"  preconditions=""   branches=""    call="StartChangeButtonTutorial"      parms="14"/>
+	<TsTriggerEventDef id="15" name="LevelGoNext_1-10"                      	type="NORMAL" rejects="14"  preconditions=""   branches=""    call="StartChangeButtonTutorial"      parms="14"/>
+	-->
+	<!--<TsTriggerEventDef id="10.1" name="EventFinished_10"                    	type="NORMAL" rejects=""    preconditions="10" branches=""    call="StartLevel4StarLordSkillTree"   parms="10.1|Level4_SkillTree_StarLord_Equip"/>-->
+	<!--<TsTriggerEventDef id="11.1" name="EventFinished_11"                    	type="NORMAL" rejects=""    preconditions="11" branches="" 	  call="StartLevel4DraxSkillTree"       parms="11.1|Level4_SkillTree_Drax_Equip"/>-->
+</Events>	

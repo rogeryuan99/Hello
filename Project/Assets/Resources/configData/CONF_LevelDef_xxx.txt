@@ -1,0 +1,260 @@
+[
+	{"chapter":999,"name":"pvp test ground","passStars":0,
+	"levels":[
+		{"level":1, "map":"Kyln_1", "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["STARLORD","GROOT","DRAX","ROCKET"]]
+		}
+	]
+	},
+
+	
+	{"chapter":1,"name":"Kyln","passStars":20,
+	"levels":[
+		{"level":1, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Levan","Ch1_Guard1"],["Ch1_Guard2","Ch1_Guard1"]]
+		},
+		{"level":2, "preLevel":1, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Female_Prisoner2"],["Ch1_Female_Prisoner2","Ch1_Male_Prisoner1"]]
+		},
+		{"level":3, "preLevel":2, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Female_Prisoner2","Ch1_Male_Prisoner3"],["Ch1_Female_Prisoner1","Ch1_Male_Prisoner4","Ch1_Male_Prisoner3"]]
+		},
+		{"level":4, "preLevel":3, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Male_Prisoner3","Ch1_Guard1"],["Ch1_Female_Prisoner2","Ch1_Male_Prisoner3"],["Ch1_Female_Prisoner1","Ch1_Male_Prisoner4"]]
+			,"EnergyPole":[{"aspd":"4", "atk":"4","polePos":["-250.5, 7.294997","67.52371,-104.5","-321.6905,-176.2857","201.6719,17.43205"]}]
+		},
+		{"level":5, "preLevel":4, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Male_Prisoner3","Ch1_Guard1"],["Ch1_Female_Prisoner2","Ch1_Male_Prisoner3"],["Ch1_Female_Prisoner1","Ch1_Male_Prisoner4","Ch1_Male_Prisoner3"]]
+			,"LandMine":[{"atk":"4", "pos":"-0.690,-0.244"},{"atk":"4", "pos":"0.600,0.150"}]
+		},
+		{"level":6, "preLevel":5, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Male_Prisoner3","Ch1_Guard1"],["Ch1_Female_Prisoner2","Ch1_Guard1","Ch1_Male_Prisoner3"],["Ch1_Female_Prisoner1","Ch1_Male_Prisoner4","Ch1_Male_Prisoner3"]]		
+			,"SentryGun":[{"aspd":"4", "atk":"8", "SentryGunY":"0.85", "FrontSightPos":"-0.350,-0.244"},{"aspd":"2", "atk":"8", "SentryGunY":"0.9","FrontSightPos":"0.5,-0.518"}]
+		},
+		{"level":7, "preLevel":6, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Male_Prisoner3","Ch1_Male_Prisoner1","Ch1_Guard1"],["Ch1_Female_Prisoner2","Ch1_Guard1","Ch1_Male_Prisoner3"],["Ch1_Female_Prisoner1","Ch1_Male_Prisoner4","Ch1_Male_Prisoner3"]]
+			,"FireVent":[{"aspd":"3", "atk":"4", "pos":"-0.690,-0.244"},{"aspd":"2", "atk":"4", "pos":"0.7,0.150"}]
+		},
+		{"level":8, "preLevel":7, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Male_Prisoner3","Ch1_Female_Prisoner2"],["Ch1_Male_Prisoner1","Ch1_Guard1"],["Ch1_Female_Prisoner2","Ch1_Guard1","Ch1_Male_Prisoner3"],["Ch1_Female_Prisoner1","Ch1_Male_Prisoner4","Ch1_Male_Prisoner3"]]
+		},
+		{"level":9, "preLevel":8, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Male_Prisoner3","Ch1_Female_Prisoner2"],["Ch1_Male_Prisoner1","Ch1_Guard1"],["Ch1_Female_Prisoner2","Ch1_Guard1","Ch1_Male_Prisoner3"],["Ch1_Female_Prisoner1","Ch1_Male_Prisoner4","Ch1_Male_Prisoner3"]]
+		},
+		{"level":10, "preLevel":9, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Male_Prisoner3","Ch1_Guard1","Ch1_Female_Prisoner2"],["Ch1_Male_Prisoner1","Ch1_Guard1"],["Ch1_Female_Prisoner2","Ch1_Guard1","Ch1_Male_Prisoner3"],["Ch1_Female_Prisoner1","Ch1_Male_Prisoner4","Ch1_Male_Prisoner3"]]
+		},
+		{"level":11, "preLevel":10, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Male_Prisoner3","Ch1_Guard1","Ch1_Female_Prisoner2"],["Ch1_Male_Prisoner1","Ch1_Guard1","Ch1_Guard1"],["Ch1_Female_Prisoner2","Ch1_Guard1","Ch1_Male_Prisoner3"],["Ch1_Female_Prisoner1","Ch1_Male_Prisoner4","Ch1_Male_Prisoner3"]]
+		},
+		{"level":12, "preLevel":11, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Male_Prisoner3","Ch1_Korath","Ch1_Female_Prisoner2"],["Ch1_Male_Prisoner1","Ch1_Korath","Ch1_Guard1"],["Ch1_Female_Prisoner2","Ch1_Korath","Ch1_Male_Prisoner3"],["Ch1_Female_Prisoner1","Ch1_Korath","Ch1_Male_Prisoner3"]]
+		}
+	]
+	},
+	{"chapter":2,"name":"Sanctuary II","passStars":10,"bgMusic":"MUS_Chapter1_verA"
+	"levels":[
+		{"level":1, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Levan"],["Ch2_Levan","Ch2_Skunge"]]
+		},
+		{"level":2, "preLevel":1,"bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Minion1","Ch2_Skunge"],["Ch2_Nebula","Ch2_Skunge"]]
+		},
+		{"level":3, "preLevel":2,"bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Nebula","Ch2_Minion1"],["Ch2_Nebula","Ch2_Nebula","Ch2_Skunge"]]
+		},
+		{"level":4, "preLevel":3,"bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Minion1","Ch2_Minion2"],["Ch2_Minion1","Ch2_Minion2"],["Ch2_Minion1","Ch2_Minion2"]]
+		},
+		{"level":5, "preLevel":4, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Minion1","Ch2_Minion2"],["Ch2_Nebula","Ch2_Skunge"],["Ch2_Skunge","Ch2_Skunge","Ch2_Skunge"]]
+		},
+		{"level":6, "preLevel":5, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Minion1","Ch2_Minion2"],["Ch2_Nebula","Ch2_Levan","Ch2_Skunge"],["Ch2_Nebula","Ch2_Nebula","Ch2_Skunge"]]
+		},
+		{"level":7, "preLevel":6, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Minion1","Ch2_Minion2","Ch2_Levan"],["Ch2_Nebula","Ch2_Levan","Ch2_Skunge"],["Ch2_Skunge","Ch2_Skunge","Ch2_Skunge"]]
+		},
+		{"level":8, "preLevel":7, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Skunge","Ch2_Nebula"],["Ch2_Skunge","Ch2_Levan"],["Ch2_Nebula","Ch2_Levan","Ch2_Skunge"],["Ch2_Levan","Ch2_Levan","Ch2_Skunge"]]
+		},
+		{"level":9, "preLevel":8, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Skunge","Ch2_Nebula"],["Ch2_Skunge","Ch2_Levan"],["Ch2_Nebula","Ch2_Levan","Ch2_Skunge"],["Ch2_Skunge","Ch2_Skunge","Ch2_Skunge"]]
+		},
+		{"level":10, "preLevel":9, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Skunge","Ch2_Levan","Ch2_Nebula"],["Ch2_Levan","Ch2_Levan"],["Ch2_Nebula","Ch2_Levan","Ch2_Skunge"],["Ch2_Levan","Ch2_Levan","Ch2_Skunge"]]
+		},
+		{"level":11, "preLevel":10, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Skunge","Ch2_Levan","Ch2_Nebula"],["Ch2_Levan","Ch2_Levan","Ch2_Levan"],["Ch2_Nebula","Ch2_Levan","Ch2_Skunge"],["Ch2_Levan","Ch2_Levan","Ch2_Skunge"]]
+		},
+		{"level":12, "preLevel":11, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch2_Skunge","Ch2_Nebula","Ch2_Nebula"],["Ch2_Skunge","Ch2_Skunge","Ch2_Levan"],["Ch2_Nebula","Ch2_Skunge","Ch2_Skunge"],["Ch2_Skunge","Ch2_Skunge","Ch2_Skunge"]]
+		}
+	]
+	}
+,
+	{"chapter":3,"name":"Sakaar","passStars":10,"bgMusic":"MUS_Chapter1_verA"
+		"levels":[
+		{"level":1, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Miek"],["Ch3_Miek","Ch3_Miek"]]
+		},
+		{"level":2, "preLevel":1,"bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Caiera","Ch3_Caiera"],["Ch3_Caiera","Ch3_Caiera"]]
+		},
+		{"level":3, "preLevel":2,"bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Caiera","Ch3_PitMonster2"],["Ch3_Caiera","Ch3_Miek","Ch3_Miek"]]
+		},
+		{"level":4, "preLevel":3,"bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Miek","Ch3_Caiera"],["Ch3_PitMonster1","Ch3_Miek"],["Ch3_Caiera","Ch3_Boss_RedKing"]]
+		},
+		{"level":5, "preLevel":4, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Miek","Ch3_PitMonster2"],["Ch3_PitMonster1","Ch3_Caiera"],["Ch3_Caiera","Ch3_Miek","Ch3_Boss_RedKing"]]
+		},
+		{"level":6, "preLevel":5, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Miek","Ch3_PitMonster2"],["Ch3_Miek","Ch3_Caiera","Ch3_Caiera"],["Ch3_Caiera","Ch3_Miek","Ch3_Boss_RedKing"]]
+		},
+		{"level":7, "preLevel":6, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Miek","Ch3_Caiera","Ch3_Miek"],["Ch3_Caiera","Ch3_Caiera","Ch3_Caiera"],["Ch3_Caiera","Ch3_Miek","Ch3_Boss_RedKing"]]
+		},
+		{"level":8, "preLevel":7, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Miek","Ch3_Miek"],["Ch3_Caiera","Ch3_Caiera"],["Ch3_Caiera","Ch3_PitMonster1","Ch3_PitMonster1"],["Ch3_Caiera","Ch3_PitMonster1","Ch3_Boss_RedKing"]]
+		},
+		{"level":9, "preLevel":8, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Miek","Ch3_PitMonster2"],["Ch3_PitMonster1","Ch3_PitMonster1"],["Ch3_Miek","Ch3_PitMonster2","Ch3_Boss_RedKing"],["Ch3_Caiera","Ch3_PitMonster1","Ch3_Boss_RedKing"]]
+		},
+		{"level":10, "preLevel":9, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Miek","Ch3_Miek","Ch3_PitMonster1"],["Ch3_Miek","Ch3_PitMonster1"],["Ch3_Miek","Ch3_PitMonster2","Ch3_Caiera"],["Ch3_Caiera","Ch3_PitMonster1","Ch3_Boss_RedKing"]]
+		},
+		{"level":11, "preLevel":10, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Caiera","Ch3_Miek","Ch3_PitMonster1"],["Ch3_Miek","Ch3_PitMonster1","Ch3_Caiera"],["Ch3_Caiera","Ch3_PitMonster2","Ch3_Boss_RedKing"],["Ch3_Caiera","Ch3_PitMonster1","Ch3_Boss_RedKing"]]
+		},
+		{"level":12, "preLevel":11, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch3_Caiera","Ch3_Miek","Ch3_PitMonster1"],["Ch3_Miek","Ch3_Miek","Ch3_Caiera"],["Ch3_Caiera","Ch3_Boss_RedKing","Ch3_Miek"],["Ch3_Caiera","Ch3_PitMonster2","Ch3_PitMonster2"]]
+		}
+	]
+	}
+,
+	{"chapter":4,"name":"Asteroid","passStars":10,"bgMusic":"MUS_Chapter1_verA"
+	"levels":[
+		{"level":1, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":2, "preLevel":1, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":3, "preLevel":2, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":4, "preLevel":3, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":5, "preLevel":4, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":6, "preLevel":5, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":7, "preLevel":6, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":8, "preLevel":7, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":9, "preLevel":8, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":10, "preLevel":9, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":11, "preLevel":10, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":12, "preLevel":11, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		}
+	]
+	}
+,
+	{"chapter":5,"name":"Hala","passStars":10,"bgMusic":"MUS_Chapter1_verA"
+	"levels":[
+		{"level":1, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":2, "preLevel":1, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":3, "preLevel":2, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":4, "preLevel":3, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":5, "preLevel":4, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":6, "preLevel":5, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":7, "preLevel":6, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":8, "preLevel":7, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":9, "preLevel":8, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":10, "preLevel":9, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":11, "preLevel":10, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":12, "preLevel":11, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		}
+	]
+	}
+,
+	{"chapter":6,"name":"Xandar","passStars":10,"bgMusic":"MUS_Chapter1_verA"
+	"levels":[
+		{"level":1, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":2, "preLevel":1, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":3, "preLevel":2, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":4, "preLevel":3, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":5, "preLevel":4, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":6, "preLevel":5, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":7, "preLevel":6, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":8, "preLevel":7, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":9, "preLevel":8, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":10, "preLevel":9, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":11, "preLevel":10, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		},
+		{"level":12, "preLevel":11, "bgMusic":"MUS_Chapter1_verA"
+			"wave":[["Ch1_Guard1"]]
+		}
+	]
+	}
+	
+]

@@ -1,0 +1,25 @@
+function getCostStaminaByLevel(currentChapterID, currentLevelID)
+	return (currentChapterID-1)*3 + currentLevelID/3 +1;
+end
+
+function rewardGold(currentChapterID, currentLevelID, random)
+	if random <= 20 then
+		return (currentChapterID + currentLevelID)
+	else
+		return 0
+	end
+end
+
+function rewardCommandPoints(currentChapterID, currentLevelID, random)
+	
+	return (currentChapterID + currentLevelID)
+	
+end
+
+function getUpgradeGearCostMoney(currentLevel, nextLevel, consumeMoney,basePer)
+	return (currentLevel + nextLevel + consumeMoney) * basePer/100
+end
+
+function getUpgradeGearProperty(currentLevel, nextLevel, basePropertyValue, basePer)
+	return  (currentLevel + nextLevel + basePropertyValue) * basePer
+end

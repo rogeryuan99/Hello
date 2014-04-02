@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<act name="Skill_temp" totalFrame="10">
+  <d_light1>
+    <data pos="-45|5" rotation="0" scale="0.243|0.097" frame="1"/>
+    <data pos="-45|5" rotation="0" scale="0.375|0.150" frame="2"/>
+    <data pos="-45|5" rotation="0" scale="0.506|0.202" frame="3"/>
+    <data pos="-45|5" rotation="0" scale="0.638|0.255" frame="4"/>
+    <data pos="-45|5" rotation="0" scale="0.770|0.308" frame="5"/>
+    <data pos="-45|5" rotation="0" scale="0.902|0.361" frame="6"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="7"/>
+	<data pos="-45|5" rotation="0" scale="1.033|0.413" frame="8" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="9" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="10" v="0"/>
+  </d_light1>
+  <d_light2>
+	<data pos="-45|5" rotation="0" scale="1.033|0.413" frame="1" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="2" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="3" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.237|0.095" frame="4"/>
+    <data pos="-45|5" rotation="0" scale="0.370|0.148" frame="5"/>
+    <data pos="-45|5" rotation="0" scale="0.503|0.201" frame="6"/>
+    <data pos="-45|5" rotation="0" scale="0.635|0.254" frame="7"/>
+    <data pos="-45|5" rotation="0" scale="0.768|0.307" frame="8"/>
+    <data pos="-45|5" rotation="0" scale="0.901|0.360" frame="9"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="10"/>
+  </d_light2>
+</act>	
+<act name="Move" totalFrame="27">
+  <d_light1>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="1" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="2" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="3" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="4" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="5" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="6" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="7" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="8" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="9" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="10" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="11" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="12" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.243|0.097" frame="13"/>
+    <data pos="-45|5" rotation="0" scale="0.375|0.150" frame="14"/>
+    <data pos="-45|5" rotation="0" scale="0.506|0.202" frame="15"/>
+    <data pos="-45|5" rotation="0" scale="0.638|0.255" frame="16"/>
+    <data pos="-45|5" rotation="0" scale="0.770|0.308" frame="17"/>
+    <data pos="-45|5" rotation="0" scale="0.902|0.361" frame="18"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="19"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="20" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="21" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="22" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="23" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="24" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="25" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="26" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="27" v="0"/>
+  </d_light1>
+  <d_light2>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="1" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="2" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="3" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="4" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="5" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="6" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="7" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="8" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="9" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="10" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="11" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="12" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="13" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="14" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.422|0.169" frame="15" v="0"/>
+    <data pos="-45|5" rotation="0" scale="0.237|0.095" frame="16"/>
+    <data pos="-45|5" rotation="0" scale="0.370|0.148" frame="17"/>
+    <data pos="-45|5" rotation="0" scale="0.503|0.201" frame="18"/>
+    <data pos="-45|5" rotation="0" scale="0.635|0.254" frame="19"/>
+    <data pos="-45|5" rotation="0" scale="0.768|0.307" frame="20"/>
+    <data pos="-45|5" rotation="0" scale="0.901|0.360" frame="21"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="22"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="23" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="24" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="25" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="26" v="0"/>
+    <data pos="-45|5" rotation="0" scale="1.033|0.413" frame="27" v="0"/>
+  </d_light2>
+</act>
+
+</root>

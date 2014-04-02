@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="Shadow" pos="-7|4" roration="0" epos="0|0"/>
+  <part name="armUpL" pos="3|68" roration="4" epos="4|-14"/>
+  <part name="armDownL" pos="10|46" roration="17" epos="2|-12"/>
+  <part name="Eweapon" pos="-13|69" roration="90" epos="-2|-7"/>
+  <part name="weapon" pos="13|31" roration="168" epos="23|5"/>
+  <part name="legL" pos="2|1" roration="0" epos="2|6"/>
+  <part name="legR" pos="-22|7" roration="1" epos="3|0"/>
+  <part name="bodydown" pos="-8|38" roration="0" epos="0|-21"/>
+  <part name="bodyUp" pos="-4|65" roration="0" epos="0|-10"/>
+  <part name="armUpR" pos="-27|72" roration="0" epos="0|-15"/>
+  <part name="armDownR" pos="-31|55" roration="0" epos="0|-18"/>
+  <part name="head" pos="-15|73" roration="0" epos="-1|44"/>
+  <part name="headB" pos="-15|73" roration="0" epos="-1|44"/>	
+  <part name="Eweapon2" pos="-12|63" roration="-179" epos="-2|-7"/>
+  <part name="weapon2" pos="-11|67" roration="-179" epos="23|5"/>
+
+</root>

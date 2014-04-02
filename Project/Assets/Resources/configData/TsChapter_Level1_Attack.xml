@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="1.Prepare">
+		<creations>
+			<creation type="ENEMY" prefix="" obj="Ch1_Male_Prisoner1" parent="" scale=".23"/>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="LockCombo"              parms=""/>
+			<action obj="TsObjectFactory"         call="HideGameObject"         parms="skillBtnIconPanel"/>
+			<action obj="TsUserBehaviorProcessor" call="LockInput"              parms="true"/>
+			<action obj="TsUserBehaviorProcessor" call="LockMove"               parms=""/>
+			<action obj="TsFtueManager"           call="BlockEnemyRandomAttack" parms=""/>
+			<action obj="TsUserBehaviorProcessor" call="Sleep"                  parms=".1"/>
+		</actions>
+	</Step>	
+
+	<Step hide_name="2.Teach Ranged Attacking">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsDialog"    parent="UIRoot"     scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsNguiMask"  parent="UIRoot"     scale="2048"/>
+		</creations>
+		<actions>        
+			<action obj="TsObjectMover"           call="MoveTo"               parms="Ch1_Male_Prisoner1|-500|0|-50"/>
+			<action obj="TsFunctionCaller"        call="SendVector3Message"   parms="Ch1_Male_Prisoner1|move|-300|0|-50"/>
+			
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsDialog|0|0|-5"/>
+			<action obj="TsDialog"                call="FillData"             parms="Cosmo|UI_TsDialog_5"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Button-Next|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsNguiMask"/>
+		</actions>
+	</Step>
+	
+	<Step hide_name="2.1.StarLord Attacking">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsFingerTip" parent="GameAnchor" scale="1"/>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="LockInput"            parms="false"/>
+			<!--<action obj="TsUserBehaviorProcessor" call="LockObjects"          parms="DRAX(Clone)"/>-->
+			<action obj="TsObjectFactory"         call="HideGameObject"       parms="Button-Next"/>
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|UI_TsDialog_6"/>
+			
+			<action obj="TsFingerTip"             call="AddClickingObjectToPause" parms="STARLORD(Clone)|GameCamera"/>
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|STARLORD(Clone)"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveFromSomethingToSomething|STARLORD(Clone)|Ch1_Male_Prisoner1|1.5|.5|3|easeInOutQuad"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|.5"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			
+			<action obj="Ch1_Male_Prisoner1"      call="SetDoubleHealth"      parms=""/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToDragSomethingOnSomething" parms="STARLORD(Clone)|GameCamera|Ch1_Male_Prisoner1|GameCamera"/>
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|UI_TsDialog_6a"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitHeroAttack"       parms="STARLORD(Clone)|1"/>
+			<action obj="STARLORD(Clone)"         call="StandBy"              parms=""/>
+			<action obj="TsFingerTip"             call="Stop"                 parms=""/>
+			<action obj="TsObjectMover"           call="MoveTo"               parms="TsFingerTip|-5000|0|-50"/>
+			<action obj="TsUserBehaviorProcessor" call="LockObjects"          parms="STARLORD(Clone)"/>
+			<action obj="TsFunctionCaller"        call="SendMessage"          parms="IntentionGroup|Clear"/>
+		</actions>
+	</Step>
+	<!--<Step hide_name="- After StarLord Attack">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsNguiMask"  parent="UIRoot"     scale="2048"/>
+		</creations>
+		<actions>
+			
+			<action obj="TsObjectFactory"         call="ShowGameObject"       parms="Button-Next"/>
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsDialog|0|0|-5"/>
+			<action obj="TsDialog"                call="FillData"             parms="Cosmo|Nice shooting! But like my fleas, there's more where that came from."/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Button-Next|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsNguiMask"/>
+			
+			<action obj="TsUserBehaviorProcessor" call="UnlockObjects"        parms="DRAX(Clone)"/>
+		</actions>
+	</Step>-->
+	
+	<!--<Step hide_name="2.2.Drax Attacking">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="LockInput"            parms="false"/>
+			<action obj="TsUserBehaviorProcessor" call="LockObjects"          parms="STARLORD(Clone)"/>
+			<action obj="TsObjectFactory"         call="HideGameObject"       parms="Button-Next"/>
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|Drax is a skilled Melee Fighter. He is deadlier up close. Tap on Drax and drag to target the Kyln Prisoner."/>
+			
+			<action obj="TsFingerTip"             call="AddClickingObjectToPause" parms="DRAX(Clone)|GameCamera"/>
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|DRAX(Clone)"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveFromSomethingToSomething|DRAX(Clone)|Ch1_Male_Prisoner1|1.5|.5|3|easeInOutQuad"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|.5"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			
+			<action obj="TsUserBehaviorProcessor" call="WaitHeroAttack"       parms="DRAX(Clone)|1"/>
+			<action obj="DRAX(Clone)"             call="StandBy"              parms=""/>
+			<action obj="TsFingerTip"             call="Stop"                 parms=""/>
+		</actions>
+	</Step>-->
+	<Step hide_name="- After Drax Attack">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsNguiMask"  parent="UIRoot"     scale="2048"/>
+		</creations>
+		<actions>
+			<action obj="TsObjectMover"           call="MoveTo"               parms="TsFingerTip|-5000|0|-50"/>
+			<!--<action obj="TsUserBehaviorProcessor" call="LockObjects"          parms="DRAX(Clone)"/>-->
+			<action obj="TsFunctionCaller"        call="SendMessage"          parms="IntentionGroup|Clear"/>
+			
+			<action obj="TsObjectFactory"         call="ShowGameObject"       parms="Button-Next"/>
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsDialog|0|0|-5"/>
+			<!--<action obj="TsDialog"                call="FillData"             parms="Cosmo|Very nice. They don’t call him the Destroyer for nothing. More guards and prisoners are closing in on your location. Attack!"/>-->
+			<action obj="TsDialog"                call="FillData"             parms="Cosmo|UI_TsDialog_7"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Button-Next|Camera"/>
+			
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsNguiMask"/>
+			<action obj="TsUserBehaviorProcessor" call="UnlockObjects"        parms="STARLORD(Clone)"/>
+			<!--<action obj="TsUserBehaviorProcessor" call="UnlockObjects"        parms="DRAX(Clone)"/>-->
+		</actions>
+	</Step>
+	
+	<Step hide_name="Finish">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="UnlockCombo"       parms=""/>
+			<!--<action obj="TsObjectFactory"         call="ShowGameObject"    parms="skillBtnIconPanel"/>-->
+			<action obj="TsUserBehaviorProcessor" call="LockInput"         parms="false"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject" parms="Ch1_Male_Prisoner1"/>
+			<action obj="TsFtueManager"           call="UnblockEnemyRandomAttack" parms=""/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject" parms="TsFingerTip|TsDialog"/>
+			<action obj="TsUserBehaviorProcessor" call="UnlockMove"        parms=""/>
+			<action obj="TsTheater"               call="ChangeScene"       parms=""/>
+		</actions>
+	</Step>
+</Chapter>
+

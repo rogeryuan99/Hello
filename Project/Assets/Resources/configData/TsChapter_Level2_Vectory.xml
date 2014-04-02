@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="0.sleep">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="WaitToVictoryDlgOpened"     parms=""/>
+		</actions>
+	</Step>	
+	<!--
+	<Step hide_name="1.Talk">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsDialog" parent="UIRoot" scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsNguiMask"  parent="UIRoot" scale="2048"/>
+		</creations>
+		<actions>        
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsNguiMask|0|0|-100"/> 
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsDialog|0|0|-200"/>
+			<action obj="TsDialog"                call="FillData"             parms="Cosmo|UI_TsDialog_12_1"/>
+			<action obj="TsFtueManager"           call="MarkEventFinished"    parms="4"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Button-Next|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsNguiMask|TsDialog"/>
+		</actions>
+	</Step>	
+	-->
+</Chapter>
+

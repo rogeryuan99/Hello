@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="LARGE_Arm_Back_Lower_01"/>
+  <part name="LARGE_Arm_Back_Upper_01"/>
+  <part name="LARGE_Arm_Top_Lower_01"/>
+  <part name="LARGE_Arm_Top_Upper_01"/>
+  <part name="LARGE_Head_01"/>
+  <part name="LARGE_Head_02"/>
+  <part name="LARGE_Head_03"/>
+  <part name="LARGE_Leg_Back_Lower_01"/>
+  <part name="LARGE_Leg_Back_Upper_01"/>
+  <part name="LARGE_Leg_Top_Lower_01"/>
+  <part name="LARGE_Leg_Top_Upper_01"/>
+  <part name="LARGE_Torso_01"/>
+  <part name="LARGE_Weapon_01"/>
+  <part name="drop_shadow"/>
+</root>

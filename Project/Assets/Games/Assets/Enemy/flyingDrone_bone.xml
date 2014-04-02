@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="Shadow" pos="0|0" roration="0" epos="0|0"/>
+  <part name="armL" pos="4|80" roration="0" epos="9|0"/>
+  <part name="body" pos="-24|118" roration="0" epos="11|0"/>
+  <part name="armR" pos="-26|78" roration="0" epos="11|0"/>
+</root>

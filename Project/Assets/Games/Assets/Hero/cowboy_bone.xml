@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="armUpL" pos="19|64" roration="0" epos="0|-6"/>
+  <part name="armDownL" pos="22|46" roration="0" epos="1|-8"/>
+  <part name="gun" pos="22|35" roration="-77" epos="16|6"/>
+  <part name="gune1" pos="35|43" roration="21" epos="0|0"/>
+  <part name="legUpL" pos="11|28" roration="3" epos="-4|-5"/>
+  <part name="legL" pos="11|12" roration="0" epos="-2|-5"/>
+  <part name="Ass" pos="0|21" roration="0" epos="2|6"/>
+  <part name="bodyAdd" pos="-3|43" roration="-1" epos="-1|17"/>
+  <part name="legUpR" pos="-12|30" roration="-15" epos="-1|-6"/>
+  <part name="legR" pos="-14|13" roration="0" epos="-3|-4"/>
+  <part name="sash" pos="-2|34" roration="0" epos="-3|-1"/>
+  <part name="bodyDown" pos="14|71" roration="-1" epos="3|-24"/>
+  <part name="head" pos="-15|70" roration="0" epos="3|50"/>
+  <part name="bodyUp" pos="-25|77" roration="1" epos="-2|-24"/>
+  <part name="armUpR" pos="-35|71" roration="-5" epos="0|-7"/>
+  <part name="armDownR" pos="-49|49" roration="0" epos="7|-12"/>
+  <part name="Collar" pos="-29|77" roration="60" epos="0|0"/>
+</root>

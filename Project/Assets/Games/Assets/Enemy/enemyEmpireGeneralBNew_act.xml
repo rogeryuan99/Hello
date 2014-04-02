@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<act name="Move" totalFrame="36">
+  <E_SMOKE_1>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="1" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="2" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="3" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="4" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="5" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="6" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="7" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="8" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="9" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="10" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="11" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="12" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="13" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="14" v="0"/>
+    <data pos="-35.65|30.7" rotation="0" scale="1.100|1.100" frame="15"/>
+    <data pos="-35.65|30.7" rotation="0" scale="1.100|1.100" frame="16"/>
+    <data pos="-35.65|30.7" rotation="0" scale="1.100|1.100" frame="17"/>
+    <data pos="-35.65|30.7" rotation="0" scale="1.100|1.100" frame="18"/>
+    <data pos="-35.65|30.7" rotation="0" scale="1.100|1.100" frame="19"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="20" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="21" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="22" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="23" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="24" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="25" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="26" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="27" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="28" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="29" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="30" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="31" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="32" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="33" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="34" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="35" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="36" v="0"/>
+  </E_SMOKE_1>
+  <E_SMOKE_2>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="1" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="2" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="3" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="4" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="5" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="6" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="7" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="8" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="9" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="10" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="11" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="12" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="13" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="14" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="15" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="16" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="17" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="18" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="19" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="20" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="21" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="22" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="23" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="24" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="25" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="26" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="27" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="28" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="29" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="30" v="0"/>
+    <data pos="-8.5|30.7" rotation="0" scale="1.000|1.000" frame="31" v="0"/>
+    <data pos="52.4|30.7" rotation="0" scale="1.100|1.100" frame="32"/>
+    <data pos="52.4|30.7" rotation="0" scale="1.100|1.100" frame="33"/>
+    <data pos="52.4|30.7" rotation="0" scale="1.100|1.100" frame="34"/>
+    <data pos="52.4|30.7" rotation="0" scale="1.100|1.100" frame="35"/>
+    <data pos="52.4|30.7" rotation="0" scale="1.100|1.100" frame="36"/>
+  </E_SMOKE_2>
+  <shadow>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="1"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="2"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="3"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="4"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="5"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="6"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="7"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="8"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="9"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="10"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="11"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="12"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="13"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="14"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="15"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="16"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="17"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="18"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="19"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="20"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="21"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="22"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="23"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="24"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="25"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="26"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="27"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="28"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="29"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="30"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="31"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="32"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="33"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="34"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="35"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="36"/>
+  </shadow>
+  <ADD_3>
+    <data pos="-61.5|209.05" rotation="103" scale="0.810|0.810" frame="1"/>
+    <data pos="-65.85|208.2" rotation="103" scale="0.809|0.810" frame="2"/>
+    <data pos="-70.3|207.4" rotation="104" scale="0.810|0.810" frame="3"/>
+    <data pos="-74.65|206.55" rotation="104" scale="0.810|0.810" frame="4"/>
+    <data pos="-79.05|205.75" rotation="105" scale="0.811|0.811" frame="5"/>
+    <data pos="-76.5|207.05" rotation="106" scale="0.810|0.810" frame="6"/>
+    <data pos="-74.05|208.3" rotation="108" scale="0.810|0.810" frame="7"/>
+    <data pos="-71.5|209.5" rotation="110" scale="0.810|0.810" frame="8"/>
+    <data pos="-69.1|210.8" rotation="111" scale="0.810|0.810" frame="9"/>
+    <data pos="-66.55|212" rotation="113" scale="0.811|0.811" frame="10"/>
+    <data pos="-66.6|207.8" rotation="110" scale="0.810|0.810" frame="11"/>
+    <data pos="-66.55|203.5" rotation="107" scale="0.810|0.810" frame="12"/>
+    <data pos="-66.55|199.3" rotation="104" scale="0.810|0.810" frame="13"/>
+    <data pos="-66.55|195" rotation="101" scale="0.810|0.810" frame="14"/>
+    <data pos="-66.55|190.75" rotation="98" scale="0.811|0.811" frame="15"/>
+    <data pos="-70.3|202" rotation="98" scale="0.811|0.811" frame="16"/>
+    <data pos="-62.85|205.7" rotation="94" scale="0.811|0.811" frame="17"/>
+    <data pos="-59.1|206.15" rotation="95" scale="0.810|0.810" frame="18"/>
+    <data pos="-55.4|206.7" rotation="96" scale="0.810|0.810" frame="19"/>
+    <data pos="-51.65|207.15" rotation="97" scale="0.810|0.810" frame="20"/>
+    <data pos="-47.9|207.7" rotation="97" scale="0.810|0.810" frame="21"/>
+    <data pos="-44.1|208.2" rotation="98" scale="0.811|0.811" frame="22"/>
+    <data pos="-53|206.25" rotation="100" scale="0.810|0.810" frame="23"/>
+    <data pos="-61.9|204.45" rotation="102" scale="0.810|0.810" frame="24"/>
+    <data pos="-70.85|202.55" rotation="105" scale="0.810|0.810" frame="25"/>
+    <data pos="-79.9|200.7" rotation="107" scale="0.810|0.810" frame="26"/>
+    <data pos="-88.85|198.8" rotation="109" scale="0.810|0.810" frame="27"/>
+    <data pos="-97.85|196.95" rotation="111" scale="0.811|0.811" frame="28"/>
+    <data pos="-90.4|195.6" rotation="107" scale="0.810|0.810" frame="29"/>
+    <data pos="-82.9|194.3" rotation="102" scale="0.810|0.810" frame="30"/>
+    <data pos="-75.5|192.85" rotation="98" scale="0.810|0.810" frame="31"/>
+    <data pos="-68.05|191.45" rotation="93" scale="0.810|0.810" frame="32"/>
+    <data pos="-60.6|190.15" rotation="89" scale="0.811|0.811" frame="33"/>
+    <data pos="-51.55|202" rotation="95" scale="0.811|0.811" frame="34"/>
+    <data pos="-52.8|210.75" rotation="102" scale="0.811|0.811" frame="35"/>
+    <data pos="-57.15|209.9" rotation="102" scale="0.810|0.810" frame="36"/>
+  </ADD_3>
+  <ADD_2>
+    <data pos="-28.45|235.7" rotation="-10" scale="1.111|0.999" frame="1"/>
+    <data pos="-28.5|236.95" rotation="-8" scale="1.084|0.999" frame="2"/>
+    <data pos="-28.5|238.15" rotation="-7" scale="1.056|0.999" frame="3"/>
+    <data pos="-28.45|239.45" rotation="-6" scale="1.029|0.999" frame="4"/>
+    <data pos="-28.45|240.7" rotation="-5" scale="1.002|1.000" frame="5"/>
+    <data pos="-32.95|240.5" rotation="-4" scale="1.047|1.000" frame="6"/>
+    <data pos="-37.5|240.25" rotation="-2" scale="1.093|1.000" frame="7"/>
+    <data pos="-41.95|240" rotation="-1" scale="1.138|1.000" frame="8"/>
+    <data pos="-46.45|239.75" rotation="0" scale="1.184|1.000" frame="9"/>
+    <data pos="-50.95|239.45" rotation="1" scale="1.229|1.000" frame="10"/>
+    <data pos="-44.45|235.5" rotation="-1" scale="1.188|1.000" frame="11"/>
+    <data pos="-37.9|231.4" rotation="-4" scale="1.146|1.000" frame="12"/>
+    <data pos="-31.4|227.4" rotation="-6" scale="1.105|1.000" frame="13"/>
+    <data pos="-24.9|223.45" rotation="-9" scale="1.063|0.999" frame="14"/>
+    <data pos="-18.45|219.45" rotation="-12" scale="1.022|1.000" frame="15"/>
+    <data pos="-14.7|230.7" rotation="-12" scale="1.022|1.000" frame="16"/>
+    <data pos="-7.5|232.7" rotation="-16" scale="1.000|1.000" frame="17"/>
+    <data pos="-13.5|231.7" rotation="-16" scale="1.023|0.999" frame="18"/>
+    <data pos="-19.55|230.7" rotation="-16" scale="1.047|0.999" frame="19"/>
+    <data pos="-25.5|229.7" rotation="-16" scale="1.072|0.999" frame="20"/>
+    <data pos="-31.5|228.7" rotation="-16" scale="1.096|0.999" frame="21"/>
+    <data pos="-37.5|227.7" rotation="-16" scale="1.121|1.000" frame="22"/>
+    <data pos="-39|229.15" rotation="-13" scale="1.106|0.999" frame="23"/>
+    <data pos="-40.4|230.6" rotation="-10" scale="1.093|0.999" frame="24"/>
+    <data pos="-41.9|232.05" rotation="-8" scale="1.079|1.000" frame="25"/>
+    <data pos="-43.35|233.55" rotation="-5" scale="1.066|1.000" frame="26"/>
+    <data pos="-44.85|235" rotation="-3" scale="1.053|1.000" frame="27"/>
+    <data pos="-46.25|236.45" rotation="0" scale="1.039|1.000" frame="28"/>
+    <data pos="-43.5|230.95" rotation="-4" scale="1.059|1.000" frame="29"/>
+    <data pos="-40.8|225.5" rotation="-9" scale="1.079|0.999" frame="30"/>
+    <data pos="-37.95|219.95" rotation="-14" scale="1.098|0.999" frame="31"/>
+    <data pos="-35.25|214.45" rotation="-18" scale="1.118|0.999" frame="32"/>
+    <data pos="-32.5|208.95" rotation="-23" scale="1.139|1.000" frame="33"/>
+    <data pos="-26.25|220.2" rotation="-17" scale="1.238|1.000" frame="34"/>
+    <data pos="-28.45|233.2" rotation="-12" scale="1.167|1.000" frame="35"/>
+    <data pos="-28.5|234.45" rotation="-11" scale="1.139|0.999" frame="36"/>
+  </ADD_2>
+  <ADD_1>
+    <data pos="-20.4|283.45" rotation="-37" scale="0.717|0.798" frame="1"/>
+    <data pos="-24.75|285.75" rotation="-36" scale="0.736|0.798" frame="2"/>
+    <data pos="-29.2|288" rotation="-36" scale="0.756|0.798" frame="3"/>
+    <data pos="-33.55|290.35" rotation="-35" scale="0.775|0.798" frame="4"/>
+    <data pos="-37.85|292.6" rotation="-34" scale="0.796|0.800" frame="5"/>
+    <data pos="-38.1|291.35" rotation="-32" scale="0.769|0.784" frame="6"/>
+    <data pos="-38.35|290.1" rotation="-30" scale="0.743|0.770" frame="7"/>
+    <data pos="-38.65|288.85" rotation="-28" scale="0.717|0.755" frame="8"/>
+    <data pos="-38.85|287.55" rotation="-26" scale="0.691|0.741" frame="9"/>
+    <data pos="-39.1|286.35" rotation="-24" scale="0.666|0.727" frame="10"/>
+    <data pos="-34.85|283.6" rotation="-27" scale="0.685|0.731" frame="11"/>
+    <data pos="-30.6|280.9" rotation="-30" scale="0.705|0.736" frame="12"/>
+    <data pos="-26.35|278.1" rotation="-34" scale="0.724|0.741" frame="13"/>
+    <data pos="-22.1|275.35" rotation="-37" scale="0.744|0.745" frame="14"/>
+    <data pos="-17.85|272.6" rotation="-40" scale="0.765|0.751" frame="15"/>
+    <data pos="-20.35|282.6" rotation="-40" scale="0.798|0.795" frame="16"/>
+    <data pos="-6.6|287.6" rotation="-42" scale="0.800|0.800" frame="17"/>
+    <data pos="-5.65|284.35" rotation="-42" scale="0.768|0.798" frame="18"/>
+    <data pos="-4.55|281.1" rotation="-43" scale="0.738|0.798" frame="19"/>
+    <data pos="-3.6|277.9" rotation="-43" scale="0.707|0.798" frame="20"/>
+    <data pos="-2.65|274.55" rotation="-44" scale="0.677|0.798" frame="21"/>
+    <data pos="-1.6|271.35" rotation="-44" scale="0.647|0.800" frame="22"/>
+    <data pos="-12.45|274.05" rotation="-41" scale="0.670|0.798" frame="23"/>
+    <data pos="-23.2|276.75" rotation="-39" scale="0.695|0.798" frame="24"/>
+    <data pos="-34.15|279.5" rotation="-36" scale="0.719|0.798" frame="25"/>
+    <data pos="-44.95|282.25" rotation="-33" scale="0.743|0.799" frame="26"/>
+    <data pos="-55.75|284.9" rotation="-30" scale="0.768|0.799" frame="27"/>
+    <data pos="-66.6|287.6" rotation="-27" scale="0.793|0.800" frame="28"/>
+    <data pos="-54.65|279.55" rotation="-32" scale="0.772|0.799" frame="29"/>
+    <data pos="-42.6|271.6" rotation="-37" scale="0.753|0.798" frame="30"/>
+    <data pos="-30.65|263.6" rotation="-41" scale="0.734|0.798" frame="31"/>
+    <data pos="-18.6|255.6" rotation="-46" scale="0.714|0.798" frame="32"/>
+    <data pos="-6.6|247.6" rotation="-51" scale="0.696|0.800" frame="33"/>
+    <data pos="-5.35|258.85" rotation="-46" scale="0.679|0.800" frame="34"/>
+    <data pos="-11.6|278.85" rotation="-39" scale="0.679|0.800" frame="35"/>
+    <data pos="-15.95|281.15" rotation="-38" scale="0.697|0.798" frame="36"/>
+  </ADD_1>
+  <E_ADD_3>
+    <data pos="-90.5|208.35" rotation="95" scale="0.810|0.810" frame="2" v="0"/>
+  </E_ADD_3>
+  <E_ADD_2>
+    <data pos="-49.35|235.25" rotation="-16" scale="0.999|0.999" frame="2" v="0"/>
+  </E_ADD_2>
+  <E_ADD_1>
+    <data pos="-35.25|286.9" rotation="-42" scale="0.779|0.798" frame="2" v="0"/>
+  </E_ADD_1>		
+  <E_FLASH_1>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="1"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="2"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="3"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="4"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="5"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="6"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="7"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="8"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="9"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="10"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="11"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="12"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="13"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="14"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="15"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="16"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="17"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="18"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="19"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="20"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="21"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="22"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="23"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="24"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="25"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="26"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="27"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="28"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="29"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="30"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="31"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="32"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="33"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="34"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="35"/>
+    <data pos="-45.15|248.65" rotation="-26" scale="1.397|1.397" frame="36"/>
+  </E_FLASH_1>
+  <armDownL>
+    <data pos="0.75|136.75" rotation="-25" scale="0.848|0.848" frame="1"/>
+    <data pos="1.15|136.75" rotation="-23" scale="0.847|0.847" frame="2"/>
+    <data pos="1.85|137" rotation="-22" scale="0.847|0.847" frame="3"/>
+    <data pos="2.7|137.15" rotation="-19" scale="0.847|0.847" frame="4"/>
+    <data pos="3.8|137.3" rotation="-16" scale="0.848|0.848" frame="5"/>
+    <data pos="4.95|137.6" rotation="-13" scale="0.848|0.848" frame="6"/>
+    <data pos="6.45|137.85" rotation="-8" scale="0.848|0.848" frame="7"/>
+    <data pos="8.05|138.1" rotation="-4" scale="0.848|0.848" frame="8"/>
+    <data pos="9.85|138.55" rotation="0" scale="0.849|0.849" frame="9"/>
+    <data pos="11.85|138.95" rotation="6" scale="0.849|0.849" frame="10"/>
+    <data pos="14.35|139.8" rotation="0" scale="0.849|0.849" frame="11"/>
+    <data pos="16.95|140.65" rotation="-6" scale="0.849|0.849" frame="12"/>
+    <data pos="19.45|141.55" rotation="-13" scale="0.848|0.848" frame="13"/>
+    <data pos="22|142.45" rotation="-20" scale="0.848|0.848" frame="14"/>
+    <data pos="24.6|143.3" rotation="-26" scale="0.849|0.849" frame="15"/>
+    <data pos="24.6|143.3" rotation="-25" scale="0.849|0.849" frame="16"/>
+    <data pos="24.6|143.3" rotation="-24" scale="0.849|0.849" frame="17"/>
+    <data pos="24.25|143.4" rotation="-23" scale="0.848|0.848" frame="18"/>
+    <data pos="23.25|143.65" rotation="-23" scale="0.848|0.848" frame="19"/>
+    <data pos="21.7|144.05" rotation="-22" scale="0.848|0.848" frame="20"/>
+    <data pos="19.4|144.65" rotation="-22" scale="0.848|0.848" frame="21"/>
+    <data pos="16.5|145.45" rotation="-21" scale="0.848|0.848" frame="22"/>
+    <data pos="12.95|146.3" rotation="-19" scale="0.848|0.848" frame="23"/>
+    <data pos="8.75|147.4" rotation="-18" scale="0.848|0.848" frame="24"/>
+    <data pos="3.9|148.65" rotation="-16" scale="0.848|0.848" frame="25"/>
+    <data pos="-1.6|150.05" rotation="-14" scale="0.848|0.848" frame="26"/>
+    <data pos="-7.7|151.7" rotation="-12" scale="0.848|0.848" frame="27"/>
+    <data pos="-14.55|153.45" rotation="-9" scale="0.849|0.849" frame="28"/>
+    <data pos="-11.3|149.9" rotation="-13" scale="0.848|0.848" frame="29"/>
+    <data pos="-8.15|146.35" rotation="-16" scale="0.848|0.848" frame="30"/>
+    <data pos="-4.95|142.75" rotation="-20" scale="0.848|0.848" frame="31"/>
+    <data pos="-1.8|139.15" rotation="-23" scale="0.848|0.848" frame="32"/>
+    <data pos="1.45|135.55" rotation="-27" scale="0.849|0.849" frame="33"/>
+    <data pos="0.9|136.1" rotation="-26" scale="0.848|0.848" frame="34"/>
+    <data pos="0.35|136.65" rotation="-26" scale="0.849|0.849" frame="35"/>
+    <data pos="0.45|136.65" rotation="-26" scale="0.848|0.848" frame="36"/>
+  </armDownL>
+  <armUpL>
+    <data pos="102.5|230" rotation="-14" scale="1.581|1.581" frame="1"/>
+    <data pos="101.5|231.15" rotation="-13" scale="1.580|1.580" frame="2"/>
+    <data pos="100.15|232.75" rotation="-12" scale="1.580|1.580" frame="3"/>
+    <data pos="98.35|234.75" rotation="-10" scale="1.580|1.580" frame="4"/>
+    <data pos="96.15|237.25" rotation="-8" scale="1.581|1.581" frame="5"/>
+    <data pos="93.55|240.1" rotation="-6" scale="1.581|1.581" frame="6"/>
+    <data pos="90.55|243.55" rotation="-3" scale="1.581|1.581" frame="7"/>
+    <data pos="87.1|247.35" rotation="0" scale="1.582|1.582" frame="8"/>
+    <data pos="83.25|251.65" rotation="3" scale="1.582|1.582" frame="9"/>
+    <data pos="79.05|256.3" rotation="6" scale="1.582|1.582" frame="10"/>
+    <data pos="85.3|252.25" rotation="4" scale="1.582|1.582" frame="11"/>
+    <data pos="91.55|248.2" rotation="2" scale="1.582|1.582" frame="12"/>
+    <data pos="97.7|244.25" rotation="0" scale="1.582|1.582" frame="13"/>
+    <data pos="104|240.2" rotation="-2" scale="1.582|1.582" frame="14"/>
+    <data pos="110.25|236.2" rotation="-5" scale="1.582|1.582" frame="15"/>
+    <data pos="110.25|236.1" rotation="-5" scale="1.582|1.582" frame="16"/>
+    <data pos="110.25|236.2" rotation="-5" scale="1.582|1.582" frame="17"/>
+    <data pos="109.85|236.3" rotation="-5" scale="1.582|1.582" frame="18"/>
+    <data pos="108.9|236.9" rotation="-5" scale="1.582|1.582" frame="19"/>
+    <data pos="107.1|237.85" rotation="-5" scale="1.582|1.582" frame="20"/>
+    <data pos="104.8|239.3" rotation="-4" scale="1.582|1.582" frame="21"/>
+    <data pos="101.65|241.1" rotation="-4" scale="1.582|1.582" frame="22"/>
+    <data pos="97.95|243.2" rotation="-4" scale="1.582|1.582" frame="23"/>
+    <data pos="93.4|245.75" rotation="-3" scale="1.582|1.582" frame="24"/>
+    <data pos="88.25|248.8" rotation="-3" scale="1.582|1.582" frame="25"/>
+    <data pos="82.45|252.15" rotation="-2" scale="1.582|1.582" frame="26"/>
+    <data pos="75.85|255.85" rotation="-1" scale="1.582|1.582" frame="27"/>
+    <data pos="68.7|260" rotation="-1" scale="1.582|1.582" frame="28"/>
+    <data pos="76.15|253.25" rotation="-4" scale="1.582|1.582" frame="29"/>
+    <data pos="83.65|246.55" rotation="-7" scale="1.582|1.582" frame="30"/>
+    <data pos="91.15|239.7" rotation="-10" scale="1.581|1.581" frame="31"/>
+    <data pos="98.65|233" rotation="-13" scale="1.581|1.581" frame="32"/>
+    <data pos="106.05|226.2" rotation="-16" scale="1.582|1.582" frame="33"/>
+    <data pos="104.75|227.6" rotation="-15" scale="1.581|1.581" frame="34"/>
+    <data pos="103.4|229.05" rotation="-15" scale="1.582|1.582" frame="35"/>
+    <data pos="103.1|229.35" rotation="-14" scale="1.581|1.581" frame="36"/>
+  </armUpL>
+  <legL>
+    <data pos="55.95|67.9" rotation="0" scale="0.472|0.472" frame="1"/>
+    <data pos="50.2|68" rotation="0" scale="0.472|0.472" frame="2"/>
+    <data pos="44.4|68.1" rotation="0" scale="0.472|0.472" frame="3"/>
+    <data pos="38.65|68.2" rotation="0" scale="0.472|0.472" frame="4"/>
+    <data pos="32.85|68.25" rotation="0" scale="0.472|0.472" frame="5"/>
+    <data pos="27.1|68.35" rotation="0" scale="0.472|0.472" frame="6"/>
+    <data pos="21.35|68.45" rotation="0" scale="0.472|0.472" frame="7"/>
+    <data pos="15.55|68.55" rotation="0" scale="0.472|0.472" frame="8"/>
+    <data pos="9.8|68.65" rotation="0" scale="0.472|0.472" frame="9"/>
+    <data pos="4|68.75" rotation="0" scale="0.472|0.472" frame="10"/>
+    <data pos="-1.75|68.85" rotation="0" scale="0.472|0.472" frame="11"/>
+    <data pos="-7.5|68.95" rotation="0" scale="0.472|0.472" frame="12"/>
+    <data pos="-13.3|69" rotation="0" scale="0.472|0.472" frame="13"/>
+    <data pos="-19.05|69.1" rotation="0" scale="0.472|0.472" frame="14"/>
+    <data pos="-24.85|69.2" rotation="0" scale="0.472|0.472" frame="15"/>
+    <data pos="-30.6|69.3" rotation="0" scale="0.472|0.472" frame="16"/>
+    <data pos="-30.6|69.3" rotation="0" scale="0.472|0.472" frame="17"/>
+    <data pos="-29.8|69.65" rotation="0" scale="0.472|0.472" frame="18"/>
+    <data pos="-27.4|70.6" rotation="0" scale="0.472|0.472" frame="19"/>
+    <data pos="-23.4|72.25" rotation="0" scale="0.472|0.472" frame="20"/>
+    <data pos="-17.85|74.55" rotation="0" scale="0.472|0.472" frame="21"/>
+    <data pos="-10.65|77.5" rotation="1" scale="0.472|0.472" frame="22"/>
+    <data pos="-1.85|81.1" rotation="1" scale="0.472|0.472" frame="23"/>
+    <data pos="8.5|85.4" rotation="2" scale="0.472|0.472" frame="24"/>
+    <data pos="20.5|90.3" rotation="3" scale="0.472|0.472" frame="25"/>
+    <data pos="34.05|95.9" rotation="3" scale="0.472|0.472" frame="26"/>
+    <data pos="49.25|102.1" rotation="4" scale="0.472|0.472" frame="27"/>
+    <data pos="66|109" rotation="5" scale="0.472|0.472" frame="28"/>
+    <data pos="68.6|100.75" rotation="4" scale="0.472|0.472" frame="29"/>
+    <data pos="71.25|92.45" rotation="3" scale="0.472|0.472" frame="30"/>
+    <data pos="73.8|84.15" rotation="2" scale="0.472|0.472" frame="31"/>
+    <data pos="76.45|75.75" rotation="1" scale="0.472|0.472" frame="32"/>
+    <data pos="79.05|67.5" rotation="0" scale="0.472|0.472" frame="33"/>
+    <data pos="73.3|67.6" rotation="0" scale="0.472|0.472" frame="34"/>
+    <data pos="67.5|67.7" rotation="0" scale="0.472|0.472" frame="35"/>
+    <data pos="61.75|67.8" rotation="0" scale="0.472|0.472" frame="36"/>
+  </legL>
+  <bodyDown>
+    <data pos="35.5|109.45" rotation="2" scale="1.310|1.310" frame="1"/>
+    <data pos="35.65|110.55" rotation="3" scale="1.309|1.309" frame="2"/>
+    <data pos="35.85|112" rotation="4" scale="1.309|1.309" frame="3"/>
+    <data pos="36.05|113.85" rotation="5" scale="1.309|1.309" frame="4"/>
+    <data pos="36.3|116.1" rotation="6" scale="1.309|1.309" frame="5"/>
+    <data pos="36.65|118.8" rotation="7" scale="1.309|1.309" frame="6"/>
+    <data pos="37|121.9" rotation="9" scale="1.309|1.309" frame="7"/>
+    <data pos="37.3|125.45" rotation="11" scale="1.309|1.309" frame="8"/>
+    <data pos="37.8|129.25" rotation="13" scale="1.309|1.309" frame="9"/>
+    <data pos="38.25|133.6" rotation="16" scale="1.310|1.310" frame="10"/>
+    <data pos="38.9|127.15" rotation="13" scale="1.309|1.302" frame="11"/>
+    <data pos="39.5|120.95" rotation="10" scale="1.309|1.294" frame="12"/>
+    <data pos="40.1|114.6" rotation="7" scale="1.309|1.287" frame="13"/>
+    <data pos="40.75|108.35" rotation="5" scale="1.310|1.279" frame="14"/>
+    <data pos="41.45|101.95" rotation="2" scale="1.310|1.272" frame="15"/>
+    <data pos="41.45|108.7" rotation="2" scale="1.310|1.310" frame="16"/>
+    <data pos="41.45|113.2" rotation="2" scale="1.310|1.310" frame="17"/>
+    <data pos="41.4|113.45" rotation="2" scale="1.310|1.310" frame="18"/>
+    <data pos="41.25|114" rotation="2" scale="1.310|1.310" frame="19"/>
+    <data pos="41.05|115" rotation="3" scale="1.310|1.310" frame="20"/>
+    <data pos="40.7|116.3" rotation="4" scale="1.310|1.310" frame="21"/>
+    <data pos="40.35|118.05" rotation="5" scale="1.310|1.310" frame="22"/>
+    <data pos="39.85|120.2" rotation="7" scale="1.309|1.309" frame="23"/>
+    <data pos="39.25|122.7" rotation="9" scale="1.309|1.309" frame="24"/>
+    <data pos="38.6|125.5" rotation="11" scale="1.309|1.309" frame="25"/>
+    <data pos="37.85|128.8" rotation="13" scale="1.309|1.309" frame="26"/>
+    <data pos="37.05|132.4" rotation="16" scale="1.309|1.309" frame="27"/>
+    <data pos="36.05|136.4" rotation="19" scale="1.310|1.310" frame="28"/>
+    <data pos="35.85|128.1" rotation="15" scale="1.309|1.303" frame="29"/>
+    <data pos="35.6|119.75" rotation="11" scale="1.309|1.297" frame="30"/>
+    <data pos="35.35|111.4" rotation="8" scale="1.309|1.291" frame="31"/>
+    <data pos="35.2|103.05" rotation="4" scale="1.310|1.286" frame="32"/>
+    <data pos="35|94.7" rotation="1" scale="1.310|1.280" frame="33"/>
+    <data pos="35.15|101.7" rotation="1" scale="1.310|1.295" frame="34"/>
+    <data pos="35.4|108.65" rotation="2" scale="1.310|1.310" frame="35"/>
+    <data pos="35.5|108.85" rotation="2" scale="1.310|1.310" frame="36"/>
+  </bodyDown>
+  <legR>
+    <data pos="-88.45|79.65" rotation="0" scale="0.510|0.510" frame="1"/>
+    <data pos="-85.05|81.35" rotation="0" scale="0.510|0.510" frame="2"/>
+    <data pos="-80.4|83.75" rotation="1" scale="0.510|0.510" frame="3"/>
+    <data pos="-74.35|86.8" rotation="2" scale="0.510|0.510" frame="4"/>
+    <data pos="-67.05|90.55" rotation="4" scale="0.510|0.510" frame="5"/>
+    <data pos="-58.35|95" rotation="5" scale="0.510|0.510" frame="6"/>
+    <data pos="-48.25|100.2" rotation="7" scale="0.510|0.510" frame="7"/>
+    <data pos="-36.95|105.9" rotation="9" scale="0.510|0.510" frame="8"/>
+    <data pos="-24.25|112.35" rotation="11" scale="0.510|0.510" frame="9"/>
+    <data pos="-10.2|119.5" rotation="13" scale="0.510|0.510" frame="10"/>
+    <data pos="-6.85|112.95" rotation="9" scale="0.510|0.510" frame="11"/>
+    <data pos="-3.5|106.4" rotation="4" scale="0.510|0.510" frame="12"/>
+    <data pos="-0.1|99.9" rotation="0" scale="0.510|0.510" frame="13"/>
+    <data pos="6|87.7" rotation="0" scale="0.510|0.510" frame="14"/>
+    <data pos="12.05|75.5" rotation="0" scale="0.510|0.510" frame="15"/>
+    <data pos="9|76.15" rotation="0" scale="0.510|0.510" frame="16"/>
+    <data pos="5.95|76.85" rotation="0" scale="0.510|0.510" frame="17"/>
+    <data pos="-5.1|77" rotation="0" scale="0.510|0.510" frame="18"/>
+    <data pos="-15.45|77.15" rotation="0" scale="0.510|0.510" frame="19"/>
+    <data pos="-25.2|77.3" rotation="0" scale="0.510|0.510" frame="20"/>
+    <data pos="-34.2|77.45" rotation="0" scale="0.510|0.510" frame="21"/>
+    <data pos="-42.6|77.6" rotation="0" scale="0.510|0.510" frame="22"/>
+    <data pos="-50.3|77.7" rotation="0" scale="0.510|0.510" frame="23"/>
+    <data pos="-57.3|77.8" rotation="0" scale="0.510|0.510" frame="24"/>
+    <data pos="-63.7|77.9" rotation="0" scale="0.510|0.510" frame="25"/>
+    <data pos="-69.35|78" rotation="0" scale="0.510|0.510" frame="26"/>
+    <data pos="-74.4|78.05" rotation="0" scale="0.510|0.510" frame="27"/>
+    <data pos="-78.75|78.1" rotation="0" scale="0.510|0.510" frame="28"/>
+    <data pos="-82.45|78.15" rotation="0" scale="0.510|0.510" frame="29"/>
+    <data pos="-85.45|78.2" rotation="0" scale="0.510|0.510" frame="30"/>
+    <data pos="-87.8|78.25" rotation="0" scale="0.510|0.510" frame="31"/>
+    <data pos="-89.45|78.3" rotation="0" scale="0.510|0.510" frame="32"/>
+    <data pos="-90.45|78.3" rotation="0" scale="0.510|0.510" frame="33"/>
+    <data pos="-90.8|78.3" rotation="0" scale="0.510|0.510" frame="34"/>
+    <data pos="-91.1|78.3" rotation="0" scale="0.510|0.510" frame="35"/>
+    <data pos="-90.45|78.65" rotation="0" scale="0.510|0.510" frame="36"/>
+  </legR>
+  <armUpR>
+    <data pos="-54.05|243.7" rotation="-11" scale="1.581|1.581" frame="1"/>
+    <data pos="-55.25|243.95" rotation="-11" scale="1.580|1.580" frame="2"/>
+    <data pos="-57.1|244.35" rotation="-11" scale="1.580|1.580" frame="3"/>
+    <data pos="-59.55|244.75" rotation="-12" scale="1.580|1.580" frame="4"/>
+    <data pos="-62.45|245.25" rotation="-12" scale="1.580|1.580" frame="5"/>
+    <data pos="-65.9|245.95" rotation="-12" scale="1.581|1.581" frame="6"/>
+    <data pos="-69.85|246.65" rotation="-12" scale="1.581|1.581" frame="7"/>
+    <data pos="-74.4|247.45" rotation="-13" scale="1.581|1.581" frame="8"/>
+    <data pos="-79.4|248.35" rotation="-13" scale="1.581|1.581" frame="9"/>
+    <data pos="-85|249.4" rotation="-14" scale="1.582|1.582" frame="10"/>
+    <data pos="-78.3|249.9" rotation="-16" scale="1.581|1.581" frame="11"/>
+    <data pos="-71.5|250.45" rotation="-19" scale="1.581|1.581" frame="12"/>
+    <data pos="-64.8|251.1" rotation="-21" scale="1.581|1.581" frame="13"/>
+    <data pos="-57.95|251.65" rotation="-23" scale="1.580|1.580" frame="14"/>
+    <data pos="-51.2|252.2" rotation="-26" scale="1.582|1.582" frame="15"/>
+    <data pos="-51.25|252.15" rotation="-26" scale="1.580|1.580" frame="16"/>
+    <data pos="-51.2|252.2" rotation="-26" scale="1.582|1.582" frame="17"/>
+    <data pos="-51.5|252" rotation="-25" scale="1.580|1.580" frame="18"/>
+    <data pos="-52.35|251.8" rotation="-25" scale="1.580|1.580" frame="19"/>
+    <data pos="-53.8|251.25" rotation="-24" scale="1.580|1.580" frame="20"/>
+    <data pos="-55.85|250.45" rotation="-22" scale="1.581|1.581" frame="21"/>
+    <data pos="-58.5|249.5" rotation="-21" scale="1.581|1.581" frame="22"/>
+    <data pos="-61.55|248.35" rotation="-18" scale="1.581|1.581" frame="23"/>
+    <data pos="-65.35|247" rotation="-16" scale="1.581|1.581" frame="24"/>
+    <data pos="-69.75|245.4" rotation="-12" scale="1.581|1.581" frame="25"/>
+    <data pos="-74.6|243.65" rotation="-9" scale="1.582|1.582" frame="26"/>
+    <data pos="-80.15|241.6" rotation="-5" scale="1.582|1.582" frame="27"/>
+    <data pos="-86.2|239.45" rotation="-1" scale="1.582|1.582" frame="28"/>
+    <data pos="-79|240.2" rotation="-3" scale="1.582|1.582" frame="29"/>
+    <data pos="-71.85|240.95" rotation="-5" scale="1.582|1.582" frame="30"/>
+    <data pos="-64.6|241.7" rotation="-7" scale="1.582|1.582" frame="31"/>
+    <data pos="-57.4|242.5" rotation="-10" scale="1.581|1.581" frame="32"/>
+    <data pos="-50.15|243.35" rotation="-12" scale="1.582|1.582" frame="33"/>
+    <data pos="-51.55|243.4" rotation="-11" scale="1.581|1.581" frame="34"/>
+    <data pos="-53.1|243.45" rotation="-11" scale="1.582|1.582" frame="35"/>
+    <data pos="-53.3|243.45" rotation="-11" scale="1.581|1.581" frame="36"/>
+  </armUpR>
+  <armDownR>
+    <data pos="-112.15|133.45" rotation="-15" scale="0.899|0.899" frame="1"/>
+    <data pos="-113.65|133.75" rotation="-15" scale="0.898|0.898" frame="2"/>
+    <data pos="-115.8|134.3" rotation="-15" scale="0.898|0.898" frame="3"/>
+    <data pos="-118.6|134.95" rotation="-15" scale="0.898|0.898" frame="4"/>
+    <data pos="-122|135.8" rotation="-15" scale="0.898|0.898" frame="5"/>
+    <data pos="-125.95|136.75" rotation="-16" scale="0.898|0.898" frame="6"/>
+    <data pos="-130.55|137.9" rotation="-16" scale="0.899|0.899" frame="7"/>
+    <data pos="-135.75|139.15" rotation="-16" scale="0.899|0.899" frame="8"/>
+    <data pos="-141.7|140.5" rotation="-17" scale="0.899|0.899" frame="9"/>
+    <data pos="-148.1|142.1" rotation="-17" scale="0.900|0.900" frame="10"/>
+    <data pos="-145.45|145.65" rotation="-20" scale="0.899|0.899" frame="11"/>
+    <data pos="-142.9|149.3" rotation="-24" scale="0.899|0.899" frame="12"/>
+    <data pos="-140.3|152.9" rotation="-27" scale="0.898|0.898" frame="13"/>
+    <data pos="-137.7|156.55" rotation="-30" scale="0.898|0.898" frame="14"/>
+    <data pos="-135.15|160.2" rotation="-33" scale="0.900|0.900" frame="15"/>
+    <data pos="-135.15|160.15" rotation="-33" scale="0.898|0.898" frame="16"/>
+    <data pos="-135.15|160.2" rotation="-33" scale="0.900|0.900" frame="17"/>
+    <data pos="-135.05|159.8" rotation="-33" scale="0.898|0.898" frame="18"/>
+    <data pos="-134.75|158.8" rotation="-31" scale="0.898|0.898" frame="19"/>
+    <data pos="-134.3|157.25" rotation="-30" scale="0.898|0.898" frame="20"/>
+    <data pos="-133.6|154.95" rotation="-27" scale="0.898|0.898" frame="21"/>
+    <data pos="-132.7|152.05" rotation="-24" scale="0.899|0.899" frame="22"/>
+    <data pos="-131.75|148.4" rotation="-20" scale="0.899|0.899" frame="23"/>
+    <data pos="-130.45|144.15" rotation="-16" scale="0.899|0.899" frame="24"/>
+    <data pos="-128.95|139.3" rotation="-10" scale="0.899|0.899" frame="25"/>
+    <data pos="-127.35|133.65" rotation="-4" scale="0.899|0.899" frame="26"/>
+    <data pos="-125.45|127.55" rotation="1" scale="0.900|0.900" frame="27"/>
+    <data pos="-123.5|120.7" rotation="9" scale="0.900|0.900" frame="28"/>
+    <data pos="-120.8|123.45" rotation="3" scale="0.899|0.899" frame="29"/>
+    <data pos="-118.1|126.05" rotation="-1" scale="0.900|0.900" frame="30"/>
+    <data pos="-115.35|128.7" rotation="-6" scale="0.899|0.899" frame="31"/>
+    <data pos="-112.6|131.45" rotation="-12" scale="0.899|0.899" frame="32"/>
+    <data pos="-109.9|134.1" rotation="-17" scale="0.900|0.900" frame="33"/>
+    <data pos="-110.4|133.6" rotation="-16" scale="0.899|0.899" frame="34"/>
+    <data pos="-110.95|133.15" rotation="-14" scale="0.900|0.900" frame="35"/>
+    <data pos="-111.2|133.15" rotation="-14" scale="0.899|0.899" frame="36"/>
+  </armDownR>
+  <E_FLASH_2>
+    <data pos="-146.35|165.1" rotation="-13" scale="0.899|0.899" frame="2" v="0"/>
+  </E_FLASH_2>
+  <E_FLASH_3>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="2" v="0"/>
+  </E_FLASH_3>		
+</act>	
+<act name="Attack" totalFrame="33">
+  <shadow>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="1"/>
+    <data pos="-9.65|22.85" rotation="0" scale="0.767|0.767" frame="2"/>
+    <data pos="-15.9|22.85" rotation="0" scale="0.767|0.767" frame="3"/>
+    <data pos="-22.15|22.85" rotation="0" scale="0.767|0.767" frame="4"/>
+    <data pos="-28.4|22.85" rotation="0" scale="0.767|0.767" frame="5"/>
+    <data pos="-34.65|22.85" rotation="0" scale="0.767|0.767" frame="6"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="7"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="8"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="9"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="10"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="11"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="12"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="13"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="14"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="15"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="16"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="17"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="18"/>
+    <data pos="-40.9|22.85" rotation="0" scale="0.767|0.767" frame="19"/>
+    <data pos="-22.15|22.85" rotation="0" scale="0.767|0.767" frame="20"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="21"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="22"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="23"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="24"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="25"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="26"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="27"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="28"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="29"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="30"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="31"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="32"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="33"/>
+  </shadow>
+  <ADD_3>
+    <data pos="-81.6|205.7" rotation="94" scale="0.811|0.811" frame="1"/>
+    <data pos="-90.5|208.35" rotation="95" scale="0.810|0.810" frame="2"/>
+    <data pos="-99.55|210.95" rotation="96" scale="0.810|0.810" frame="3"/>
+    <data pos="-108.5|213.55" rotation="96" scale="0.810|0.810" frame="4"/>
+    <data pos="-117.45|216.25" rotation="97" scale="0.811|0.811" frame="5"/>
+    <data pos="-124.65|216.25" rotation="97" scale="0.810|0.810" frame="6"/>
+    <data pos="-131.85|216.25" rotation="97" scale="0.811|0.811" frame="7"/>
+    <data pos="-145.4|215.5" rotation="97" scale="0.810|0.810" frame="8"/>
+    <data pos="-159.05|214.65" rotation="96" scale="0.811|0.811" frame="9"/>
+    <data pos="-141.45|217.05" rotation="96" scale="0.811|0.754" frame="10"/>
+    <data pos="-159.05|214.65" rotation="96" scale="0.811|0.811" frame="11"/>
+    <data pos="-141.45|217.05" rotation="96" scale="0.811|0.754" frame="12"/>
+    <data pos="-159.05|214.65" rotation="96" scale="0.811|0.811" frame="13"/>
+    <data pos="-141.45|217.05" rotation="96" scale="0.811|0.754" frame="14"/>
+    <data pos="-159.05|214.65" rotation="96" scale="0.811|0.811" frame="15"/>
+    <data pos="-141.45|217.05" rotation="96" scale="0.811|0.754" frame="16"/>
+    <data pos="-159.05|214.65" rotation="96" scale="0.811|0.811" frame="17"/>
+    <data pos="-141.45|217.05" rotation="96" scale="0.811|0.754" frame="18"/>
+    <data pos="-142.25|216.25" rotation="96" scale="0.811|0.811" frame="19"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="20"/>
+    <data pos="-41.25|152.7" rotation="95" scale="0.811|0.811" frame="21"/>
+    <data pos="-46.85|161.5" rotation="95" scale="0.811|0.811" frame="22"/>
+    <data pos="-52.45|168.7" rotation="95" scale="0.811|0.811" frame="23"/>
+    <data pos="-46.05|169.5" rotation="95" scale="0.811|0.811" frame="24"/>
+    <data pos="-41.25|169.5" rotation="95" scale="0.811|0.811" frame="25"/>
+    <data pos="-35.65|169.5" rotation="95" scale="0.811|0.811" frame="26"/>
+    <data pos="-42.1|173.3" rotation="95" scale="0.810|0.810" frame="27"/>
+    <data pos="-48.5|177.1" rotation="95" scale="0.810|0.810" frame="28"/>
+    <data pos="-54.9|180.9" rotation="95" scale="0.810|0.810" frame="29"/>
+    <data pos="-61.25|184.7" rotation="95" scale="0.811|0.811" frame="30"/>
+    <data pos="-68.1|191.65" rotation="95" scale="0.810|0.810" frame="31"/>
+    <data pos="-74.9|198.7" rotation="95" scale="0.810|0.810" frame="32"/>
+    <data pos="-81.6|205.7" rotation="94" scale="0.811|0.811" frame="33"/>
+  </ADD_3>
+  <ADD_2>
+    <data pos="-26.25|232.7" rotation="-16" scale="1.000|1.000" frame="1"/>
+    <data pos="-49.35|235.25" rotation="-16" scale="0.999|0.999" frame="2"/>
+    <data pos="-72.45|237.8" rotation="-16" scale="0.999|0.999" frame="3"/>
+    <data pos="-95.5|240.4" rotation="-16" scale="0.999|0.999" frame="4"/>
+    <data pos="-118.65|242.95" rotation="-17" scale="1.000|1.000" frame="5"/>
+    <data pos="-126.65|244.1" rotation="-16" scale="0.999|0.999" frame="6"/>
+    <data pos="-134.65|245.35" rotation="-16" scale="1.000|1.000" frame="7"/>
+    <data pos="-119.8|244.15" rotation="-15" scale="0.999|0.999" frame="8"/>
+    <data pos="-105.05|242.95" rotation="-14" scale="1.000|1.000" frame="9"/>
+    <data pos="-133.95|241.8" rotation="-16" scale="1.085|1.000" frame="10"/>
+    <data pos="-117.15|243.4" rotation="-15" scale="0.921|1.000" frame="11"/>
+    <data pos="-133.95|241.8" rotation="-16" scale="1.085|1.000" frame="12"/>
+    <data pos="-117.15|243.4" rotation="-15" scale="0.921|1.000" frame="13"/>
+    <data pos="-133.95|241.8" rotation="-16" scale="1.085|1.000" frame="14"/>
+    <data pos="-117.15|243.4" rotation="-15" scale="0.921|1.000" frame="15"/>
+    <data pos="-133.95|241.8" rotation="-16" scale="1.085|1.000" frame="16"/>
+    <data pos="-117.15|243.4" rotation="-15" scale="0.921|1.000" frame="17"/>
+    <data pos="-133.95|241.8" rotation="-16" scale="1.085|1.000" frame="18"/>
+    <data pos="-128.35|245" rotation="-15" scale="1.004|1.000" frame="19"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="20"/>
+    <data pos="13.05|175" rotation="-17" scale="1.004|1.000" frame="21"/>
+    <data pos="-5.7|186" rotation="-17" scale="1.004|1.000" frame="22"/>
+    <data pos="-24.05|194.55" rotation="-17" scale="1.004|1.000" frame="23"/>
+    <data pos="-31.35|197.4" rotation="-17" scale="1.004|1.000" frame="24"/>
+    <data pos="-38.25|199" rotation="-17" scale="1.004|1.000" frame="25"/>
+    <data pos="-43.2|195.5" rotation="-19" scale="1.034|1.000" frame="26"/>
+    <data pos="-40.8|200.85" rotation="-18" scale="1.013|0.999" frame="27"/>
+    <data pos="-38.3|206.1" rotation="-18" scale="0.993|0.999" frame="28"/>
+    <data pos="-35.95|211.35" rotation="-17" scale="0.973|0.998" frame="29"/>
+    <data pos="-33.45|216.7" rotation="-17" scale="0.954|0.999" frame="30"/>
+    <data pos="-31|222" rotation="-17" scale="0.968|0.998" frame="31"/>
+    <data pos="-28.6|227.35" rotation="-16" scale="0.984|0.999" frame="32"/>
+    <data pos="-26.25|232.7" rotation="-16" scale="1.000|1.000" frame="33"/>
+  </ADD_2>
+  <ADD_1>
+    <data pos="-25.35|287.6" rotation="-42" scale="0.800|0.800" frame="1"/>
+    <data pos="-35.35|286.85" rotation="-42" scale="0.779|0.798" frame="2"/>
+    <data pos="-45.3|286" rotation="-42" scale="0.759|0.798" frame="3"/>
+    <data pos="-55.25|285.2" rotation="-42" scale="0.740|0.798" frame="4"/>
+    <data pos="-65.25|284.3" rotation="-42" scale="0.720|0.798" frame="5"/>
+    <data pos="-75.15|283.55" rotation="-42" scale="0.701|0.797" frame="6"/>
+    <data pos="-85.2|282.75" rotation="-43" scale="0.682|0.798" frame="7"/>
+    <data pos="-95.2|290.4" rotation="-42" scale="0.740|0.798" frame="8"/>
+    <data pos="-105.25|298.2" rotation="-42" scale="0.800|0.800" frame="9"/>
+    <data pos="-88.15|281.05" rotation="-42" scale="0.674|0.800" frame="10"/>
+    <data pos="-106.05|294.95" rotation="-42" scale="0.820|0.800" frame="11"/>
+    <data pos="-88.15|281.05" rotation="-42" scale="0.674|0.800" frame="12"/>
+    <data pos="-106.05|294.95" rotation="-42" scale="0.820|0.800" frame="13"/>
+    <data pos="-88.15|281.05" rotation="-42" scale="0.674|0.800" frame="14"/>
+    <data pos="-106.05|294.95" rotation="-42" scale="0.820|0.800" frame="15"/>
+    <data pos="-88.15|281.05" rotation="-42" scale="0.674|0.800" frame="16"/>
+    <data pos="-106.05|294.95" rotation="-42" scale="0.820|0.800" frame="17"/>
+    <data pos="-88.15|281.05" rotation="-42" scale="0.674|0.800" frame="18"/>
+    <data pos="-93.25|285.35" rotation="-42" scale="0.726|0.800" frame="19"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="20"/>
+    <data pos="14.25|233.05" rotation="-42" scale="0.804|0.800" frame="21"/>
+    <data pos="9.45|234.65" rotation="-43" scale="0.799|0.800" frame="22"/>
+    <data pos="-0.15|241.05" rotation="-43" scale="0.758|0.786" frame="23"/>
+    <data pos="7.85|236.25" rotation="-43" scale="0.758|0.772" frame="24"/>
+    <data pos="7.85|236.25" rotation="-43" scale="0.678|0.781" frame="25"/>
+    <data pos="14.25|226.65" rotation="-45" scale="0.678|0.781" frame="26"/>
+    <data pos="8.6|235.35" rotation="-44" scale="0.694|0.783" frame="27"/>
+    <data pos="2.9|244.05" rotation="-44" scale="0.712|0.785" frame="28"/>
+    <data pos="-2.7|252.75" rotation="-44" scale="0.729|0.788" frame="29"/>
+    <data pos="-8.45|261.45" rotation="-43" scale="0.747|0.791" frame="30"/>
+    <data pos="-14.15|270.2" rotation="-43" scale="0.764|0.793" frame="31"/>
+    <data pos="-19.7|278.9" rotation="-42" scale="0.781|0.796" frame="32"/>
+    <data pos="-25.35|287.6" rotation="-42" scale="0.800|0.800" frame="33"/>
+  </ADD_1>
+  <E_ADD_3>
+    <data pos="-81.6|205.7" rotation="94" scale="0.811|0.811" frame="1" v="0"/>
+    <data pos="-90.5|208.35" rotation="95" scale="0.810|0.810" frame="2" v="0"/>
+    <data pos="-99.55|210.95" rotation="96" scale="0.810|0.810" frame="3" v="0"/>
+    <data pos="-108.5|213.55" rotation="96" scale="0.810|0.810" frame="4" v="0"/>
+    <data pos="-117.45|216.25" rotation="97" scale="0.811|0.811" frame="5" v="0"/>
+    <data pos="-124.65|216.25" rotation="97" scale="0.810|0.810" frame="6" v="0"/>
+    <data pos="-131.85|216.25" rotation="97" scale="0.811|0.811" frame="7" v="0"/>
+    <data pos="-145.4|215.5" rotation="97" scale="0.810|0.810" frame="8" v="0"/>
+    <data pos="-159.05|214.65" rotation="96" scale="0.811|0.811" frame="9" v="0"/>
+    <data pos="-141.45|217.05" rotation="96" scale="0.811|0.754" frame="10"/>
+    <data pos="-159.05|214.65" rotation="96" scale="0.811|0.811" frame="11"/>
+    <data pos="-141.45|217.05" rotation="96" scale="0.811|0.754" frame="12"/>
+    <data pos="-159.05|214.65" rotation="96" scale="0.811|0.811" frame="13"/>
+    <data pos="-141.45|217.05" rotation="96" scale="0.811|0.754" frame="14"/>
+    <data pos="-159.05|214.65" rotation="96" scale="0.811|0.811" frame="15"/>
+    <data pos="-141.45|217.05" rotation="96" scale="0.811|0.754" frame="16"/>
+    <data pos="-159.05|214.65" rotation="96" scale="0.811|0.811" frame="17"/>
+    <data pos="-141.45|217.05" rotation="96" scale="0.811|0.754" frame="18"/>
+    <data pos="-142.25|216.25" rotation="96" scale="0.811|0.811" frame="19"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="20" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="21" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="22" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="23" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="24" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="25" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="26" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="27" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="28" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="29" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="30" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="31" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="32" v="0"/>
+    <data pos="-101.15|194.65" rotation="96" scale="0.811|0.811" frame="33" v="0"/>
+  </E_ADD_3>
+  <E_ADD_2>
+    <data pos="-26.25|232.7" rotation="-16" scale="1.000|1.000" frame="1" v="0"/>
+    <data pos="-49.35|235.25" rotation="-16" scale="0.999|0.999" frame="2" v="0"/>
+    <data pos="-72.45|237.8" rotation="-16" scale="0.999|0.999" frame="3" v="0"/>
+    <data pos="-95.5|240.4" rotation="-16" scale="0.999|0.999" frame="4" v="0"/>
+    <data pos="-118.65|242.95" rotation="-17" scale="1.000|1.000" frame="5" v="0"/>
+    <data pos="-126.65|244.1" rotation="-16" scale="0.999|0.999" frame="6" v="0"/>
+    <data pos="-134.65|245.35" rotation="-16" scale="1.000|1.000" frame="7" v="0"/>
+    <data pos="-119.8|244.15" rotation="-15" scale="0.999|0.999" frame="8" v="0"/>
+    <data pos="-105.05|242.95" rotation="-14" scale="1.000|1.000" frame="9" v="0"/>
+    <data pos="-133.95|241.8" rotation="-16" scale="1.085|1.000" frame="10"/>
+    <data pos="-117.15|243.4" rotation="-15" scale="0.921|1.000" frame="11"/>
+    <data pos="-133.95|241.8" rotation="-16" scale="1.085|1.000" frame="12"/>
+    <data pos="-117.15|243.4" rotation="-15" scale="0.921|1.000" frame="13"/>
+    <data pos="-133.95|241.8" rotation="-16" scale="1.085|1.000" frame="14"/>
+    <data pos="-117.15|243.4" rotation="-15" scale="0.921|1.000" frame="15"/>
+    <data pos="-133.95|241.8" rotation="-16" scale="1.085|1.000" frame="16"/>
+    <data pos="-117.15|243.4" rotation="-15" scale="0.921|1.000" frame="17"/>
+    <data pos="-133.95|241.8" rotation="-16" scale="1.085|1.000" frame="18"/>
+    <data pos="-128.35|245" rotation="-15" scale="1.004|1.000" frame="19"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="20" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="21" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="22" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="23" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="24" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="25" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="26" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="27" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="28" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="29" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="30" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="31" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="32" v="0"/>
+    <data pos="-80.7|218.6" rotation="-17" scale="1.004|1.000" frame="33" v="0"/>
+  </E_ADD_2>
+  <E_ADD_1>
+    <data pos="-25.35|287.6" rotation="-42" scale="0.800|0.800" frame="1" v="0"/>
+    <data pos="-35.25|286.9" rotation="-42" scale="0.779|0.798" frame="2" v="0"/>
+    <data pos="-45.25|286" rotation="-42" scale="0.759|0.797" frame="3" v="0"/>
+    <data pos="-55.2|285.2" rotation="-42" scale="0.739|0.797" frame="4" v="0"/>
+    <data pos="-65.25|284.35" rotation="-42" scale="0.720|0.798" frame="5" v="0"/>
+    <data pos="-75.2|283.55" rotation="-42" scale="0.700|0.797" frame="6" v="0"/>
+    <data pos="-85.2|282.75" rotation="-43" scale="0.682|0.798" frame="7" v="0"/>
+    <data pos="-95.2|290.4" rotation="-42" scale="0.740|0.798" frame="8" v="0"/>
+    <data pos="-105.25|298.2" rotation="-42" scale="0.800|0.800" frame="9" v="0"/>
+    <data pos="-88.15|281.05" rotation="-42" scale="0.674|0.800" frame="10"/>
+    <data pos="-106.05|294.95" rotation="-42" scale="0.820|0.800" frame="11"/>
+    <data pos="-88.15|281.05" rotation="-42" scale="0.674|0.800" frame="12"/>
+    <data pos="-106.05|294.95" rotation="-42" scale="0.820|0.800" frame="13"/>
+    <data pos="-88.15|281.05" rotation="-42" scale="0.674|0.800" frame="14"/>
+    <data pos="-106.05|294.95" rotation="-42" scale="0.820|0.800" frame="15"/>
+    <data pos="-88.15|281.05" rotation="-42" scale="0.674|0.800" frame="16"/>
+    <data pos="-106.05|294.95" rotation="-42" scale="0.820|0.800" frame="17"/>
+    <data pos="-88.15|281.05" rotation="-42" scale="0.674|0.800" frame="18"/>
+    <data pos="-93.25|285.35" rotation="-42" scale="0.726|0.800" frame="19"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="20" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="21" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="22" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="23" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="24" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="25" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="26" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="27" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="28" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="29" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="30" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="31" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="32" v="0"/>
+    <data pos="-51.35|263.45" rotation="-42" scale="0.740|0.800" frame="33" v="0"/>
+  </E_ADD_1>
+  <E_FLASH_1>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="1"/>
+    <data pos="-76.2|249.75" rotation="-26" scale="1.395|1.395" frame="2"/>
+    <data pos="-88.6|250.85" rotation="-26" scale="1.395|1.395" frame="3"/>
+    <data pos="-100.95|251.9" rotation="-26" scale="1.395|1.395" frame="4"/>
+    <data pos="-113.3|253" rotation="-26" scale="1.395|1.395" frame="5"/>
+    <data pos="-125.7|254.1" rotation="-26" scale="1.395|1.395" frame="6"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="7"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="8"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="9"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="10"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="11"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="12"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="13"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="14"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="15"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="16"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="17"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="18"/>
+    <data pos="-138.1|255.2" rotation="-26" scale="1.397|1.397" frame="19"/>
+    <data pos="-99.75|231.55" rotation="-26" scale="1.397|1.397" frame="20"/>
+    <data pos="-27.2|190" rotation="-26" scale="1.397|1.397" frame="21"/>
+    <data pos="-35.2|201.2" rotation="-26" scale="1.397|1.397" frame="22"/>
+    <data pos="-46.4|207.6" rotation="-26" scale="1.397|1.397" frame="23"/>
+    <data pos="-46.4|207.6" rotation="-26" scale="1.397|1.397" frame="24"/>
+    <data pos="-46.4|207.6" rotation="-26" scale="1.397|1.397" frame="25"/>
+    <data pos="-46.4|207.6" rotation="-26" scale="1.397|1.397" frame="26"/>
+    <data pos="-48.95|213.4" rotation="-26" scale="1.395|1.395" frame="27"/>
+    <data pos="-51.45|219.3" rotation="-26" scale="1.395|1.395" frame="28"/>
+    <data pos="-53.95|225.15" rotation="-26" scale="1.395|1.395" frame="29"/>
+    <data pos="-56.45|231" rotation="-26" scale="1.395|1.395" frame="30"/>
+    <data pos="-58.95|236.85" rotation="-26" scale="1.395|1.395" frame="31"/>
+    <data pos="-61.45|242.75" rotation="-26" scale="1.395|1.395" frame="32"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="33"/>
+  </E_FLASH_1>
+  <armDownL>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="1"/>
+    <data pos="-7|143.95" rotation="-20" scale="0.848|0.848" frame="2"/>
+    <data pos="-4.6|139.85" rotation="-16" scale="0.848|0.848" frame="3"/>
+    <data pos="-2.55|136.45" rotation="-13" scale="0.848|0.848" frame="4"/>
+    <data pos="-0.85|133.65" rotation="-11" scale="0.848|0.848" frame="5"/>
+    <data pos="0.35|131.5" rotation="-9" scale="0.849|0.849" frame="6"/>
+    <data pos="1.35|129.85" rotation="-7" scale="0.849|0.849" frame="7"/>
+    <data pos="2|128.9" rotation="-6" scale="0.849|0.849" frame="8"/>
+    <data pos="2.15|128.6" rotation="-6" scale="0.849|0.849" frame="9"/>
+    <data pos="2.1|128.6" rotation="-6" scale="0.849|0.849" frame="10"/>
+    <data pos="2.1|128.6" rotation="-6" scale="0.849|0.849" frame="11"/>
+    <data pos="2.1|128.6" rotation="-6" scale="0.849|0.849" frame="12"/>
+    <data pos="2.1|128.6" rotation="-6" scale="0.849|0.849" frame="13"/>
+    <data pos="2.1|128.6" rotation="-6" scale="0.849|0.849" frame="14"/>
+    <data pos="2.1|128.6" rotation="-6" scale="0.849|0.849" frame="15"/>
+    <data pos="2.1|128.6" rotation="-6" scale="0.849|0.849" frame="16"/>
+    <data pos="2.1|128.6" rotation="-6" scale="0.849|0.849" frame="17"/>
+    <data pos="2.1|128.6" rotation="-6" scale="0.849|0.849" frame="18"/>
+    <data pos="2.15|128.6" rotation="-6" scale="0.849|0.849" frame="19"/>
+    <data pos="-2.3|135.95" rotation="-13" scale="0.848|0.848" frame="20"/>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="21"/>
+    <data pos="-9.75|148.45" rotation="-24" scale="0.848|0.848" frame="22"/>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="23"/>
+    <data pos="-9.75|148.45" rotation="-24" scale="0.848|0.848" frame="24"/>
+    <data pos="-9.75|148.45" rotation="-24" scale="0.848|0.848" frame="25"/>
+    <data pos="-9.75|148.45" rotation="-24" scale="0.848|0.848" frame="26"/>
+    <data pos="-9.75|148.45" rotation="-24" scale="0.848|0.848" frame="27"/>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="28"/>
+    <data pos="-9.75|148.45" rotation="-24" scale="0.848|0.848" frame="29"/>
+    <data pos="-9.75|148.45" rotation="-24" scale="0.848|0.848" frame="30"/>
+    <data pos="-9.75|148.45" rotation="-24" scale="0.848|0.848" frame="31"/>
+    <data pos="-9.75|148.45" rotation="-24" scale="0.848|0.848" frame="32"/>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="33"/>
+  </armDownL>
+  <armUpL>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="1"/>
+    <data pos="83.7|233.8" rotation="-7" scale="1.582|1.582" frame="2"/>
+    <data pos="76.85|231.7" rotation="-8" scale="1.582|1.582" frame="3"/>
+    <data pos="71.05|229.95" rotation="-9" scale="1.581|1.581" frame="4"/>
+    <data pos="66.3|228.45" rotation="-10" scale="1.581|1.581" frame="5"/>
+    <data pos="62.6|227.3" rotation="-11" scale="1.581|1.581" frame="6"/>
+    <data pos="59.95|226.5" rotation="-11" scale="1.581|1.581" frame="7"/>
+    <data pos="58.3|226.05" rotation="-12" scale="1.581|1.581" frame="8"/>
+    <data pos="57.7|225.8" rotation="-12" scale="1.582|1.582" frame="9"/>
+    <data pos="57.75|225.85" rotation="-12" scale="1.581|1.581" frame="10"/>
+    <data pos="57.75|225.85" rotation="-12" scale="1.581|1.581" frame="11"/>
+    <data pos="57.75|225.85" rotation="-12" scale="1.581|1.581" frame="12"/>
+    <data pos="57.75|225.85" rotation="-12" scale="1.581|1.581" frame="13"/>
+    <data pos="57.75|225.85" rotation="-12" scale="1.581|1.581" frame="14"/>
+    <data pos="57.75|225.85" rotation="-12" scale="1.581|1.581" frame="15"/>
+    <data pos="57.75|225.85" rotation="-12" scale="1.581|1.581" frame="16"/>
+    <data pos="57.75|225.85" rotation="-12" scale="1.581|1.581" frame="17"/>
+    <data pos="57.75|225.85" rotation="-12" scale="1.581|1.581" frame="18"/>
+    <data pos="57.7|225.8" rotation="-12" scale="1.582|1.582" frame="19"/>
+    <data pos="59.2|237.5" rotation="-9" scale="1.581|1.581" frame="20"/>
+    <data pos="61.1|254.25" rotation="-5" scale="1.582|1.582" frame="21"/>
+    <data pos="60.3|255.4" rotation="-5" scale="1.582|1.582" frame="22"/>
+    <data pos="59.6|256.5" rotation="-5" scale="1.582|1.582" frame="23"/>
+    <data pos="59.6|256.55" rotation="-5" scale="1.582|1.582" frame="24"/>
+    <data pos="59.6|256.55" rotation="-5" scale="1.582|1.582" frame="25"/>
+    <data pos="59.6|256.55" rotation="-5" scale="1.582|1.582" frame="26"/>
+    <data pos="59.6|256.55" rotation="-5" scale="1.582|1.582" frame="27"/>
+    <data pos="59.6|256.5" rotation="-5" scale="1.582|1.582" frame="28"/>
+    <data pos="66|252.5" rotation="-5" scale="1.582|1.582" frame="29"/>
+    <data pos="72.35|248.45" rotation="-5" scale="1.582|1.582" frame="30"/>
+    <data pos="78.75|244.35" rotation="-5" scale="1.582|1.582" frame="31"/>
+    <data pos="85.1|240.3" rotation="-5" scale="1.582|1.582" frame="32"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="33"/>
+  </armUpL>
+  <legL>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="1"/>
+    <data pos="33.75|69.3" rotation="0" scale="0.472|0.472" frame="2"/>
+    <data pos="31.45|69.3" rotation="0" scale="0.472|0.472" frame="3"/>
+    <data pos="29.45|69.3" rotation="0" scale="0.472|0.472" frame="4"/>
+    <data pos="27.85|69.3" rotation="0" scale="0.472|0.472" frame="5"/>
+    <data pos="26.6|69.3" rotation="0" scale="0.472|0.472" frame="6"/>
+    <data pos="25.65|69.3" rotation="0" scale="0.472|0.472" frame="7"/>
+    <data pos="25.1|69.3" rotation="0" scale="0.472|0.472" frame="8"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="9"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="10"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="11"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="12"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="13"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="14"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="15"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="16"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="17"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="18"/>
+    <data pos="24.9|69.3" rotation="0" scale="0.472|0.472" frame="19"/>
+    <data pos="29.2|69.3" rotation="0" scale="0.472|0.472" frame="20"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="21"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="22"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="23"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="24"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="25"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="26"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="27"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="28"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="29"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="30"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="31"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="32"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="33"/>
+  </legL>
+  <bodyDown>
+    <data pos="22.7|113.2" rotation="2" scale="1.310|1.310" frame="1"/>
+    <data pos="15|112.6" rotation="2" scale="1.310|1.310" frame="2"/>
+    <data pos="8.35|111.95" rotation="3" scale="1.310|1.310" frame="3"/>
+    <data pos="2.7|111.5" rotation="3" scale="1.310|1.310" frame="4"/>
+    <data pos="-1.95|111.05" rotation="3" scale="1.310|1.310" frame="5"/>
+    <data pos="-5.6|110.7" rotation="4" scale="1.310|1.310" frame="6"/>
+    <data pos="-8.2|110.55" rotation="4" scale="1.310|1.310" frame="7"/>
+    <data pos="-9.75|110.4" rotation="4" scale="1.310|1.310" frame="8"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="9"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="10"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="11"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="12"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="13"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="14"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="15"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="16"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="17"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="18"/>
+    <data pos="-10.4|110.35" rotation="4" scale="1.310|1.310" frame="19"/>
+    <data pos="9|99.7" rotation="3" scale="1.310|1.310" frame="20"/>
+    <data pos="41.45|81.75" rotation="2" scale="1.310|1.310" frame="21"/>
+    <data pos="38.9|84.4" rotation="2" scale="1.310|1.310" frame="22"/>
+    <data pos="36.25|86.95" rotation="2" scale="1.310|1.310" frame="23"/>
+    <data pos="36.25|87" rotation="2" scale="1.310|1.310" frame="24"/>
+    <data pos="36.25|87" rotation="2" scale="1.310|1.310" frame="25"/>
+    <data pos="36.25|87" rotation="2" scale="1.310|1.310" frame="26"/>
+    <data pos="36.25|87" rotation="2" scale="1.310|1.310" frame="27"/>
+    <data pos="36.25|86.95" rotation="2" scale="1.310|1.310" frame="28"/>
+    <data pos="33.55|92.25" rotation="2" scale="1.310|1.310" frame="29"/>
+    <data pos="30.85|97.5" rotation="2" scale="1.310|1.310" frame="30"/>
+    <data pos="28.1|102.75" rotation="2" scale="1.310|1.310" frame="31"/>
+    <data pos="25.4|108" rotation="2" scale="1.310|1.310" frame="32"/>
+    <data pos="22.7|113.2" rotation="2" scale="1.310|1.310" frame="33"/>
+  </bodyDown>
+  <legR>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="1"/>
+    <data pos="-76.5|78.95" rotation="3" scale="0.510|0.510" frame="2"/>
+    <data pos="-88.3|80.25" rotation="6" scale="0.510|0.510" frame="3"/>
+    <data pos="-92.4|80.7" rotation="7" scale="0.510|0.510" frame="4"/>
+    <data pos="-102.7|80.45" rotation="4" scale="0.510|0.510" frame="5"/>
+    <data pos="-113|80.2" rotation="2" scale="0.510|0.510" frame="6"/>
+    <data pos="-123.2|79.95" rotation="0" scale="0.510|0.510" frame="7"/>
+    <data pos="-122.55|78.4" rotation="0" scale="0.510|0.510" frame="8"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="9"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="10"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="11"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="12"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="13"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="14"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="15"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="16"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="17"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="18"/>
+    <data pos="-121.95|76.85" rotation="0" scale="0.510|0.510" frame="19"/>
+    <data pos="-89.45|76.85" rotation="0" scale="0.510|0.510" frame="20"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="21"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="22"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="23"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="24"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="25"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="26"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="27"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="28"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="29"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="30"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="31"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="32"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="33"/>
+  </legR>
+  <armUpR>
+    <data pos="-70.2|252.15" rotation="-7" scale="1.582|1.582" frame="1"/>
+    <data pos="-84.1|257.15" rotation="-21" scale="1.581|1.581" frame="2"/>
+    <data pos="-96.15|261.65" rotation="-33" scale="1.580|1.580" frame="3"/>
+    <data pos="-106.4|265.4" rotation="-43" scale="1.580|1.580" frame="4"/>
+    <data pos="-114.7|268.45" rotation="-52" scale="1.580|1.580" frame="5"/>
+    <data pos="-121.3|270.85" rotation="-58" scale="1.580|1.580" frame="6"/>
+    <data pos="-126.05|272.6" rotation="-63" scale="1.580|1.580" frame="7"/>
+    <data pos="-128.95|273.7" rotation="-66" scale="1.580|1.580" frame="8"/>
+    <data pos="-129.95|274" rotation="-67" scale="1.582|1.582" frame="9"/>
+    <data pos="-130|274" rotation="-67" scale="1.580|1.580" frame="10"/>
+    <data pos="-130|274" rotation="-67" scale="1.580|1.580" frame="11"/>
+    <data pos="-130|274" rotation="-67" scale="1.580|1.580" frame="12"/>
+    <data pos="-130|274" rotation="-67" scale="1.580|1.580" frame="13"/>
+    <data pos="-130|274" rotation="-67" scale="1.580|1.580" frame="14"/>
+    <data pos="-130|274" rotation="-67" scale="1.580|1.580" frame="15"/>
+    <data pos="-130|274" rotation="-67" scale="1.580|1.580" frame="16"/>
+    <data pos="-130|274" rotation="-67" scale="1.580|1.580" frame="17"/>
+    <data pos="-130|274" rotation="-67" scale="1.580|1.580" frame="18"/>
+    <data pos="-129.95|274" rotation="-67" scale="1.582|1.582" frame="19"/>
+    <data pos="-89.7|252.35" rotation="-17" scale="1.581|1.581" frame="20"/>
+    <data pos="-22.1|216.2" rotation="65" scale="1.582|1.582" frame="21"/>
+    <data pos="-24.6|218.8" rotation="65" scale="1.580|1.580" frame="22"/>
+    <data pos="-27.3|221.4" rotation="65" scale="1.582|1.582" frame="23"/>
+    <data pos="-27.3|221.45" rotation="65" scale="1.580|1.580" frame="24"/>
+    <data pos="-27.3|221.45" rotation="65" scale="1.580|1.580" frame="25"/>
+    <data pos="-27.3|221.45" rotation="65" scale="1.580|1.580" frame="26"/>
+    <data pos="-27.3|221.45" rotation="65" scale="1.580|1.580" frame="27"/>
+    <data pos="-27.3|221.4" rotation="65" scale="1.582|1.582" frame="28"/>
+    <data pos="-35.9|227.55" rotation="51" scale="1.580|1.580" frame="29"/>
+    <data pos="-44.4|233.7" rotation="36" scale="1.580|1.580" frame="30"/>
+    <data pos="-52.95|239.85" rotation="21" scale="1.581|1.581" frame="31"/>
+    <data pos="-61.55|246" rotation="6" scale="1.582|1.582" frame="32"/>
+    <data pos="-70.2|252.15" rotation="-7" scale="1.582|1.582" frame="33"/>
+  </armUpR>
+  <armDownR>
+    <data pos="-120.7|138.25" rotation="-14" scale="0.900|0.900" frame="1"/>
+    <data pos="-146.35|165.1" rotation="-13" scale="0.899|0.899" frame="2"/>
+    <data pos="-168.55|188.45" rotation="-11" scale="0.899|0.899" frame="3"/>
+    <data pos="-187.4|208.3" rotation="-10" scale="0.899|0.899" frame="4"/>
+    <data pos="-202.9|224.55" rotation="-9" scale="0.899|0.899" frame="5"/>
+    <data pos="-215|237.3" rotation="-8" scale="0.899|0.899" frame="6"/>
+    <data pos="-223.7|246.35" rotation="-7" scale="0.899|0.899" frame="7"/>
+    <data pos="-229.05|252.1" rotation="-7" scale="0.899|0.899" frame="8"/>
+    <data pos="-230.95|254.15" rotation="-6" scale="0.900|0.900" frame="9"/>
+    <data pos="-230.95|254.1" rotation="-6" scale="0.899|0.899" frame="10"/>
+    <data pos="-230.95|254.1" rotation="-6" scale="0.899|0.899" frame="11"/>
+    <data pos="-230.95|254.1" rotation="-6" scale="0.899|0.899" frame="12"/>
+    <data pos="-230.95|254.1" rotation="-6" scale="0.899|0.899" frame="13"/>
+    <data pos="-230.95|254.1" rotation="-6" scale="0.899|0.899" frame="14"/>
+    <data pos="-230.95|254.1" rotation="-6" scale="0.899|0.899" frame="15"/>
+    <data pos="-230.95|254.1" rotation="-6" scale="0.899|0.899" frame="16"/>
+    <data pos="-230.95|254.1" rotation="-6" scale="0.899|0.899" frame="17"/>
+    <data pos="-230.95|254.1" rotation="-6" scale="0.899|0.899" frame="18"/>
+    <data pos="-230.95|254.15" rotation="-6" scale="0.900|0.900" frame="19"/>
+    <data pos="-127.75|214.4" rotation="-10" scale="0.926|0.899" frame="20"/>
+    <data pos="87.45|131.7" rotation="-17" scale="0.982|0.900" frame="21"/>
+    <data pos="84.85|134.25" rotation="-16" scale="0.940|0.899" frame="22"/>
+    <data pos="82.25|136.9" rotation="-14" scale="0.900|0.900" frame="23"/>
+    <data pos="82.25|136.9" rotation="-14" scale="0.899|0.899" frame="24"/>
+    <data pos="82.25|136.9" rotation="-14" scale="0.899|0.899" frame="25"/>
+    <data pos="82.25|136.9" rotation="-14" scale="0.899|0.899" frame="26"/>
+    <data pos="82.25|136.9" rotation="-14" scale="0.899|0.899" frame="27"/>
+    <data pos="82.25|136.9" rotation="-14" scale="0.900|0.900" frame="28"/>
+    <data pos="41.65|137.15" rotation="-14" scale="0.899|0.899" frame="29"/>
+    <data pos="1.05|137.45" rotation="-14" scale="0.899|0.899" frame="30"/>
+    <data pos="-39.5|137.7" rotation="-14" scale="0.899|0.899" frame="31"/>
+    <data pos="-80.1|138" rotation="-14" scale="0.899|0.899" frame="32"/>
+    <data pos="-120.7|138.25" rotation="-14" scale="0.900|0.900" frame="33"/>
+  </armDownR>
+  <E_FLASH_2>
+    <data pos="-120.7|138.25" rotation="-14" scale="0.900|0.900" frame="1" v="0"/>
+    <data pos="-146.35|165.1" rotation="-13" scale="0.899|0.899" frame="2" v="0"/>
+    <data pos="-168.55|188.45" rotation="-11" scale="0.899|0.899" frame="3" v="0"/>
+    <data pos="-187.4|208.3" rotation="-10" scale="0.899|0.899" frame="4" v="0"/>
+    <data pos="-202.9|224.55" rotation="-9" scale="0.899|0.899" frame="5" v="0"/>
+    <data pos="-215|237.3" rotation="-8" scale="0.899|0.899" frame="6" v="0"/>
+    <data pos="-223.7|246.35" rotation="-7" scale="0.899|0.899" frame="7" v="0"/>
+    <data pos="-229.05|252.1" rotation="-7" scale="0.899|0.899" frame="8" v="0"/>
+    <data pos="-230.95|254.15" rotation="-6" scale="0.900|0.900" frame="9" v="0"/>
+    <data pos="-230.95|254.1" rotation="-6" scale="0.899|0.899" frame="10" v="0"/>
+    <data pos="-231|254.1" rotation="-6" scale="0.899|0.899" frame="11" v="0"/>
+    <data pos="-230.95|254.15" rotation="-6" scale="0.899|0.899" frame="12" v="0"/>
+    <data pos="-230.95|254.2" rotation="-6" scale="0.899|0.899" frame="13" v="0"/>
+    <data pos="-230.95|254.2" rotation="-6" scale="0.899|0.899" frame="14" v="0"/>
+    <data pos="-234.05|257.3" rotation="-6" scale="0.950|0.950" frame="15"/>
+    <data pos="-234.05|256.65" rotation="-6" scale="0.949|0.949" frame="16"/>
+    <data pos="-234.1|255.9" rotation="-6" scale="0.949|0.949" frame="17"/>
+    <data pos="-234.1|255.1" rotation="-6" scale="0.949|0.949" frame="18"/>
+    <data pos="-234.1|254.15" rotation="-6" scale="0.950|0.950" frame="19"/>
+    <data pos="-129.95|214.4" rotation="-10" scale="0.960|0.933" frame="20"/>
+    <data pos="87.45|131.7" rotation="-17" scale="0.982|0.900" frame="21"/>
+    <data pos="84.85|134.3" rotation="-15" scale="0.965|0.924" frame="22"/>
+    <data pos="82.25|136.9" rotation="-14" scale="0.949|0.949" frame="23"/>
+    <data pos="82.2|136.95" rotation="-14" scale="0.949|0.949" frame="24"/>
+    <data pos="82.25|136.9" rotation="-14" scale="0.899|0.899" frame="25" v="0"/>
+    <data pos="82.25|136.85" rotation="-14" scale="0.898|0.898" frame="26" v="0"/>
+    <data pos="82.25|136.8" rotation="-14" scale="0.899|0.899" frame="27" v="0"/>
+    <data pos="82.25|136.9" rotation="-14" scale="0.900|0.900" frame="28" v="0"/>
+    <data pos="41.65|137.15" rotation="-14" scale="0.899|0.899" frame="29" v="0"/>
+    <data pos="1.05|137.45" rotation="-14" scale="0.899|0.899" frame="30" v="0"/>
+    <data pos="-39.5|137.7" rotation="-14" scale="0.899|0.899" frame="31" v="0"/>
+    <data pos="-80.1|138" rotation="-14" scale="0.899|0.899" frame="32" v="0"/>
+    <data pos="-120.7|138.25" rotation="-14" scale="0.900|0.900" frame="33" v="0"/>
+  </E_FLASH_2>
+  <E_FLASH_3>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="1" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="2" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="3" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="4" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="5" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="6" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="7" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="8" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="9" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="10" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="11" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="12" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="13" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="14" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="15" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="16" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="17" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="18" v="0"/>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="19" v="0"/>
+    <data pos="-39.55|153.3" rotation="-33" scale="0.870|1.759" frame="20"/>
+    <data pos="62.5|133.25" rotation="-33" scale="2.271|1.774" frame="21"/>
+    <data pos="39.65|166.8" rotation="-36" scale="2.634|1.794" frame="22"/>
+    <data pos="39.65|166.8" rotation="-36" scale="2.634|0.925" frame="23"/>
+    <data pos="30.65|154.2" rotation="-33" scale="2.634|1.700" frame="24" v="0"/>
+    <data pos="30.65|154.2" rotation="-33" scale="2.634|1.700" frame="25" v="0"/>
+    <data pos="30.65|154.2" rotation="-33" scale="2.634|1.700" frame="26" v="0"/>
+    <data pos="30.65|154.2" rotation="-33" scale="2.634|1.700" frame="27" v="0"/>
+    <data pos="30.65|154.2" rotation="-33" scale="2.634|1.700" frame="28" v="0"/>
+    <data pos="30.65|154.2" rotation="-33" scale="2.634|1.700" frame="29" v="0"/>
+    <data pos="30.65|154.2" rotation="-33" scale="2.634|1.700" frame="30" v="0"/>
+    <data pos="30.65|154.2" rotation="-33" scale="2.634|1.700" frame="31" v="0"/>
+    <data pos="30.65|154.2" rotation="-33" scale="2.634|1.700" frame="32" v="0"/>
+    <data pos="30.65|154.2" rotation="-33" scale="2.634|1.700" frame="33" v="0"/>
+  </E_FLASH_3>
+</act>
+	
+<act name="Damage" totalFrame="30">
+  <shadow>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="1"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="2"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="3"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="4"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="5"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="6"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="7"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="8"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="9"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="10"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="11"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="12"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="13"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="14"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="15"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="16"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="17"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="18"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="19"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="20"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="21"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="22"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="23"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="24"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="25"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="26"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="27"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="28"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="29"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="30"/>
+  </shadow>
+  <ADD_3>
+    <data pos="-82.05|207.85" rotation="96" scale="0.811|0.811" frame="1"/>
+    <data pos="-76.6|208.45" rotation="96" scale="0.810|0.810" frame="2"/>
+    <data pos="-71.15|209.05" rotation="95" scale="0.810|0.810" frame="3"/>
+    <data pos="-65.75|209.7" rotation="95" scale="0.810|0.810" frame="4"/>
+    <data pos="-60.3|210.3" rotation="95" scale="0.810|0.810" frame="5"/>
+    <data pos="-66.45|211.05" rotation="95" scale="0.810|0.810" frame="6"/>
+    <data pos="-72.6|211.85" rotation="96" scale="0.810|0.810" frame="7"/>
+    <data pos="-78.8|212.55" rotation="96" scale="0.810|0.810" frame="8"/>
+    <data pos="-85.05|213.3" rotation="97" scale="0.810|0.810" frame="9"/>
+    <data pos="-91.15|214" rotation="97" scale="0.810|0.810" frame="10"/>
+    <data pos="-87.25|215.3" rotation="98" scale="0.810|0.810" frame="11"/>
+    <data pos="-83.25|216.65" rotation="98" scale="0.810|0.810" frame="12"/>
+    <data pos="-79.35|218" rotation="98" scale="0.810|0.810" frame="13"/>
+    <data pos="-75.4|219.25" rotation="99" scale="0.810|0.810" frame="14"/>
+    <data pos="-71.55|220.55" rotation="99" scale="0.811|0.811" frame="15"/>
+    <data pos="-75.3|219.55" rotation="99" scale="0.810|0.810" frame="16"/>
+    <data pos="-79.15|218.6" rotation="99" scale="0.810|0.810" frame="17"/>
+    <data pos="-82.85|217.65" rotation="99" scale="0.810|0.810" frame="18"/>
+    <data pos="-86.6|216.6" rotation="99" scale="0.810|0.810" frame="19"/>
+    <data pos="-90.3|215.6" rotation="99" scale="0.810|0.810" frame="20"/>
+    <data pos="-81.3|215.45" rotation="99" scale="0.809|0.809" frame="21"/>
+    <data pos="-72.3|215.3" rotation="98" scale="0.810|0.810" frame="22"/>
+    <data pos="-63.4|215.15" rotation="98" scale="0.810|0.810" frame="23"/>
+    <data pos="-54.35|215" rotation="98" scale="0.810|0.810" frame="24"/>
+    <data pos="-45.35|214.85" rotation="97" scale="0.810|0.810" frame="25"/>
+    <data pos="-52.75|213.45" rotation="97" scale="0.810|0.810" frame="26"/>
+    <data pos="-60.1|212.05" rotation="97" scale="0.810|0.810" frame="27"/>
+    <data pos="-67.35|210.7" rotation="96" scale="0.810|0.810" frame="28"/>
+    <data pos="-74.7|209.2" rotation="96" scale="0.810|0.810" frame="29"/>
+    <data pos="-82.05|207.85" rotation="96" scale="0.811|0.811" frame="30"/>
+  </ADD_3>
+  <ADD_2>
+    <data pos="-21.5|228.45" rotation="-18" scale="1.053|1.000" frame="1"/>
+    <data pos="-26.25|229.7" rotation="-17" scale="1.080|0.999" frame="2"/>
+    <data pos="-31.1|231.05" rotation="-17" scale="1.108|0.999" frame="3"/>
+    <data pos="-35.8|232.3" rotation="-17" scale="1.137|0.998" frame="4"/>
+    <data pos="-40.6|233.5" rotation="-17" scale="1.166|0.999" frame="5"/>
+    <data pos="-39.95|234.15" rotation="-16" scale="1.134|0.998" frame="6"/>
+    <data pos="-39.3|234.9" rotation="-16" scale="1.102|0.998" frame="7"/>
+    <data pos="-38.65|235.55" rotation="-16" scale="1.071|0.998" frame="8"/>
+    <data pos="-38|236.25" rotation="-16" scale="1.040|0.998" frame="9"/>
+    <data pos="-37.35|236.95" rotation="-15" scale="1.010|0.999" frame="10"/>
+    <data pos="-39.15|238" rotation="-15" scale="1.040|0.998" frame="11"/>
+    <data pos="-40.95|238.95" rotation="-15" scale="1.072|0.998" frame="12"/>
+    <data pos="-42.7|239.95" rotation="-15" scale="1.103|0.999" frame="13"/>
+    <data pos="-44.5|240.95" rotation="-14" scale="1.135|0.999" frame="14"/>
+    <data pos="-46.25|242" rotation="-14" scale="1.167|1.000" frame="15"/>
+    <data pos="-38.5|239.75" rotation="-14" scale="1.166|0.999" frame="16"/>
+    <data pos="-30.75|237.55" rotation="-14" scale="1.166|0.999" frame="17"/>
+    <data pos="-23|235.35" rotation="-14" scale="1.165|0.998" frame="18"/>
+    <data pos="-15.2|233.1" rotation="-14" scale="1.165|0.998" frame="19"/>
+    <data pos="-7.5|230.85" rotation="-14" scale="1.166|0.999" frame="20"/>
+    <data pos="-16.6|234.1" rotation="-14" scale="1.152|0.998" frame="21"/>
+    <data pos="-25.75|237.3" rotation="-15" scale="1.138|0.998" frame="22"/>
+    <data pos="-34.85|240.45" rotation="-15" scale="1.125|0.998" frame="23"/>
+    <data pos="-44.05|243.7" rotation="-16" scale="1.112|0.998" frame="24"/>
+    <data pos="-53.1|246.95" rotation="-16" scale="1.100|0.999" frame="25"/>
+    <data pos="-46.85|243.25" rotation="-16" scale="1.090|0.998" frame="26"/>
+    <data pos="-40.45|239.6" rotation="-17" scale="1.080|0.998" frame="27"/>
+    <data pos="-34.15|235.9" rotation="-17" scale="1.071|0.998" frame="28"/>
+    <data pos="-27.8|232.15" rotation="-17" scale="1.061|0.999" frame="29"/>
+    <data pos="-21.5|228.45" rotation="-18" scale="1.053|1.000" frame="30"/>
+  </ADD_2>
+  <ADD_1>
+    <data pos="-44.05|293" rotation="-47" scale="0.679|0.800" frame="1"/>
+    <data pos="-35.9|287.9" rotation="-47" scale="0.678|0.798" frame="2"/>
+    <data pos="-27.75|282.9" rotation="-46" scale="0.678|0.798" frame="3"/>
+    <data pos="-19.65|277.9" rotation="-46" scale="0.677|0.797" frame="4"/>
+    <data pos="-11.5|272.85" rotation="-46" scale="0.678|0.798" frame="5"/>
+    <data pos="-19.15|278.9" rotation="-45" scale="0.677|0.797" frame="6"/>
+    <data pos="-26.75|284.9" rotation="-45" scale="0.677|0.797" frame="7"/>
+    <data pos="-34.35|290.95" rotation="-44" scale="0.677|0.797" frame="8"/>
+    <data pos="-41.95|296.95" rotation="-44" scale="0.677|0.797" frame="9"/>
+    <data pos="-49.6|303" rotation="-43" scale="0.678|0.798" frame="10"/>
+    <data pos="-45.25|299.7" rotation="-43" scale="0.677|0.797" frame="11"/>
+    <data pos="-40.75|296.5" rotation="-43" scale="0.677|0.797" frame="12"/>
+    <data pos="-36.35|293.35" rotation="-42" scale="0.678|0.798" frame="13"/>
+    <data pos="-31.9|290.1" rotation="-42" scale="0.678|0.798" frame="14"/>
+    <data pos="-27.5|286.85" rotation="-42" scale="0.679|0.800" frame="15"/>
+    <data pos="-31.2|289.9" rotation="-42" scale="0.678|0.798" frame="16"/>
+    <data pos="-35|292.85" rotation="-42" scale="0.677|0.798" frame="17"/>
+    <data pos="-38.65|295.95" rotation="-42" scale="0.677|0.797" frame="18"/>
+    <data pos="-42.45|298.85" rotation="-42" scale="0.677|0.797" frame="19"/>
+    <data pos="-46.2|301.9" rotation="-42" scale="0.678|0.798" frame="20"/>
+    <data pos="-39.15|296.4" rotation="-42" scale="0.676|0.796" frame="21"/>
+    <data pos="-32.2|290.85" rotation="-43" scale="0.676|0.796" frame="22"/>
+    <data pos="-25.2|285.35" rotation="-43" scale="0.676|0.796" frame="23"/>
+    <data pos="-18.15|279.75" rotation="-44" scale="0.676|0.796" frame="24"/>
+    <data pos="-11.2|274.3" rotation="-45" scale="0.677|0.798" frame="25"/>
+    <data pos="-17.75|278.1" rotation="-45" scale="0.677|0.797" frame="26"/>
+    <data pos="-24.35|281.8" rotation="-46" scale="0.677|0.797" frame="27"/>
+    <data pos="-30.95|285.5" rotation="-46" scale="0.677|0.798" frame="28"/>
+    <data pos="-37.5|289.25" rotation="-47" scale="0.678|0.798" frame="29"/>
+    <data pos="-44.05|293" rotation="-47" scale="0.679|0.800" frame="30"/>
+  </ADD_1>
+  <E_ADD_3>
+    <data pos="-90.5|208.35" rotation="95" scale="0.810|0.810" frame="2" v="0"/>
+  </E_ADD_3>
+  <E_ADD_2>
+    <data pos="-49.35|235.25" rotation="-16" scale="0.999|0.999" frame="2" v="0"/>
+  </E_ADD_2>
+  <E_ADD_1>
+    <data pos="-35.25|286.9" rotation="-42" scale="0.779|0.798" frame="2" v="0"/>
+  </E_ADD_1>		
+  <E_FLASH_1>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="1"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="2"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="3"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="4"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="5"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="6"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="7"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="8"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="9"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="10"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="11"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="12"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="13"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="14"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="15"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="16"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="17"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="18"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="19"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="20"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="21"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="22"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="23"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="24"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="25"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="26"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="27"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="28"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="29"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="30"/>
+  </E_FLASH_1>
+  <armDownL>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="1"/>
+    <data pos="-10.7|148.25" rotation="-24" scale="0.848|0.848" frame="2"/>
+    <data pos="-11.6|147.95" rotation="-24" scale="0.848|0.848" frame="3"/>
+    <data pos="-12.45|147.65" rotation="-23" scale="0.848|0.848" frame="4"/>
+    <data pos="-13.25|147.45" rotation="-23" scale="0.848|0.848" frame="5"/>
+    <data pos="-13.95|147.2" rotation="-23" scale="0.847|0.847" frame="6"/>
+    <data pos="-14.65|147.1" rotation="-22" scale="0.847|0.847" frame="7"/>
+    <data pos="-15.15|146.8" rotation="-22" scale="0.847|0.847" frame="8"/>
+    <data pos="-15.65|146.8" rotation="-22" scale="0.847|0.847" frame="9"/>
+    <data pos="-16.1|146.6" rotation="-22" scale="0.847|0.847" frame="10"/>
+    <data pos="-16.4|146.5" rotation="-22" scale="0.847|0.847" frame="11"/>
+    <data pos="-16.7|146.35" rotation="-22" scale="0.847|0.847" frame="12"/>
+    <data pos="-17|146.3" rotation="-22" scale="0.847|0.847" frame="13"/>
+    <data pos="-17.15|146.2" rotation="-22" scale="0.847|0.847" frame="14"/>
+    <data pos="-17.3|146.15" rotation="-21" scale="0.847|0.847" frame="15"/>
+    <data pos="-17.35|146.2" rotation="-21" scale="0.848|0.848" frame="16"/>
+    <data pos="-16.8|146.4" rotation="-22" scale="0.847|0.847" frame="17"/>
+    <data pos="-16.2|146.5" rotation="-22" scale="0.847|0.847" frame="18"/>
+    <data pos="-15.7|146.7" rotation="-22" scale="0.847|0.847" frame="19"/>
+    <data pos="-15.15|146.85" rotation="-22" scale="0.847|0.847" frame="20"/>
+    <data pos="-14.6|146.95" rotation="-22" scale="0.847|0.847" frame="21"/>
+    <data pos="-14.1|147.25" rotation="-23" scale="0.847|0.847" frame="22"/>
+    <data pos="-13.55|147.35" rotation="-23" scale="0.847|0.847" frame="23"/>
+    <data pos="-13|147.5" rotation="-23" scale="0.848|0.848" frame="24"/>
+    <data pos="-12.45|147.75" rotation="-23" scale="0.848|0.848" frame="25"/>
+    <data pos="-11.85|147.8" rotation="-23" scale="0.848|0.848" frame="26"/>
+    <data pos="-11.4|148" rotation="-24" scale="0.848|0.848" frame="27"/>
+    <data pos="-10.85|148.1" rotation="-24" scale="0.848|0.848" frame="28"/>
+    <data pos="-10.25|148.35" rotation="-24" scale="0.848|0.848" frame="29"/>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="30"/>
+  </armDownL>
+  <armUpL>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="1"/>
+    <data pos="90.1|237.05" rotation="-4" scale="1.582|1.582" frame="2"/>
+    <data pos="88.9|237.8" rotation="-4" scale="1.582|1.582" frame="3"/>
+    <data pos="87.65|238.45" rotation="-3" scale="1.582|1.582" frame="4"/>
+    <data pos="86.65|239.15" rotation="-3" scale="1.582|1.582" frame="5"/>
+    <data pos="85.65|239.65" rotation="-2" scale="1.582|1.582" frame="6"/>
+    <data pos="84.7|240.25" rotation="-2" scale="1.582|1.582" frame="7"/>
+    <data pos="83.95|240.75" rotation="-1" scale="1.582|1.582" frame="8"/>
+    <data pos="83.25|241.15" rotation="-1" scale="1.582|1.582" frame="9"/>
+    <data pos="82.6|241.45" rotation="-1" scale="1.582|1.582" frame="10"/>
+    <data pos="82.1|241.8" rotation="0" scale="1.582|1.582" frame="11"/>
+    <data pos="81.65|242.05" rotation="0" scale="1.582|1.582" frame="12"/>
+    <data pos="81.3|242.25" rotation="0" scale="1.582|1.582" frame="13"/>
+    <data pos="81.1|242.35" rotation="0" scale="1.582|1.582" frame="14"/>
+    <data pos="80.9|242.5" rotation="0" scale="1.582|1.582" frame="15"/>
+    <data pos="80.9|242.5" rotation="0" scale="1.582|1.582" frame="16"/>
+    <data pos="81.6|242" rotation="0" scale="1.582|1.582" frame="17"/>
+    <data pos="82.35|241.6" rotation="0" scale="1.582|1.582" frame="18"/>
+    <data pos="83.1|241.15" rotation="-1" scale="1.582|1.582" frame="19"/>
+    <data pos="83.9|240.7" rotation="-1" scale="1.582|1.582" frame="20"/>
+    <data pos="84.65|240.25" rotation="-2" scale="1.582|1.582" frame="21"/>
+    <data pos="85.4|239.85" rotation="-2" scale="1.582|1.582" frame="22"/>
+    <data pos="86.15|239.3" rotation="-2" scale="1.582|1.582" frame="23"/>
+    <data pos="86.9|238.9" rotation="-3" scale="1.582|1.582" frame="24"/>
+    <data pos="87.65|238.4" rotation="-3" scale="1.582|1.582" frame="25"/>
+    <data pos="88.45|237.95" rotation="-3" scale="1.582|1.582" frame="26"/>
+    <data pos="89.25|237.55" rotation="-4" scale="1.582|1.582" frame="27"/>
+    <data pos="89.9|237.1" rotation="-4" scale="1.582|1.582" frame="28"/>
+    <data pos="90.75|236.65" rotation="-5" scale="1.582|1.582" frame="29"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="30"/>
+  </armUpL>
+  <legL>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="1"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="2"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="3"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="4"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="5"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="6"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="7"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="8"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="9"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="10"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="11"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="12"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="13"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="14"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="15"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="16"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="17"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="18"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="19"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="20"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="21"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="22"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="23"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="24"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="25"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="26"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="27"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="28"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="29"/>
+    <data pos="36.45|69.3" rotation="0" scale="0.472|0.472" frame="30"/>
+  </legL>
+  <bodyDown>
+    <data pos="22.7|113.2" rotation="2" scale="1.310|1.310" frame="1"/>
+    <data pos="21.75|114.5" rotation="2" scale="1.310|1.310" frame="2"/>
+    <data pos="20.9|115.8" rotation="2" scale="1.310|1.310" frame="3"/>
+    <data pos="20.05|116.85" rotation="2" scale="1.310|1.310" frame="4"/>
+    <data pos="19.3|117.9" rotation="3" scale="1.310|1.310" frame="5"/>
+    <data pos="18.65|118.85" rotation="3" scale="1.310|1.310" frame="6"/>
+    <data pos="18|119.7" rotation="3" scale="1.310|1.310" frame="7"/>
+    <data pos="17.5|120.5" rotation="3" scale="1.310|1.310" frame="8"/>
+    <data pos="16.95|121.15" rotation="3" scale="1.310|1.310" frame="9"/>
+    <data pos="16.5|121.75" rotation="3" scale="1.310|1.310" frame="10"/>
+    <data pos="16.15|122.2" rotation="3" scale="1.310|1.310" frame="11"/>
+    <data pos="15.85|122.7" rotation="3" scale="1.310|1.310" frame="12"/>
+    <data pos="15.6|123" rotation="3" scale="1.310|1.310" frame="13"/>
+    <data pos="15.45|123.25" rotation="3" scale="1.310|1.310" frame="14"/>
+    <data pos="15.35|123.4" rotation="3" scale="1.310|1.310" frame="15"/>
+    <data pos="15.3|123.45" rotation="3" scale="1.310|1.310" frame="16"/>
+    <data pos="15.8|122.7" rotation="3" scale="1.310|1.310" frame="17"/>
+    <data pos="16.35|121.95" rotation="3" scale="1.310|1.310" frame="18"/>
+    <data pos="16.85|121.2" rotation="3" scale="1.310|1.310" frame="19"/>
+    <data pos="17.35|120.4" rotation="3" scale="1.310|1.310" frame="20"/>
+    <data pos="17.95|119.7" rotation="3" scale="1.310|1.310" frame="21"/>
+    <data pos="18.45|119" rotation="3" scale="1.310|1.310" frame="22"/>
+    <data pos="18.95|118.25" rotation="3" scale="1.310|1.310" frame="23"/>
+    <data pos="19.55|117.55" rotation="3" scale="1.310|1.310" frame="24"/>
+    <data pos="20.05|116.8" rotation="2" scale="1.310|1.310" frame="25"/>
+    <data pos="20.6|116.1" rotation="2" scale="1.310|1.310" frame="26"/>
+    <data pos="21.1|115.35" rotation="2" scale="1.310|1.310" frame="27"/>
+    <data pos="21.65|114.6" rotation="2" scale="1.310|1.310" frame="28"/>
+    <data pos="22.1|113.9" rotation="2" scale="1.310|1.310" frame="29"/>
+    <data pos="22.7|113.2" rotation="2" scale="1.310|1.310" frame="30"/>
+  </bodyDown>
+  <legR>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="1"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="2"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="3"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="4"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="5"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="6"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="7"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="8"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="9"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="10"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="11"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="12"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="13"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="14"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="15"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="16"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="17"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="18"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="19"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="20"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="21"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="22"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="23"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="24"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="25"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="26"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="27"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="28"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="29"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="30"/>
+  </legR>
+  <armUpR>
+    <data pos="-70.2|252.15" rotation="-7" scale="1.582|1.582" frame="1"/>
+    <data pos="-71.7|252.4" rotation="-7" scale="1.582|1.582" frame="2"/>
+    <data pos="-73|252.65" rotation="-7" scale="1.582|1.582" frame="3"/>
+    <data pos="-74.3|252.95" rotation="-6" scale="1.582|1.582" frame="4"/>
+    <data pos="-75.45|253.05" rotation="-6" scale="1.581|1.581" frame="5"/>
+    <data pos="-76.55|253.3" rotation="-6" scale="1.581|1.581" frame="6"/>
+    <data pos="-77.45|253.45" rotation="-6" scale="1.581|1.581" frame="7"/>
+    <data pos="-78.4|253.6" rotation="-6" scale="1.581|1.581" frame="8"/>
+    <data pos="-79.1|253.8" rotation="-6" scale="1.581|1.581" frame="9"/>
+    <data pos="-79.75|253.85" rotation="-5" scale="1.581|1.581" frame="10"/>
+    <data pos="-80.35|254" rotation="-5" scale="1.581|1.581" frame="11"/>
+    <data pos="-80.8|254.05" rotation="-5" scale="1.581|1.581" frame="12"/>
+    <data pos="-81.15|254.1" rotation="-5" scale="1.581|1.581" frame="13"/>
+    <data pos="-81.4|254.15" rotation="-5" scale="1.581|1.581" frame="14"/>
+    <data pos="-81.65|254.25" rotation="-5" scale="1.581|1.581" frame="15"/>
+    <data pos="-81.65|254.2" rotation="-5" scale="1.582|1.582" frame="16"/>
+    <data pos="-80.9|254.05" rotation="-5" scale="1.581|1.581" frame="17"/>
+    <data pos="-80.1|253.9" rotation="-5" scale="1.581|1.581" frame="18"/>
+    <data pos="-79.25|253.7" rotation="-6" scale="1.581|1.581" frame="19"/>
+    <data pos="-78.4|253.55" rotation="-6" scale="1.581|1.581" frame="20"/>
+    <data pos="-77.55|253.4" rotation="-6" scale="1.581|1.581" frame="21"/>
+    <data pos="-76.7|253.2" rotation="-6" scale="1.581|1.581" frame="22"/>
+    <data pos="-75.95|253.15" rotation="-6" scale="1.581|1.581" frame="23"/>
+    <data pos="-75.1|253" rotation="-6" scale="1.581|1.581" frame="24"/>
+    <data pos="-74.3|252.8" rotation="-6" scale="1.582|1.582" frame="25"/>
+    <data pos="-73.45|252.7" rotation="-7" scale="1.582|1.582" frame="26"/>
+    <data pos="-72.65|252.55" rotation="-7" scale="1.582|1.582" frame="27"/>
+    <data pos="-71.85|252.4" rotation="-7" scale="1.582|1.582" frame="28"/>
+    <data pos="-71|252.25" rotation="-7" scale="1.582|1.582" frame="29"/>
+    <data pos="-70.2|252.15" rotation="-7" scale="1.582|1.582" frame="30"/>
+  </armUpR>
+  <armDownR>
+    <data pos="-120.7|138.25" rotation="-14" scale="0.900|0.900" frame="1"/>
+    <data pos="-121.7|138.3" rotation="-15" scale="0.899|0.899" frame="2"/>
+    <data pos="-122.55|138.35" rotation="-15" scale="0.899|0.899" frame="3"/>
+    <data pos="-123.45|138.4" rotation="-15" scale="0.899|0.899" frame="4"/>
+    <data pos="-124.15|138.45" rotation="-15" scale="0.899|0.899" frame="5"/>
+    <data pos="-124.9|138.4" rotation="-15" scale="0.898|0.898" frame="6"/>
+    <data pos="-125.5|138.5" rotation="-15" scale="0.898|0.898" frame="7"/>
+    <data pos="-126.05|138.6" rotation="-15" scale="0.898|0.898" frame="8"/>
+    <data pos="-126.6|138.55" rotation="-15" scale="0.898|0.898" frame="9"/>
+    <data pos="-127|138.6" rotation="-15" scale="0.898|0.898" frame="10"/>
+    <data pos="-127.45|138.6" rotation="-15" scale="0.898|0.898" frame="11"/>
+    <data pos="-127.7|138.6" rotation="-15" scale="0.898|0.898" frame="12"/>
+    <data pos="-127.95|138.65" rotation="-15" scale="0.898|0.898" frame="13"/>
+    <data pos="-128.1|138.6" rotation="-15" scale="0.898|0.898" frame="14"/>
+    <data pos="-128.2|138.65" rotation="-15" scale="0.898|0.898" frame="15"/>
+    <data pos="-128.25|138.65" rotation="-15" scale="0.899|0.899" frame="16"/>
+    <data pos="-127.7|138.6" rotation="-15" scale="0.898|0.898" frame="17"/>
+    <data pos="-127.1|138.6" rotation="-15" scale="0.898|0.898" frame="18"/>
+    <data pos="-126.65|138.55" rotation="-15" scale="0.898|0.898" frame="19"/>
+    <data pos="-126.1|138.5" rotation="-15" scale="0.898|0.898" frame="20"/>
+    <data pos="-125.6|138.45" rotation="-15" scale="0.898|0.898" frame="21"/>
+    <data pos="-125.05|138.45" rotation="-15" scale="0.898|0.898" frame="22"/>
+    <data pos="-124.45|138.45" rotation="-15" scale="0.899|0.899" frame="23"/>
+    <data pos="-123.95|138.4" rotation="-15" scale="0.899|0.899" frame="24"/>
+    <data pos="-123.4|138.35" rotation="-15" scale="0.899|0.899" frame="25"/>
+    <data pos="-122.9|138.35" rotation="-15" scale="0.899|0.899" frame="26"/>
+    <data pos="-122.3|138.3" rotation="-15" scale="0.899|0.899" frame="27"/>
+    <data pos="-121.8|138.3" rotation="-15" scale="0.899|0.899" frame="28"/>
+    <data pos="-121.25|138.3" rotation="-15" scale="0.899|0.899" frame="29"/>
+    <data pos="-120.7|138.25" rotation="-14" scale="0.900|0.900" frame="30"/>
+  </armDownR>
+  <E_FLASH_2>
+    <data pos="-146.35|165.1" rotation="-13" scale="0.899|0.899" frame="2" v="0"/>
+  </E_FLASH_2>
+  <E_FLASH_3>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="2" v="0"/>
+  </E_FLASH_3>		
+</act>
+	
+<act name="Death" totalFrame="11">
+  <shadow>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="1"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="2"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="3"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="4"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="5"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="6"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="7"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="8"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="9"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="10"/>
+    <data pos="-3.4|22.85" rotation="0" scale="0.767|0.767" frame="11"/>
+  </shadow>
+  <ADD_3>
+    <data pos="-82.05|207.85" rotation="96" scale="0.811|0.811" frame="1"/>
+    <data pos="-61.1|205.35" rotation="96" scale="0.811|0.811" frame="2"/>
+    <data pos="-82.05|207.85" rotation="96" scale="0.811|0.811" frame="3"/>
+    <data pos="-61.1|205.35" rotation="96" scale="0.811|0.811" frame="4"/>
+    <data pos="-61.1|205.35" rotation="96" scale="0.811|0.811" frame="5"/>
+    <data pos="-82.05|207.85" rotation="96" scale="0.811|0.811" frame="6"/>
+    <data pos="-61.1|205.35" rotation="96" scale="0.811|0.811" frame="7"/>
+    <data pos="-61.1|205.35" rotation="96" scale="0.811|0.811" frame="8"/>
+    <data pos="-82.05|207.85" rotation="96" scale="0.811|0.811" frame="9"/>
+    <data pos="-61.1|205.35" rotation="96" scale="0.811|0.811" frame="10"/>
+    <data pos="-61.1|205.35" rotation="96" scale="0.811|0.811" frame="11"/>
+  </ADD_3>
+  <ADD_2>
+    <data pos="-21.5|228.45" rotation="-18" scale="1.053|1.000" frame="1"/>
+    <data pos="-61.45|232.2" rotation="-18" scale="1.053|1.000" frame="2"/>
+    <data pos="-21.5|228.45" rotation="-18" scale="1.053|1.000" frame="3"/>
+    <data pos="-61.45|232.2" rotation="-18" scale="1.053|1.000" frame="4"/>
+    <data pos="-61.45|232.2" rotation="-18" scale="1.053|1.000" frame="5"/>
+    <data pos="-21.5|228.45" rotation="-18" scale="1.053|1.000" frame="6"/>
+    <data pos="-61.45|232.2" rotation="-18" scale="1.053|1.000" frame="7"/>
+    <data pos="-61.45|232.2" rotation="-18" scale="1.053|1.000" frame="8"/>
+    <data pos="-21.5|228.45" rotation="-18" scale="1.053|1.000" frame="9"/>
+    <data pos="-61.45|232.2" rotation="-18" scale="1.053|1.000" frame="10"/>
+    <data pos="-61.45|232.2" rotation="-18" scale="1.053|1.000" frame="11"/>
+  </ADD_2>
+  <ADD_1>
+    <data pos="-44.05|293" rotation="-47" scale="0.679|0.800" frame="1"/>
+    <data pos="-17.8|265.5" rotation="-47" scale="0.679|0.800" frame="2"/>
+    <data pos="-44.05|293" rotation="-47" scale="0.679|0.800" frame="3"/>
+    <data pos="-17.8|265.5" rotation="-47" scale="0.679|0.800" frame="4"/>
+    <data pos="-17.8|265.5" rotation="-47" scale="0.679|0.800" frame="5"/>
+    <data pos="-44.05|293" rotation="-47" scale="0.679|0.800" frame="6"/>
+    <data pos="-17.8|265.5" rotation="-47" scale="0.679|0.800" frame="7"/>
+    <data pos="-17.8|265.5" rotation="-47" scale="0.679|0.800" frame="8"/>
+    <data pos="-44.05|293" rotation="-47" scale="0.679|0.800" frame="9"/>
+    <data pos="-17.8|265.5" rotation="-47" scale="0.679|0.800" frame="10"/>
+    <data pos="-17.8|265.5" rotation="-47" scale="0.679|0.800" frame="11"/>
+  </ADD_1>
+ <E_ADD_3>
+    <data pos="-90.5|208.35" rotation="95" scale="0.810|0.810" frame="2" v="0"/>
+  </E_ADD_3>
+  <E_ADD_2>
+    <data pos="-49.35|235.25" rotation="-16" scale="0.999|0.999" frame="2" v="0"/>
+  </E_ADD_2>
+  <E_ADD_1>
+    <data pos="-35.25|286.9" rotation="-42" scale="0.779|0.798" frame="2" v="0"/>
+  </E_ADD_1>		
+  <E_FLASH_1>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="1"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="2"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="3"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="4"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="5"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="6"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="7"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="8"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="9"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="10"/>
+    <data pos="-63.9|248.65" rotation="-26" scale="1.397|1.397" frame="11"/>
+  </E_FLASH_1>
+  <E_FLASH_5>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="1"/>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="2"/>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="3"/>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="4"/>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="5"/>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="6"/>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="7"/>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="8"/>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="9"/>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="10"/>
+    <data pos="-106.5|299.8" rotation="0" scale="1.000|1.000" frame="11"/>
+  </E_FLASH_5>
+  <armDownL>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="1"/>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="2"/>
+    <data pos="-9.75|151.1" rotation="-24" scale="0.849|0.849" frame="3"/>
+    <data pos="-9.75|151.1" rotation="-24" scale="0.849|0.849" frame="4"/>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="5"/>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="6"/>
+    <data pos="-9.75|151.1" rotation="-24" scale="0.849|0.849" frame="7"/>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="8"/>
+    <data pos="-9.75|151.1" rotation="-24" scale="0.849|0.849" frame="9"/>
+    <data pos="-9.75|148.5" rotation="-24" scale="0.849|0.849" frame="10"/>
+    <data pos="-9.75|151.1" rotation="-24" scale="0.849|0.849" frame="11"/>
+  </armDownL>
+  <armUpL>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="1"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="2"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="3"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="4"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="5"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="6"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="7"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="8"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="9"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="10"/>
+    <data pos="91.5|236.2" rotation="-5" scale="1.582|1.582" frame="11"/>
+  </armUpL>
+  <E_FLASH_6>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="1"/>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="2"/>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="3"/>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="4"/>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="5"/>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="6"/>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="7"/>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="8"/>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="9"/>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="10"/>
+    <data pos="112.55|281.55" rotation="-113" scale="1.000|1.000" frame="11"/>
+  </E_FLASH_6>
+  <legL>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="1"/>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="2"/>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="3"/>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="4"/>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="5"/>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="6"/>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="7"/>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="8"/>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="9"/>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="10"/>
+    <data pos="36.45|66.7" rotation="0" scale="0.472|0.472" frame="11"/>
+  </legL>
+  <bodyDown>
+    <data pos="22.7|113.2" rotation="2" scale="1.310|1.310" frame="1"/>
+    <data pos="22.7|113.2" rotation="2" scale="1.310|1.310" frame="2"/>
+    <data pos="23.65|113.35" rotation="4" scale="1.310|1.310" frame="3"/>
+    <data pos="23.65|113.35" rotation="4" scale="1.310|1.310" frame="4"/>
+    <data pos="22.7|113.2" rotation="2" scale="1.310|1.310" frame="5"/>
+    <data pos="22.7|113.2" rotation="2" scale="1.310|1.310" frame="6"/>
+    <data pos="23.65|113.35" rotation="4" scale="1.310|1.310" frame="7"/>
+    <data pos="22.7|113.2" rotation="2" scale="1.310|1.310" frame="8"/>
+    <data pos="23.65|113.35" rotation="4" scale="1.310|1.310" frame="9"/>
+    <data pos="22.7|113.2" rotation="2" scale="1.310|1.310" frame="10"/>
+    <data pos="23.65|113.35" rotation="4" scale="1.310|1.310" frame="11"/>
+  </bodyDown>
+  <legR>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="1"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="2"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="3"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="4"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="5"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="6"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="7"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="8"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="9"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="10"/>
+    <data pos="-57|76.85" rotation="0" scale="0.510|0.510" frame="11"/>
+  </legR>
+  <armUpR>
+    <data pos="-70.2|252.15" rotation="-7" scale="1.582|1.582" frame="1"/>
+    <data pos="-70.2|252.15" rotation="-7" scale="1.582|1.582" frame="2"/>
+    <data pos="-70.2|249.55" rotation="-7" scale="1.582|1.582" frame="3"/>
+    <data pos="-70.2|249.55" rotation="-7" scale="1.582|1.582" frame="4"/>
+    <data pos="-70.2|252.15" rotation="-7" scale="1.582|1.582" frame="5"/>
+    <data pos="-70.2|252.15" rotation="-7" scale="1.582|1.582" frame="6"/>
+    <data pos="-70.2|249.55" rotation="-7" scale="1.582|1.582" frame="7"/>
+    <data pos="-70.2|252.15" rotation="-7" scale="1.582|1.582" frame="8"/>
+    <data pos="-70.2|249.55" rotation="-7" scale="1.582|1.582" frame="9"/>
+    <data pos="-70.2|252.15" rotation="-7" scale="1.582|1.582" frame="10"/>
+    <data pos="-70.2|249.55" rotation="-7" scale="1.582|1.582" frame="11"/>
+  </armUpR>
+  <E_FLASH_7>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="1"/>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="2"/>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="3"/>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="4"/>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="5"/>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="6"/>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="7"/>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="8"/>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="9"/>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="10"/>
+    <data pos="-110.8|169.25" rotation="-67" scale="1.000|1.000" frame="11"/>
+  </E_FLASH_7>
+  <armDownR>
+    <data pos="-118.1|138.25" rotation="-14" scale="0.900|0.900" frame="1"/>
+    <data pos="-118.1|138.25" rotation="-14" scale="0.900|0.900" frame="2"/>
+    <data pos="-118.1|143.45" rotation="-14" scale="0.900|0.900" frame="3"/>
+    <data pos="-118.1|143.45" rotation="-14" scale="0.900|0.900" frame="4"/>
+    <data pos="-118.1|138.25" rotation="-14" scale="0.900|0.900" frame="5"/>
+    <data pos="-118.1|138.25" rotation="-14" scale="0.900|0.900" frame="6"/>
+    <data pos="-118.1|143.45" rotation="-14" scale="0.900|0.900" frame="7"/>
+    <data pos="-118.1|138.25" rotation="-14" scale="0.900|0.900" frame="8"/>
+    <data pos="-118.1|143.45" rotation="-14" scale="0.900|0.900" frame="9"/>
+    <data pos="-118.1|138.25" rotation="-14" scale="0.900|0.900" frame="10"/>
+    <data pos="-118.1|143.45" rotation="-14" scale="0.900|0.900" frame="11"/>
+  </armDownR>
+  <E_FLASH_2>
+    <data pos="-146.35|165.1" rotation="-13" scale="0.899|0.899" frame="2" v="0"/>
+  </E_FLASH_2>
+  <E_FLASH_3>
+    <data pos="-128.35|188.85" rotation="-31" scale="0.777|1.389" frame="2" v="0"/>
+  </E_FLASH_3>		
+</act>	
+
+
+
+
+</root>

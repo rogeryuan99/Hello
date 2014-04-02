@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="1.Prepare">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="WaitToBattleReady" parms=""/>
+			<action obj="TsUserBehaviorProcessor" call="LockCombo"         parms=""/>
+			<action obj="TsObjectFactory"         call="HideGameObject"    parms="skillBtnIconPanel"/>
+			<action obj="TsUserBehaviorProcessor" call="LockInput"         parms="true"/>
+		</actions>
+	</Step>	
+	
+	<Step hide_name="2.Npc Talk">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsDialog"    parent="UIRoot" scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsNguiMask"  parent="UIRoot" scale="2048"/>
+		</creations>
+		<actions>
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsDialog|0|0|-5"/>
+			<action obj="TsDialog"                call="FillData"             parms="Cosmo|UI_TsDialog_1"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Button-Next|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsNguiMask"/>
+			
+			<!--<action obj="TsDialog"                call="FillData"             parms="Narrator|You and Drax need to work as a team. I will be reminding you of the fundamentals of interstellar combat."/>-->
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|UI_TsDialog_2"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Button-Next|Camera"/>
+		</actions>
+	</Step>
+	
+	<Step hide_name="3.1.Teach Moving">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsCircle"    parent=""           scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsFingerTip" parent="GameAnchor" scale="1"/>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="LockInput"            parms="false"/>
+			<!--<action obj="TsUserBehaviorProcessor" call="LockObjects"          parms="DRAX(Clone)"/>-->
+			<action obj="TsObjectMover"           call="MoveTo"               parms="TsCircle|0|0|0"/>
+			<action obj="TsObjectFactory"         call="HideGameObject"       parms="Button-Next"/>
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|UI_TsDialog_3"/>
+		
+			<action obj="TsFingerTip"             call="AddClickingObjectToPause" parms="STARLORD(Clone)|GameCamera"/>
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|STARLORD(Clone)"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveFromSomethingToSomething|STARLORD(Clone)|TsCircle|1.5|.5|3|easeInOutQuad"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|.5"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+
+			<action obj="TsUserBehaviorProcessor" call="WaitToMoveSomethingToSomething" parms="STARLORD(Clone)|TsCircle|108|GameCamera"/>
+			<action obj="TsFingerTip"             call="Stop"                 parms=""/>
+			<action obj="TsFunctionCaller"        call="SendMessage"          parms="IntentionGroup|Clear"/>
+			<action obj="TsUserBehaviorProcessor" call="Sleep"                parms=".5"/>
+			<!--<action obj="TsUserBehaviorProcessor" call="UnlockObjects"        parms="DRAX(Clone)"/>-->
+		</actions>
+	</Step>
+
+	<!--<Step hide_name="3.2.Reconfirm Teach Moving">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsObjectMover"           call="MoveTo"               parms="TsCircle|200|100|0"/>
+			<action obj="TsUserBehaviorProcessor" call="LockObjects"          parms="STARLORD(Clone)"/>
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|Excellent! A prouder pooch I could not be. Now practice it again and move Drax."/>
+			
+			<action obj="TsFingerTip"             call="AddClickingObjectToPause" parms="DRAX(Clone)|GameCamera"/>
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|DRAX(Clone)"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveFromSomethingToSomething|DRAX(Clone)|TsCircle|1.5|.5|3|easeInOutQuad"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|.5"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+
+			<action obj="TsUserBehaviorProcessor" call="WaitToMoveSomethingToSomething" parms="DRAX(Clone)|TsCircle|108|GameCamera"/>
+			
+			<action obj="TsUserBehaviorProcessor" call="UnlockObjects"        parms="STARLORD(Clone)"/>
+			<action obj="TsFingerTip"             call="Stop"                 parms=""/>
+			<action obj="TsFunctionCaller"        call="SendMessage"          parms="IntentionGroup|Clear"/>
+		</actions>
+	</Step>-->
+	
+	<Step hide_name="3.3.Reconfirm Moving Again">
+		<creations>
+		</creations>
+		<actions>
+			<!--<action obj="TsUserBehaviorProcessor" call="LockObjects"          parms="DRAX(Clone)"/>-->
+			<action obj="TsObjectMover"           call="MoveTo"               parms="TsCircle|350|-100|0"/>
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|UI_TsDialog_4"/>
+			
+			<action obj="TsFingerTip"             call="AddClickingObjectToPause" parms="STARLORD(Clone)|GameCamera"/>
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|STARLORD(Clone)"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveFromSomethingToSomething|STARLORD(Clone)|TsCircle|1.5|.5|3|easeInOutQuad"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|.5"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+
+			<action obj="TsUserBehaviorProcessor" call="WaitToMoveSomethingToSomething" parms="STARLORD(Clone)|TsCircle|108|GameCamera"/>
+
+			<!--<action obj="TsUserBehaviorProcessor" call="UnlockObjects"        parms="DRAX(Clone)"/>-->
+			<action obj="TsObjectFactory"         call="ShowGameObject"       parms="Button-Next"/>			
+			<action obj="TsFingerTip"             call="Stop"                 parms=""/>
+		</actions>
+	</Step>
+	
+	<Step hide_name="4.Finished">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="UnlockCombo"    parms=""/>
+			<!--<action obj="TsObjectFactory"         call="ShowGameObject" parms="skillBtnIconPanel"/>-->
+			<action obj="TsUserBehaviorProcessor" call="LockInput"      parms="false"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsCircle|TsFingerTip|TsDialog"/>
+		</actions>
+	</Step>	
+</Chapter>

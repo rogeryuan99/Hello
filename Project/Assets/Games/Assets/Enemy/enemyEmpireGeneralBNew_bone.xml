@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="E_SMOKE_1" pos="-8|30" roration="0" epos="0|0"/>
+  <part name="E_SMOKE_2" pos="-8|30" roration="0" epos="0|0"/> 
+  <part name="shadow" pos="-3|22" roration="0" epos="0|0"/>
+  <part name="ADD_3" pos="-81|205" roration="94" epos="1|65"/>
+  <part name="ADD_2" pos="-26|232" roration="-16" epos="-69|26"/>
+  <part name="ADD_1" pos="-25|287" roration="-42" epos="-65|14"/>
+  <part name="E_ADD_3" pos="-81|205" roration="94" epos="1|65"/>
+  <part name="E_ADD_2" pos="-26|232" roration="-16" epos="-69|26"/>
+  <part name="E_ADD_1" pos="-25|287" roration="-42" epos="-65|14"/>
+  <part name="E_FLASH_1" pos="-63|248" roration="-26" epos="0|0"/>
+  <part name="armDownL" pos="-9|148" roration="-24" epos="74|-31"/>
+  <part name="armUpL" pos="91|236" roration="-5" epos="0|-24"/>
+  <part name="legL" pos="36|69" roration="0" epos="-5|-50"/>
+  <part name="bodyDown" pos="22|113" roration="2" epos="-8|63"/>
+  <part name="legR" pos="-57|76" roration="0" epos="6|-57"/>
+  <part name="armUpR" pos="-70|252" roration="-7" epos="0|-24"/>
+  <part name="armDownR" pos="-120|138" roration="-14" epos="69|-28"/>
+  <part name="E_FLASH_2" pos="-120|138" roration="-14" epos="69|-28"/>
+  <part name="E_FLASH_3" pos="-128|188" roration="-31" epos="0|0"/>
+  <part name="E_FLASH_5" pos="-106|299" roration="0" epos="0|0"/>
+  <part name="E_FLASH_6" pos="112|281" roration="-113" epos="0|0"/>
+  <part name="E_FLASH_7" pos="-110|169" roration="-67" epos="0|0"/>
+</root>

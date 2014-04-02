@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="Spore_01"/>
+  <part name="Spore_011"/>
+  <part name="Spore_0110"/>
+  <part name="Spore_0111"/>
+  <part name="Spore_0112"/>
+  <part name="Spore_0113"/>
+  <part name="Spore_0114"/>
+  <part name="Spore_0115"/>
+  <part name="Spore_012"/>
+  <part name="Spore_013"/>
+  <part name="Spore_014"/>
+  <part name="Spore_015"/>
+  <part name="Spore_016"/>
+  <part name="Spore_017"/>
+  <part name="Spore_018"/>
+  <part name="Spore_019"/>
+  <part name="branch_41"/>
+  <part name="branch_42"/>
+  <part name="branch_43"/>
+  <part name="branch_44"/>
+  <part name="branch_45"/>
+  <part name="branch_46"/>
+  <part name="branch_47"/>
+  <part name="branch_48"/>
+  <part name="drop_shadow"/>
+</root>

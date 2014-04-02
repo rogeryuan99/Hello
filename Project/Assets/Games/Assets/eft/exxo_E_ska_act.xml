@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<act name="skill_a_E" totalFrame="22">
+  <EX_E_ska6>
+    <data pos="-1|-1" rotation="0" scale="0.256|0.256" frame="1" v="0"/>
+    <data pos="-1|-1" rotation="0" scale="0.256|0.256" frame="2"/>
+    <data pos="0|-3" rotation="0" scale="0.405|0.405" frame="3"/>
+    <data pos="0|-5" rotation="0" scale="0.554|0.554" frame="4"/>
+    <data pos="0|-7" rotation="0" scale="0.702|0.702" frame="5"/>
+    <data pos="0|-8" rotation="0" scale="0.851|0.851" frame="6"/>
+    <data pos="0|-10" rotation="0" scale="1.000|1.000" frame="7"/>
+    <data pos="0|-10" rotation="0" scale="1.027|1.027" frame="8"/>
+    <data pos="0|-10" rotation="0" scale="1.053|1.053" frame="9"/>
+    <data pos="0|-9" rotation="0" scale="1.080|1.080" frame="10"/>
+    <data pos="0|-9" rotation="0" scale="1.107|1.107" frame="11"/>
+    <data pos="0|-9" rotation="0" scale="1.134|1.134" frame="12"/>
+    <data pos="0|-9" rotation="0" scale="1.160|1.160" frame="13"/>
+    <data pos="0|-8" rotation="0" scale="1.187|1.187" frame="14"/>
+    <data pos="0|-8" rotation="0" scale="1.214|1.214" frame="15"/>
+    <data pos="0|-8" rotation="0" scale="1.240|1.240" frame="16"/>
+    <data pos="0|-8" rotation="0" scale="1.267|1.267" frame="17"/>
+    <data pos="0|-7" rotation="0" scale="1.294|1.294" frame="18"/>
+    <data pos="0|-7" rotation="0" scale="1.321|1.321" frame="19"/>
+    <data pos="0|-7" rotation="0" scale="1.347|1.347" frame="20"/>
+    <data pos="0|-7" rotation="0" scale="1.374|1.374" frame="21"/>
+    <data pos="-1|-6" rotation="0" scale="1.401|1.401" frame="22" v="0"/>
+  </EX_E_ska6>
+  <EX_E_ska5>
+    <data pos="0|0" rotation="0" scale="0.500|0.500" frame="1" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.500|0.500" frame="2" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.500|0.500" frame="3" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.500|0.500" frame="4"/>
+    <data pos="0|0" rotation="0" scale="0.683|0.683" frame="5"/>
+    <data pos="0|0" rotation="0" scale="0.865|0.865" frame="6"/>
+    <data pos="0|0" rotation="0" scale="1.048|1.048" frame="7"/>
+    <data pos="0|0" rotation="0" scale="1.155|1.155" frame="8"/>
+    <data pos="0|0" rotation="0" scale="1.262|1.262" frame="9"/>
+    <data pos="0|0" rotation="0" scale="1.369|1.369" frame="10"/>
+    <data pos="0|0" rotation="0" scale="1.397|1.397" frame="11"/>
+    <data pos="0|0" rotation="0" scale="1.425|1.425" frame="12"/>
+    <data pos="0|0" rotation="0" scale="1.454|1.454" frame="13"/>
+    <data pos="0|0" rotation="0" scale="1.482|1.482" frame="14"/>
+    <data pos="0|0" rotation="0" scale="1.510|1.510" frame="15"/>
+    <data pos="0|0" rotation="0" scale="1.539|1.539" frame="16" v="0"/>
+    <data pos="0|0" rotation="0" scale="1.539|1.539" frame="17" v="0"/>
+    <data pos="0|0" rotation="0" scale="1.539|1.539" frame="18" v="0"/>
+    <data pos="0|0" rotation="0" scale="1.539|1.539" frame="19" v="0"/>
+    <data pos="0|0" rotation="0" scale="1.539|1.539" frame="20" v="0"/>
+    <data pos="0|0" rotation="0" scale="1.539|1.539" frame="21" v="0"/>
+    <data pos="0|0" rotation="0" scale="1.539|1.539" frame="22" v="0"/>
+  </EX_E_ska5>
+  <EX_E_ska4>
+    <data pos="0|11" rotation="0" scale="0.283|0.283" frame="1" v="0"/>
+    <data pos="0|11" rotation="0" scale="0.283|0.283" frame="2" v="0"/>
+    <data pos="0|11" rotation="0" scale="0.283|0.283" frame="3" v="0"/>
+    <data pos="0|11" rotation="0" scale="0.283|0.283" frame="4" v="0"/>
+    <data pos="0|11" rotation="0" scale="0.283|0.283" frame="5"/>
+    <data pos="0|13" rotation="0" scale="0.351|0.351" frame="6"/>
+    <data pos="0|15" rotation="0" scale="0.419|0.419" frame="7"/>
+    <data pos="0|17" rotation="0" scale="0.487|0.487" frame="8"/>
+    <data pos="0|19" rotation="0" scale="0.555|0.555" frame="9"/>
+    <data pos="0|21" rotation="0" scale="0.623|0.623" frame="10"/>
+    <data pos="0|23" rotation="0" scale="0.691|0.691" frame="11"/>
+    <data pos="0|18" rotation="0" scale="0.563|0.563" frame="12"/>
+    <data pos="0|14" rotation="0" scale="0.435|0.435" frame="13"/>
+    <data pos="0|9" rotation="0" scale="0.307|0.307" frame="14"/>
+    <data pos="0|4" rotation="0" scale="0.179|0.179" frame="15"/>
+    <data pos="0|0" rotation="0" scale="0.051|0.051" frame="16"/>
+    <data pos="0|0" rotation="0" scale="0.051|0.051" frame="17" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.051|0.051" frame="18" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.051|0.051" frame="19" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.051|0.051" frame="20" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.051|0.051" frame="21" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.051|0.051" frame="22" v="0"/>
+  </EX_E_ska4>
+  <EX_E_ska3>
+    <data pos="0|6" rotation="0" scale="0.105|0.105" frame="1" v="0"/>
+    <data pos="0|6" rotation="0" scale="0.552|0.552" frame="2"/>
+    <data pos="0|6" rotation="0" scale="1.000|1.000" frame="3"/>
+    <data pos="0|5" rotation="0" scale="1.056|1.056" frame="4"/>
+    <data pos="0|4" rotation="0" scale="1.113|1.113" frame="5"/>
+    <data pos="0|3" rotation="0" scale="1.169|1.169" frame="6"/>
+    <data pos="0|1" rotation="0" scale="1.225|1.225" frame="7"/>
+    <data pos="0|0" rotation="0" scale="1.282|1.282" frame="8"/>
+    <data pos="0|0" rotation="0" scale="1.338|1.338" frame="9"/>
+    <data pos="0|0" rotation="0" scale="1.138|1.138" frame="10"/>
+    <data pos="0|1" rotation="0" scale="0.938|0.938" frame="11"/>
+    <data pos="0|3" rotation="0" scale="0.738|0.738" frame="12"/>
+    <data pos="0|4" rotation="0" scale="0.538|0.538" frame="13"/>
+    <data pos="0|5" rotation="0" scale="0.338|0.338" frame="14"/>
+    <data pos="0|6" rotation="0" scale="0.138|0.138" frame="15" v="0"/>
+    <data pos="0|6" rotation="0" scale="0.138|0.138" frame="16" v="0"/>
+    <data pos="0|6" rotation="0" scale="0.138|0.138" frame="17" v="0"/>
+    <data pos="0|6" rotation="0" scale="0.138|0.138" frame="18" v="0"/>
+    <data pos="0|6" rotation="0" scale="0.138|0.138" frame="19" v="0"/>
+    <data pos="0|6" rotation="0" scale="0.138|0.138" frame="20" v="0"/>
+    <data pos="0|6" rotation="0" scale="0.138|0.138" frame="21" v="0"/>
+    <data pos="0|6" rotation="0" scale="0.138|0.138" frame="22" v="0"/>
+  </EX_E_ska3>
+  <EX_E_ska2>
+    <data pos="0|0" rotation="0" scale="1.000|0.254" frame="1" v="0"/>
+    <data pos="0|0" rotation="0" scale="1.000|0.254" frame="2" v="0"/>
+    <data pos="0|0" rotation="0" scale="1.000|0.254" frame="3" v="0"/>
+    <data pos="0|0" rotation="0" scale="1.000|0.254" frame="4"/>
+    <data pos="0|-2" rotation="0" scale="1.073|0.476" frame="5"/>
+    <data pos="0|-4" rotation="0" scale="1.146|0.698" frame="6"/>
+    <data pos="0|-5" rotation="0" scale="1.218|0.920" frame="7"/>
+    <data pos="0|-7" rotation="0" scale="1.291|1.142" frame="8"/>
+    <data pos="0|-9" rotation="0" scale="1.364|1.364" frame="9"/>
+    <data pos="0|-7" rotation="0" scale="1.140|1.140" frame="10"/>
+    <data pos="0|-6" rotation="0" scale="0.916|0.917" frame="11"/>
+    <data pos="0|-4" rotation="0" scale="0.692|0.693" frame="12"/>
+    <data pos="0|-3" rotation="0" scale="0.468|0.469" frame="13"/>
+    <data pos="0|-2" rotation="0" scale="0.244|0.245" frame="14"/>
+    <data pos="0|0" rotation="0" scale="0.020|0.022" frame="15" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.020|0.022" frame="16" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.020|0.022" frame="17" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.020|0.022" frame="18" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.020|0.022" frame="19" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.020|0.022" frame="20" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.020|0.022" frame="21" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.020|0.022" frame="22" v="0"/>
+  </EX_E_ska2>
+  <EX_E_ska1>
+    <data pos="0|0" rotation="0" scale="0.283|0.283" frame="1" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.283|0.283" frame="2" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.283|0.283" frame="3" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.283|0.283" frame="4"/>
+    <data pos="0|0" rotation="0" scale="0.386|0.386" frame="5"/>
+    <data pos="0|0" rotation="0" scale="0.488|0.488" frame="6"/>
+    <data pos="0|0" rotation="0" scale="0.590|0.590" frame="7"/>
+    <data pos="0|0" rotation="0" scale="0.693|0.693" frame="8"/>
+    <data pos="0|0" rotation="0" scale="0.795|0.795" frame="9"/>
+    <data pos="0|0" rotation="0" scale="0.898|0.898" frame="10"/>
+    <data pos="0|0" rotation="0" scale="1.000|1.000" frame="11"/>
+    <data pos="0|0" rotation="0" scale="0.896|0.896" frame="12"/>
+    <data pos="0|0" rotation="0" scale="0.793|0.793" frame="13"/>
+    <data pos="0|0" rotation="0" scale="0.690|0.690" frame="14"/>
+    <data pos="0|0" rotation="0" scale="0.586|0.586" frame="15"/>
+    <data pos="0|0" rotation="0" scale="0.482|0.482" frame="16"/>
+    <data pos="0|0" rotation="0" scale="0.379|0.379" frame="17"/>
+    <data pos="0|0" rotation="0" scale="0.276|0.276" frame="18"/>
+    <data pos="0|0" rotation="0" scale="0.172|0.172" frame="19"/>
+    <data pos="0|0" rotation="0" scale="0.069|0.069" frame="20" v="0"/>
+    <data pos="0|0" rotation="0" scale="0.069|0.069" frame="21"/>
+    <data pos="0|0" rotation="0" scale="0.069|0.069" frame="22"/>
+  </EX_E_ska1>
+</act>
+
+</root>

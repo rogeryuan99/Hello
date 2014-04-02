@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<act name="Move" totalFrame="13">
+  <E1>
+    <data pos="-4|-31" rotation="0" epos="-4|6" scale="1.000|1.000" frame="1" v="0"/>
+    <data pos="-4|-31" rotation="0" epos="-4|6" scale="1.000|1.000" frame="2" v="0"/>
+    <data pos="-4|-31" rotation="0" epos="-4|6" scale="1.000|1.000" frame="3" v="0"/>
+    <data pos="-4|-31" rotation="0" epos="-4|6" scale="1.000|1.000" frame="4"/>
+    <data pos="-6|-32" rotation="0" epos="-4|6" scale="1.420|1.420" frame="5"/>
+    <data pos="-8|-33" rotation="0" epos="-4|6" scale="1.840|1.840" frame="6"/>
+    <data pos="-10|-33" rotation="0" epos="-4|6" scale="2.259|2.259" frame="7"/>
+    <data pos="-12|-34" rotation="0" epos="-4|6" scale="2.679|2.679" frame="8"/>
+    <data pos="-14|-35" rotation="0" epos="-4|6" scale="3.099|3.099" frame="9"/>
+    <data pos="-16|-35" rotation="0" epos="-4|6" scale="3.519|3.519" frame="10"/>
+    <data pos="-18|-36" rotation="0" epos="-4|6" scale="3.939|3.939" frame="11"/>
+    <data pos="-20|-37" rotation="0" epos="-4|6" scale="4.359|4.359" frame="12"/>
+    <data pos="-22|-37" rotation="0" epos="-4|6" scale="4.778|4.778" frame="13" v="0"/>
+  </E1>
+  <E2>
+    <data pos="0|0" rotation="0" epos="0|0" scale="1.000|1.000" frame="1"/>
+    <data pos="0|2" rotation="0" epos="0|0" scale="1.069|1.069" frame="2"/>
+    <data pos="-1|10" rotation="0" epos="0|0" scale="1.275|1.275" frame="3"/>
+    <data pos="-4|25" rotation="0" epos="0|0" scale="1.620|1.620" frame="4"/>
+    <data pos="-7|44" rotation="0" epos="0|0" scale="2.102|2.102" frame="5"/>
+    <data pos="-12|70" rotation="0" epos="0|0" scale="2.721|2.721" frame="6"/>
+    <data pos="-12|70" rotation="0" epos="0|0" scale="2.721|2.721" frame="7" v="0"/>
+    <data pos="-12|70" rotation="0" epos="0|0" scale="2.721|2.721" frame="8" v="0"/>
+    <data pos="-12|70" rotation="0" epos="0|0" scale="2.721|2.721" frame="9" v="0"/>
+    <data pos="-12|70" rotation="0" epos="0|0" scale="2.721|2.721" frame="10" v="0"/>
+    <data pos="-12|70" rotation="0" epos="0|0" scale="2.721|2.721" frame="11" v="0"/>
+    <data pos="-12|70" rotation="0" epos="0|0" scale="2.721|2.721" frame="12" v="0"/>
+    <data pos="-12|70" rotation="0" epos="0|0" scale="2.721|2.721" frame="13" v="0"/>
+  </E2>
+  <E3>
+    <data pos="0|0" rotation="0" epos="0|0" scale="1.000|1.000" frame="1"/>
+    <data pos="-1|2" rotation="0" epos="0|0" scale="1.070|1.070" frame="2"/>
+    <data pos="-2|10" rotation="0" epos="0|0" scale="1.282|1.282" frame="3"/>
+    <data pos="-5|24" rotation="0" epos="0|0" scale="1.635|1.635" frame="4"/>
+    <data pos="-9|44" rotation="0" epos="0|0" scale="2.128|2.128" frame="5"/>
+    <data pos="-13|69" rotation="0" epos="0|0" scale="2.763|2.763" frame="6"/>
+    <data pos="-13|69" rotation="0" epos="0|0" scale="2.763|2.763" frame="7" v="0"/>
+    <data pos="-13|69" rotation="0" epos="0|0" scale="2.763|2.763" frame="8" v="0"/>
+    <data pos="-13|69" rotation="0" epos="0|0" scale="2.763|2.763" frame="9" v="0"/>
+    <data pos="-13|69" rotation="0" epos="0|0" scale="2.763|2.763" frame="10" v="0"/>
+    <data pos="-13|69" rotation="0" epos="0|0" scale="2.763|2.763" frame="11" v="0"/>
+    <data pos="-13|69" rotation="0" epos="0|0" scale="2.763|2.763" frame="12" v="0"/>
+    <data pos="-13|69" rotation="0" epos="0|0" scale="2.763|2.763" frame="13" v="0"/>
+  </E3>
+</act>
+</root>

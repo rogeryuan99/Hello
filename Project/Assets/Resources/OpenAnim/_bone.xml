@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="L31" pos="0|-16" roration="0" epos="0|4"/>
+  <part name="L40" pos="-723|107" roration="0" epos="0|0"/>
+  <part name="L36" pos="-481|-79" roration="0" epos="1|0"/>
+  <part name="L34" pos="-490|-91" roration="0" epos="0|0"/>
+  <part name="L30" pos="-725|289" roration="0" epos="0|0"/>
+  <part name="L29" pos="-10|118" roration="0" epos="0|0"/>
+  <part name="L42" pos="-618|452" roration="0" epos="0|0"/>
+  <part name="L28" pos="853|290" roration="0" epos="0|0"/>
+  <part name="L27" pos="-278|79" roration="0" epos="0|0"/>
+  <part name="L26" pos="-3|-633" roration="0" epos="0|0"/>
+  <part name="L18" pos="2|294" roration="0" epos="0|0"/>
+  <part name="L16" pos="632|334" roration="0" epos="0|0"/>
+  <part name="L14_offset" pos="-759|-294" roration="0" epos="0|0"/>
+  <part name="L14" pos="-118|-295" roration="0" epos="0|0"/>
+  <part name="L13" pos="516|-146" roration="0" epos="1|-1"/>
+  <part name="L12" pos="474|-676" roration="0" epos="0|0"/>
+  <part name="L9" pos="432|-552" roration="0" epos="0|0"/>
+  <part name="L8" pos="-6|371" roration="0" epos="0|0"/>
+  <part name="L6" pos="687|161" roration="0" epos="-6|4"/>
+  <part name="L5" pos="-775|-429" roration="0" epos="0|0"/>
+  <part name="L4" pos="-390|-430" roration="0" epos="0|-1"/>
+  <part name="L3" pos="768|298" roration="0" epos="0|0"/>
+  <part name="L2" pos="382|-433" roration="0" epos="2|-2"/>
+  <part name="L1" pos="764|-433" roration="0" epos="0|0"/>
+</root>

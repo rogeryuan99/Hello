@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="guang1" pos="0|0" roration="0" epos="0|0"/>
+  <part name="guang3" pos="-9|12" roration="30" epos="-5|122"/>
+  <part name="guang4" pos="-1|-5" roration="150" epos="-5|122"/>
+  <part name="guang5" pos="9|2" roration="-72" epos="-5|122"/>
+</root>

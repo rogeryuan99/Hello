@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="0.sleep">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="LevelManager"            call="enabledBattleButton"                    parms="true"/>
+			<action obj="PauseButton"             call="Normal"                                 parms=""/>
+			<action obj="BATTLE"                  call="Normal"                                 parms=""/>
+			<action obj="Button-Back"             call="Normal"                                 parms=""/>
+		</actions>
+	</Step>	
+</Chapter>

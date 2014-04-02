@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="0.sleep">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="Button-Back_SkillTreeDlg"             call="GrayLock"             parms=""/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsFingerTip3"/>
+			<action obj="TsObjectFactory"         call="HideGameObject"       parms="TsFingerTip2"/>
+		</actions>
+	</Step>	
+	
+	<Step hide_name="1.sleep">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="Sleep"                  parms=".1"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToTrainingFinished" parms="placeholder1/0.CellTemplate(Clone)"/>
+		</actions>
+	</Step>	
+	
+	<Step hide_name="2.Equip Skill">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsDialog"    parent="UIRoot"     scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsFingerTip" parent="GameAnchor" scale="1"/>
+		</creations>
+		<actions>
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsDialog|0|0|-800"/>
+			<action obj="TsObjectFactory"         call="HideGameObject"       parms="Button-Next"/>
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|Tap the first skill to activate Drax’s special combo move."/>
+			
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|placeholder1/0.CellTemplate(Clone)"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|1"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="placeholder1/0.CellTemplate(Clone)|Camera"/>
+			<action obj="TsFtueManager"           call="MarkEventFinished"    parms="11.1"/>  
+			<action obj="TsFingerTip"             call="Stop"                 parms=""/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsDialog"/>
+		</actions>
+	</Step>
+	
+	<Step hide_name="3.Tip to Click BackBtn">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="Button-Back_SkillTreeDlg"              call="Normal"               parms=""/>
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|Button-Back_SkillTreeDlg"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|1"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickDownSomethingAndUpLButton" parms="Button-Back_SkillTreeDlg/Normal/Button|Camera"/>
+			<action obj="TsFingerTip"             call="Stop"                 parms=""/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsFingerTip"/>
+			<action obj="TsObjectFactory"         call="ShowGameObject"       parms="TsFingerTip2"/>
+			
+			<action obj="HeroStateDialog_DRAX(Clone)/Buttons/Train_btn"       call="Normal" parms="11.1"/>
+		</actions>
+	</Step>
+</Chapter>

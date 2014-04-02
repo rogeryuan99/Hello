@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<act name="Skill" totalFrame="20">
+  <gq>
+    <data pos="0|0" rotation="0" scale="0.072|0.072" frame="1"/>
+    <data pos="0|0" rotation="0" scale="0.221|0.221" frame="2"/>
+    <data pos="0|0" rotation="0" scale="0.370|0.370" frame="3"/>
+    <data pos="0|0" rotation="0" scale="0.518|0.518" frame="4"/>
+    <data pos="0|0" rotation="0" scale="0.667|0.667" frame="5"/>
+    <data pos="0|0" rotation="0" scale="0.816|0.816" frame="6"/>
+    <data pos="0|0" rotation="0" scale="0.965|0.965" frame="7"/>
+    <data pos="0|0" rotation="0" scale="1.114|1.114" frame="8"/>
+    <data pos="0|0" rotation="0" scale="1.262|1.262" frame="9"/>
+    <data pos="0|0" rotation="0" scale="1.411|1.411" frame="10"/>
+    <data pos="0|0" rotation="0" scale="1.560|1.560" frame="11"/>
+    <data pos="0|0" rotation="0" scale="1.374|1.374" frame="12"/>
+    <data pos="0|0" rotation="0" scale="1.188|1.188" frame="13"/>
+    <data pos="0|0" rotation="0" scale="1.002|1.002" frame="14"/>
+    <data pos="0|0" rotation="0" scale="0.816|0.816" frame="15"/>
+    <data pos="0|0" rotation="0" scale="0.630|0.630" frame="16"/>
+    <data pos="0|0" rotation="0" scale="0.444|0.444" frame="17"/>
+    <data pos="0|0" rotation="0" scale="0.258|0.258" frame="18"/>
+    <data pos="0|0" rotation="0" scale="0.072|0.072" frame="19"/>
+    <data pos="0|0" rotation="0" scale="0.072|0.072" frame="20" v="0"/>
+  </gq>
+</act>
+</root>

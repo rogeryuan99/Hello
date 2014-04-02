@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <act name="Damage" totalFrame="4">
+    <effect_50_1>
+      <data pos="44.2|-102.15" frame="1" m="0.001|0|0|0.001" v="0"/>
+      <data pos="4.05|-28" frame="8" m="1.000|0.000|0.000|1.000"/>
+      <data pos="53.65|-36.45" frame="12" m="0.001|0|0|0.001" v="0"/>
+    </effect_50_1>
+    <effect_51_1>
+      <data pos="20.8|27.6" frame="1" m="1.000|0.000|0.000|1.000"/>
+      <data pos="20.8|27.6" frame="8" m="0.001|0|0|0.001" v="0"/>
+      <data pos="20.8|27.6" frame="12" m="1.000|0.000|0.000|1.000"/>
+      <data pos="20.8|27.6" frame="24" m="0.001|0|0|0.001" v="0"/>
+    </effect_51_1>
+  </act>
+</root>

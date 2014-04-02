@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="0.sleep">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="WaitToVictoryDlgOpened"     parms=""/>
+		</actions>
+	</Step>	
+	<Step hide_name="1.Talk">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsDialog" parent="UIRoot" scale="1"/>
+		</creations>
+		<actions>
+			<!--<action obj="TsObjectFactory"         call="HideGameObject"       parms="Button-Next"/>-->
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|UI_TsDialog_14"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Button-Next|Camera"/>
+			<!--<action obj="TsFtueManager"           call="MarkEventFinished"    parms="6"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Replay_btn|Camera|AlertHome_btn|Camera|Next_btn|Camera"/>-->
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsDialog"/>
+		</actions>
+	</Step>	
+</Chapter>
+

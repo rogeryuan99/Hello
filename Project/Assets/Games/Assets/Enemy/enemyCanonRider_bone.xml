@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="SRarmL" pos="-11|167" roration="-5" epos="24|-19"/>
+  <part name="CRbody" pos="-23|161" roration="0" epos="0|0"/>
+  <part name="CRhead" pos="-22|184" roration="0" epos="0|41"/>
+  <part name="legL" pos="-9|53" roration="0" epos="-6|-35"/>
+  <part name="bodyUp" pos="-6|94" roration="0" epos="0|0"/>
+  <part name="bodyDown" pos="-76|118" roration="-3" epos="-50|-1"/>
+  <part name="bodyDown2" pos="-91|71" roration="-1" epos="-21|-2"/>
+  <part name="legUPR" pos="-56|71" roration="0" epos="5|-10"/>
+  <part name="legDOWNR" pos="-38|52" roration="0" epos="-8|-32"/>
+  <part name="SRarmUpR" pos="-35|176" roration="0" epos="5|-13"/>
+  <part name="SRarmDOWNR" pos="-25|155" roration="5" epos="17|-16"/>
+  <part name="CR_E_ATTACK" pos="165|118" roration="0" epos="0|0"/>
+	
+  <part name="CRlegUPR" pos="-24|134" roration="0" epos="1|-6"/>
+  <part name="CRlegDOWNR" pos="-10|123" roration="0" epos="-6|-11"/>
+	
+  <part name="smoke3" pos="-155|119" roration="-105" epos="0|0"/>
+  <part name="smoke2" pos="-205|117" roration="15" epos="0|0"/>
+  <part name="smoke1" pos="-155|119" roration="-105" epos="0|0"/>	
+</root>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<defaultScalars  silver="100" gold="15" isoSlots="1" cp="10"/>
+<stamina regenerateCostSec="180" rechargeCostGold="0.5"/>
+<heroData>
+<hero type="STARLORD"    nickName="STARLORD"    hp="300"  mspd="200" aspd="2"   range="150" atk_PHY="150" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="10" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="0" hireCp="0" unlocklv="-1_-1"  hpProportion="10" atkProportion="1" defProportion="1.5" descriptions="111"/>
+<hero type="DRAX"        nickName="DRAX"        hp="700"  mspd="150" aspd="1.5" range="150" atk_PHY="70"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="50" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="0" hireCp="5" unlocklv="1_2" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>
+<hero type="GROOT"       nickName="GROOT"       hp="600"  mspd="100" aspd="1.5" range="150" atk_PHY="80"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="30" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="10" hireCp="0" unlocklv="1_6" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>
+<hero type="GAMORA"      nickName="GAMORA"      hp="500"  mspd="150" aspd="1.5" range="150" atk_PHY="80"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="30" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="15" hireCp="0" unlocklv="1_9" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>		
+<hero type="ROCKET"      nickName="ROCKET"      hp="300"  mspd="200" aspd="2"   range="150" atk_PHY="150" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="10" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="18" hireCp="0" unlocklv="1_12" hpProportion="10" atkProportion="1" defProportion="1.5" descriptions="111"/>
+
+<hero type="MANTIS"      nickName="Mantis"      hp="500"  mspd="150" aspd="1.5" range="150" atk_PHY="80"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="30" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="15" hireCp="5" unlocklv="-1_-1" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>		
+<hero type="BUG"         nickName="Bug"         hp="500"  mspd="150" aspd="1.5" range="150" atk_PHY="80"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="30" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="15" hireCp="5" unlocklv="-1_-1" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>		
+<hero type="BETARAYBILL" nickName="BetaRayBill" hp="700"  mspd="150" aspd="1.5" range="150" atk_PHY="70"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="50" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="0" hireCp="5" unlocklv="-1_-1" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>
+<hero type="CHARLIE27"   nickName="Charlie27"   hp="700"  mspd="150" aspd="1.5" range="150" atk_PHY="70"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="50" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="0" hireCp="5" unlocklv="-1_-1" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>
+<hero type="HULK"        nickName="Hulk"        hp="700"  mspd="150" aspd="1.5" range="150" atk_PHY="70"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="50" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="0" hireCp="5" unlocklv="-1_-1" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>
+<hero type="IRONMAN"     nickName="IronMan"     hp="400"  mspd="150" aspd="1.5" range="150" atk_PHY="90"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="50" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="0" hireCp="5" unlocklv="-1_-1" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>
+<hero type="LEVAN"        nickName="LEVAN"      hp="700"  mspd="150" aspd="1.5" range="150" atk_PHY="70"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="50" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="0" hireCp="5" unlocklv="1_2" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>
+<!--<hero type="KORATH"      nickName="Korath"      hp="400"  mspd="150" aspd="1.5" range="150" atk_PHY="90"  atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="50" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" stamina="10" staminaMax="50" hireSilver="0" hireGold="0" hireCp="5" unlocklv="-1_-1" hpProportion="10" atkProportion="0.7" defProportion="1.7" descriptions=""/>-->
+		
+
+</heroData>
+<enemies>
+<enemy type="Ch1_Chitauri"         hp="300" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>
+<enemy type="Ch1_Guard1"           hp="300" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>		
+<enemy type="Ch1_Guard2"           hp="300" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>		
+<enemy type="Ch1_Male_Prisoner2"   hp="300" mspd="120" aspd="1.5" range="100" atk_PHY="5" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="2" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>
+<enemy type="Ch1_Female_Prisoner1" hp="300" mspd="75"  aspd="1.5" range="100" atk_PHY="5" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="2" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>
+<enemy type="Ch1_Female_Prisoner2" hp="300" mspd="75"  aspd="1.5" range="100" atk_PHY="5" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="2" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>		
+<enemy type="Ch1_Male_Prisoner1"   hp="600" mspd="120" aspd="1.5" range="100" atk_PHY="2" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="2" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>						
+<enemy type="Ch1_Korath"           hp="1000" mspd="150"  aspd="1.5" range="100" atk_PHY="10" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="7" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>
+<enemy type="Ch1_Male_Prisoner3"   hp="300" mspd="75"  aspd="1.5" range="100" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>
+<enemy type="Ch1_Male_Prisoner4"   hp="300" mspd="75"  aspd="1.5" range="100" atk_PHY="5" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="2" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch1_Boss"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch2_Levan"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch2_Nebula"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch2_Skunge"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch2_Minion1"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch2_Minion2"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch3_Boss_RedKing"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch3_Caiera"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch3_Miek"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch3_PitMonster1"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+<enemy type="Ch3_PitMonster2"             hp="400" mspd="75"  aspd="1.5" range="150" atk_PHY="4" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="3" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" rewardSilver="3" rewardExp="1"/>	
+</enemies>
+<expList>
+    <exp lv="1" num="12" />
+    <exp lv="2" num="67" />
+    <exp lv="3" num="129" />
+    <exp lv="4" num="184" />
+    <exp lv="5" num="237" />
+    <exp lv="6" num="421" />
+    <exp lv="7" num="526" />
+    <exp lv="8" num="658" />
+    <exp lv="9" num="823" />
+    <exp lv="10" num="1029"/>
+    <exp lv="11" num="1286"/>
+    <exp lv="12" num="3216"/>
+    <exp lv="13" num="4020"/>
+    <exp lv="14" num="5026"/>
+    <exp lv="15" num="6282"/>
+    <exp lv="16" num="7852"/>
+    <exp lv="17" num="9816"/>
+    <exp lv="18" num="12270"/>
+    <exp lv="19" num="15338"/>
+    <exp lv="20" num="19172"/>
+    <exp lv="21" num="23966"/>
+    <exp lv="22" num="29958"/>
+    <exp lv="23" num="37448"/>
+    <exp lv="24" num="46810"/>
+    <exp lv="25" num="58512"/>
+    <exp lv="26" num="73140"/>
+    <exp lv="27" num="91426"/>
+    <exp lv="28" num="114282"/>
+    <exp lv="29" num="142852"/>
+    <exp lv="30" num="178566"/>
+    <exp lv="31" num="223208"/>
+    <exp lv="32" num="279010"/>
+    <exp lv="33" num="348762"/>
+    <exp lv="34" num="435952"/>
+    <exp lv="35" num="544940"/>
+    <exp lv="36" num="681176"/>
+    <exp lv="37" num="851470"/>
+    <exp lv="38" num="1064338"/>
+    <exp lv="39" num="1330422"/>
+    <exp lv="40" num="1663028"/>
+</expList>
+</root>
+ 

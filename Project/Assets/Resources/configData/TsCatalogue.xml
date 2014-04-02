@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalogue>
+    <!--<PartStart chapters="Beginer"/>-->
+	<Part_FirstPlay         chapters="CommonPrepare|MainMenu_FirstIn"/>
+	<Part_FirstInChapterDlg chapters="CommonPrepare|MainMenu_FirstIn_ChapterDlg"/>
+	<Part_Level1_Battle     chapters="CommonPrepare|Level1_Move|Level1_Attack"/>
+	<Part_Level1_Vectory    chapters="CommonPrepare|Level1_Vectory"/>
+	<Part_Level2_GearUp     chapters="CommonPrepare|Level2_GearUp"/>
+	<Part_Level2_Vectory    chapters="CommonPrepare|Level2_Vectory"/>
+	
+	<Part_Level3_Change_EnterDlg chapters="CommonPrepare|Level3_Change_EnterDlg"/> 
+	<Part_Level3_Change_Recruite chapters="CommonPrepare|Level3_Change_Recruite"/>
+	<Part_Level3_Change_Select_Directly chapters="CommonPrepare|Level3_Change_Select_Directly"/>
+	<Part_Level3_Change_Select chapters="CommonPrepare|Level3_Change_Select"/>
+	<Part_Level3_Change_End chapters="CommonPrepare|Level3_Change_End"/>
+	
+	<!--<Part_Level3_Change     chapters="CommonPrepare|Level3_Change"/>-->
+	<!--<Part_Level3_Ready      chapters="CommonPrepare|Level3_Ready"/>-->
+	<Part_Level3_Vectory    chapters="CommonPrepare|Level3_Vectory"/>
+	<Part_Level4_SkillTree  chapters="CommonPrepare|Level4_SkillTree"/>
+	<Part_Level4_Skill      chapters="CommonPrepare|Level4_Skill"/>
+	<Part_Level4_SkillTree_StarLord chapters="CommonPrepare|Level4_SkillTree_StarLord"/>
+	<Part_Level4_SkillTree_StarLord_Equip chapters="CommonPrepare|Level4_SkillTree_StarLord_Equip"/>
+	<Part_Level4_SkillTree_Drax chapters="CommonPrepare|Level4_SkillTree_Drax"/>
+	<Part_Level4_SkillTree_Drax_Equip chapters="CommonPrepare|Level4_SkillTree_Drax_Equip"/>
+	<Part_Level4_SkillTree_Finished chapters="CommonPrepare|Level4_SkillTree_Finished"/>
+</Catalogue>

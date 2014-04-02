@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="MEDIUM_Arm_Back_Lower_01"/>
+  <part name="MEDIUM_Arm_Back_Lower_02"/>
+  <part name="MEDIUM_Arm_Back_Upper_01"/>
+  <part name="MEDIUM_Arm_Top_Lower_01"/>
+  <part name="MEDIUM_Arm_Top_Lower_02"/>
+  <part name="MEDIUM_Arm_Top_Upper_01"/>
+  <part name="MEDIUM_Head_01"/>
+  <part name="MEDIUM_Head_02"/>
+  <part name="MEDIUM_Head_03"/>
+  <part name="MEDIUM_Head_06"/>
+  <part name="MEDIUM_Head_07"/>
+  <part name="MEDIUM_Leg_Back_Lower_01"/>
+  <part name="MEDIUM_Leg_Back_Upper_01"/>
+  <part name="MEDIUM_Leg_Top_Lower_01"/>
+  <part name="MEDIUM_Leg_Top_Upper_01"/>
+  <part name="MEDIUM_Shoot_FX_02"/>
+  <part name="MEDIUM_Shoot_FX_04"/>
+  <part name="MEDIUM_Torso_01"/>
+  <part name="MEDIUM_Weapon_01"/>
+  <part name="Special_effects_01c"/>
+  <part name="drop_shadow"/>
+  <part name="effect_02a"/>
+  <part name="effect_02a__1"/>
+  <part name="effect_02a__2"/>
+  <part name="effect_02a__3"/>
+  <part name="effect_02a__4"/>
+  <part name="effect_02a__5"/>
+  <part name="effect_02a__6"/>
+  <part name="effect_02a__7"/>
+</root>

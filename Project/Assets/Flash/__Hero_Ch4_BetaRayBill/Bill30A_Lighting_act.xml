@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <act name="Attack" totalFrame="15">
+    <Special_effects_107c>
+      <data pos="180.55|658.5" frame="1" m="0.001|0|0|0.001" v="0"/>
+      <data pos="180.55|658.5" frame="15" m="1.000|0.000|0.000|1.000"/>
+    </Special_effects_107c>
+    <Special_effects_106c>
+      <data pos="153.75|699.55" frame="1" m="0.001|0|0|0.001" v="0"/>
+      <data pos="153.75|699.55" frame="13" m="1.000|0.000|0.000|1.000"/>
+      <data pos="153.75|699.55" frame="14" m="1.000|0.000|0.000|1.000"/>
+      <data pos="153.75|699.55" frame="15" m="0.001|0|0|0.001" v="0"/>
+    </Special_effects_106c>
+    <Special_effects_105c>
+      <data pos="188.05|737.75" frame="1" m="0.001|0|0|0.001" v="0"/>
+      <data pos="188.05|737.75" frame="11" m="1.000|0.000|0.000|1.000"/>
+      <data pos="188.05|737.75" frame="12" m="1.000|0.000|0.000|1.000"/>
+      <data pos="188.05|737.75" frame="13" m="0.001|0|0|0.001" v="0"/>
+    </Special_effects_105c>
+    <Special_effects_104c>
+      <data pos="193|1078.8" frame="1" m="0.001|0|0|0.001" v="0"/>
+      <data pos="193|1078.8" frame="9" m="1.000|0.000|0.000|1.000"/>
+      <data pos="193|1078.8" frame="10" m="1.000|0.000|0.000|1.000"/>
+      <data pos="193|1078.8" frame="11" m="0.001|0|0|0.001" v="0"/>
+    </Special_effects_104c>
+    <Special_effects_103c>
+      <data pos="174.2|1329.35" frame="1" m="0.001|0|0|0.001" v="0"/>
+      <data pos="174.2|1329.35" frame="7" m="1.000|0.000|0.000|1.000"/>
+      <data pos="174.2|1329.35" frame="8" m="1.000|0.000|0.000|1.000"/>
+      <data pos="174.2|1329.35" frame="9" m="0.001|0|0|0.001" v="0"/>
+    </Special_effects_103c>
+    <Special_effects_102c>
+      <data pos="232.6|1443.45" frame="1" m="0.001|0|0|0.001" v="0"/>
+      <data pos="232.6|1443.45" frame="5" m="1.000|0.000|0.000|1.000"/>
+      <data pos="232.6|1443.45" frame="6" m="1.000|0.000|0.000|1.000"/>
+      <data pos="232.6|1443.45" frame="7" m="0.001|0|0|0.001" v="0"/>
+    </Special_effects_102c>
+    <Special_effects_101c>
+      <data pos="270.55|1666.5" frame="1" m="0.001|0|0|0.001" v="0"/>
+      <data pos="270.55|1666.5" frame="3" m="1.000|0.000|0.000|1.000"/>
+      <data pos="270.55|1666.5" frame="4" m="1.000|0.000|0.000|1.000"/>
+      <data pos="270.55|1666.5" frame="5" m="0.001|0|0|0.001" v="0"/>
+    </Special_effects_101c>
+    <Special_effects_100c>
+      <data pos="422.1|2213.55" frame="1" m="0.001|0|0|0.001" v="0"/>
+      <data pos="422.1|2213.55" frame="2" m="1.000|0.000|0.000|1.000"/>
+      <data pos="422.1|2213.55" frame="3" m="0.001|0|0|0.001" v="0"/>
+    </Special_effects_100c>
+    <Special_effects_99c>
+      <data pos="381.95|2442.35" frame="1" m="1.000|0.000|0.000|1.000"/>
+      <data pos="381.95|2442.35" frame="2" m="0.001|0|0|0.001" v="0"/>
+    </Special_effects_99c>
+  </act>
+</root>

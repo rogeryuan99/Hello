@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="E9" pos="-184|84" roration="0" epos="255|-252"/>
+  <part name="E2" pos="-341|972" roration="0" epos="509|-107"/>
+  <part name="E7" pos="-512|560" roration="0" epos="512|-116"/>
+  <part name="E8" pos="-128|508" roration="0" epos="125|-126"/>
+  <part name="E1" pos="211|859" roration="-26" epos="256|-29"/>
+  <part name="E3" pos="787|404" roration="-74" epos="256|-29"/>
+  <part name="E4" pos="802|-373" roration="-119" epos="256|-29"/>
+  <part name="E5" pos="-567|-550" roration="113" epos="256|-29"/>
+  <part name="E6" pos="-676|256" roration="50" epos="256|-29"/>
+</root>

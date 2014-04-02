@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="flash10" pos="-43|103" roration="0" epos="-2|12"/>
+  <part name="flash9" pos="33|93" roration="0" epos="-1|5"/>
+  <part name="flash14" pos="182|172" roration="0" epos="0|-24"/>
+  <part name="flash13" pos="83|242" roration="-5" epos="0|-24"/>
+  <part name="flash11" pos="-171|167" roration="0" epos="0|-24"/>
+  <part name="flash12" pos="-55|243" roration="0" epos="0|-24"/>
+  <part name="flash7" pos="-4|26" roration="0" epos="0|83"/>
+  <part name="flash8" pos="-4|27" roration="0" epos="1|68"/>
+  <part name="flash6" pos="1|36" roration="0" epos="0|0"/>
+  <part name="flash5" pos="-100|315" roration="-69" epos="0|0"/>
+  <part name="flash4" pos="134|318" roration="-23" epos="-1|-11"/>
+  <part name="flash3" pos="262|127" roration="12" epos="-1|-11"/>
+  <part name="flash2" pos="-256|201" roration="-24" epos="-1|-11"/>
+  <part name="flash1" pos="-4|15" roration="0" epos="0|69"/>
+</root>

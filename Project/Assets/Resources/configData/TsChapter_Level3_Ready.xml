@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="0.sleep">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="PauseButton"             call="GrayLock"            parms=""/>
+			<action obj="LevelManager"            call="enabledBattleButton" parms="false"/>
+			<action obj="TsUserBehaviorProcessor" call="Sleep"               parms="0.5"/>
+		</actions>
+	</Step>	
+	<Step hide_name="1.Talk">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsDialog" parent="UIRoot" scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsNguiMask"  parent="UIRoot"     scale="2048"/>
+		</creations>
+		<actions>        
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsNguiMask|0|0|-100"/> 
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsDialog|0|0|-200"/>
+			<action obj="TsDialog"                call="FillData"             parms="Cosmo|Great work, good to see the team coming back together. Time to get the walking tree and furry little rodent."/>
+			<action obj="TsFtueManager"           call="MarkEventFinished"    parms="5"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Button-Next|Camera"/>
+			<action obj="LevelManager"            call="enabledBattleButton"  parms="true"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsNguiMask|TsDialog"/>
+			<action obj="PauseButton"             call="Normal"               parms=""/>
+		</actions>
+	</Step>	
+</Chapter>
+

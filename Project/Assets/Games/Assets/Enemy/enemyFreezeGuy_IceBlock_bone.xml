@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="bks6" pos="-8|-42" roration="0" epos="0|-7"/>
+  <part name="bks5" pos="52|7" roration="0" epos="0|0"/>
+  <part name="bks4" pos="-74|21" roration="0" epos="-2|-1"/>
+  <part name="bks3" pos="-12|48" roration="0" epos="0|6"/>
+  <part name="bks2" pos="54|94" roration="0" epos="4|0"/>
+  <part name="bks1" pos="-27|106" roration="0" epos="3|-2"/>
+  <part name="FGB1" pos="-6|0" roration="0" epos="0|0"/>
+  <part name="FGB2" pos="-6|0" roration="0" epos="0|0"/>
+  <part name="FGB3" pos="-6|0" roration="0" epos="0|0"/>
+  <part name="FGB4" pos="-6|0" roration="0" epos="0|0"/>
+  <part name="FGB5" pos="-6|0" roration="0" epos="0|0"/>
+</root>

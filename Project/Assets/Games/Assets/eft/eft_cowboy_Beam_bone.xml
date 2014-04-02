@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="SKA3_E" pos="-2|0" roration="0" epos="0|124"/>
+  <part name="SKA2_E" pos="-2|1" roration="0" epos="0|0"/>
+  <part name="SKA1_E" pos="7|104" roration="0" epos="0|-7"/>
+</root>

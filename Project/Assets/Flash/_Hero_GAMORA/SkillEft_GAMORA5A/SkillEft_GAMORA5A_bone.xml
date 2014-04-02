@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="dbzg3C" pos="5|6.5" roration="0" epos="0|0"/>
+  <part name="dbzg2C" pos="5|6.5" roration="0" epos="0|0"/>
+  <part name="dbzg1C" pos="5|6.5" roration="0" epos="0|0"/>
+  <part name="sd2C" pos="6.45|165.85" roration="0" epos="0|0"/>
+  <part name="sd3C" pos="10.75|202.9" roration="0" epos="0|0"/>
+  <part name="sd4C" pos="-3.9|50.1" roration="0" epos="0|0"/>
+  <part name="gj1C" pos="0.4|528.55" roration="0" epos="-3.2|0"/>
+  <part name="gj2C" pos="0.4|79.2" roration="0" epos="0|0"/>
+</root>

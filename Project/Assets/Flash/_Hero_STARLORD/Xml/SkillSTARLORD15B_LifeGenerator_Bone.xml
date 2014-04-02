@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="EnergySmall"/>
+  <part name="box"/>
+  <part name="light_018"/>
+  <part name="shieldGenerator_01a"/>
+  <part name="shieldGenerator_02a"/>
+  <part name="shieldGenerator_02b"/>
+</root>

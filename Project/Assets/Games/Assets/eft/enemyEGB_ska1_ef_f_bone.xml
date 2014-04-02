@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="GZ2" pos="-1|-98" roration="0" epos="0|0"/>
+  <part name="GZ" pos="-1|-98" roration="0" epos="0|0"/>
+  <part name="GZ3" pos="-1|-98" roration="0" epos="0|0"/>
+  <part name="GZ4" pos="0|0" roration="0" epos="0|0"/>
+  <part name="GZ7" pos="-1|-144" roration="0" epos="0|138"/>
+  <part name="GZ6" pos="6|-137" roration="0" epos="-10|440"/>
+  <part name="GZ5" pos="6|-137" roration="0" epos="-10|440"/>
+  <part name="GZ8" pos="-391|310" roration="97" epos="0|0"/>
+  <part name="GZ9" pos="212|478" roration="24" epos="0|0"/>
+  <part name="GZ10" pos="147|416" roration="28" epos="0|0"/>
+</root>

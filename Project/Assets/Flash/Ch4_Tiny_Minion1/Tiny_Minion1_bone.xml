@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="TINY_Arm_Back_Lower_01"/>
+  <part name="TINY_Arm_Back_Upper_01"/>
+  <part name="TINY_Arm_Top_Lower_01"/>
+  <part name="TINY_Arm_Top_Upper_01"/>
+  <part name="TINY_Head_01"/>
+  <part name="TINY_Head_02"/>
+  <part name="TINY_Leg_Back_Lower_01"/>
+  <part name="TINY_Leg_Back_Upper_01"/>
+  <part name="TINY_Leg_Top_Lower_01"/>
+  <part name="TINY_Leg_Top_Upper_01"/>
+  <part name="TINY_Torso_01"/>
+  <part name="TINY_Weapon_01"/>
+  <part name="drop_shadow"/>
+</root>

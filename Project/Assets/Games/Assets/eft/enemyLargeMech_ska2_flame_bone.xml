@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="flame15" pos="12|-21" roration="0" epos="0|0"/>
+  <part name="flame19" pos="-7|16" roration="0" epos="0|0"/>
+  <part name="flame1" pos="-12|-54" roration="0" epos="-1|36"/>
+  <part name="flame2" pos="-11|-41" roration="0" epos="0|0"/>
+  <part name="flame3" pos="-11|-41" roration="0" epos="0|0"/>
+  <part name="flame5" pos="127|12" roration="0" epos="0|0"/>
+  <part name="flame6" pos="127|15" roration="0" epos="0|0"/>
+  <part name="flame7" pos="129|-3" roration="0" epos="0|0"/>
+  <part name="flame8" pos="135|23" roration="-37" epos="0|0"/>
+  <part name="flame9" pos="-121|29" roration="0" epos="0|0"/>
+  <part name="flame10" pos="-104|26" roration="0" epos="0|0"/>
+  <part name="flame11" pos="-118|10" roration="-180" epos="0|0"/>
+  <part name="flame12" pos="7|68" roration="0" epos="0|0"/>
+  <part name="flame13" pos="8|68" roration="0" epos="0|0"/>
+  <part name="flame14" pos="-14|55" roration="0" epos="0|0"/>
+  <part name="flame4" pos="0|3" roration="-37" epos="0|0"/>
+  <part name="flame17" pos="-148|22" roration="37" epos="0|0"/>
+  <part name="flame18" pos="-6|52" roration="37" epos="0|0"/>
+</root>

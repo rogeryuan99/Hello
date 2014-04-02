@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<news isShow="1" merchandiseID="9804" newsURL="http://majesco.com">
+        <![CDATA[指挥官，你去哪儿了？你的船员都在等着你呢！]]>
+    </news>
+	<defeatTxt>
+		<level num="1_7" type="team" >
+			<![CDATA[也许换换队伍组合会有更好的效果。]]>
+		</level>
+		<level num="8_12" type="merchant">
+			<![CDATA[带些复活药再来吧！]]>
+		</level>
+		<level num="0" type="tryAgain">
+			<![CDATA[别跪在这种地方。]]>
+		</level>
+		<level num="-1" type="back">
+			<![CDATA[你想退出战斗吗？]]>
+		</level>
+	</defeatTxt>
+	<fbInviteText>
+		<![CDATA[Help me kick the alien Horde’s butt with your own misfit band of mercenaries in Sci-Fi Heroes for iPhone and iPad!  Download it for free at www.scifiheroes.com/download.]]>
+	</fbInviteText>
+	<appStoreRateURL>
+		<![CDATA[itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=513280725]]>
+	</appStoreRateURL>
+    <surveyURL>
+		<![CDATA[http://scifiheroes.com]]>
+	</surveyURL>
+    <feedbackMail>
+		<![CDATA[mailto:mobilefeedback@majesco.net?subject=Feedback%3A%20Sci-Fi%20Heroes]]>
+	</feedbackMail>
+</root>
+
+
+
+
+
+
+

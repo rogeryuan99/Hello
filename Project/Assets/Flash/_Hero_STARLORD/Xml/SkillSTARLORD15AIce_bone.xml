@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="ICE_A01"/>
+  <part name="ICE_A02"/>
+  <part name="ICE_A03"/>
+  <part name="ICE_A04"/>
+  <part name="ICE_A05"/>
+  <part name="ICE_A06"/>
+  <part name="ICE_A07"/>
+  <part name="ICE_A08"/>
+  <part name="ICE_B01"/>
+  <part name="ICE_B01__1"/>
+  <part name="ICE_B01__2"/>
+  <part name="ICE_B01__3"/>
+  <part name="ICE_B01__4"/>
+  <part name="ICE_B01__5"/>
+  <part name="ICE_B01__6"/>
+  <part name="ICE_B01__7"/>
+  <part name="ICE_B01__8"/>
+  <part name="ICE_B01__9"/>
+  <part name="drop_shadow"/>
+</root>

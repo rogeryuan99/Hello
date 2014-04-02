@@ -1,0 +1,414 @@
+{
+    "serverURL": "http://download.majesco.net/SFH/v1003/",
+    "INIT": {
+        "DRUID": {
+            "version": 1,
+            "url": "hero_new/HeroIdMater.prbSH"
+        },
+        "TANK": {
+            "version": 1,
+            "url": "hero_new/heroExxoNew.prbSH"
+        },
+        "WIZARD": {
+            "version": 1,
+            "url": "hero_new/HeroWizardNew.prbSH"
+        },
+        "PRIEST": {
+            "version": 1,
+            "url": "hero_new/HeroPriestNew.prbSH"
+        },
+        "TRAINER": {
+            "version": 3,
+            "url": "hero_new/HeroTrainerNew.prbSH"
+        },
+        "COWBOY": {
+            "version": 1,
+            "url": "hero_new/HeroCowboyNew.prbSH"
+        }
+    },
+    "TUTORIAL": {
+        "TrooperA": {
+            "version": 1,
+            "url": "enemy0207/enemyTrooperA.prbSH"
+        },
+        "bg_01_02": {
+            "version": 1,
+            "url": "bg/bg_01_02.imageSH"
+        },
+        "bg_01_02_02": {
+            "version": 1,
+            "url": "bg/bg_01_02_02.imageSH"
+        },
+        "bg_01_01": {
+            "version": 1,
+            "url": "bg/bg_01_01.imageSH"
+        }
+    },
+    "LEVEL1-4": {
+        "bg_01_03": {
+            "version": 1,
+            "url": "bg/bg_01_03.imageSH"
+        },
+        "bg_01_03_02": {
+            "version": 1,
+            "url": "bg/bg_01_03_02.imageSH"
+        },
+        "TrooperB": {
+            "version": 1,
+            "url": "enemy0207/enemyTrooperB.prbSH"
+        },
+        "FireSalamanderR": {
+            "version": 1,
+            "url": "enemy0207/enemyFireSalamanderR.prbSH"
+        },
+        "bg_01_boss02": {
+            "version": 1,
+            "url": "bg/bg_01_boss02.imageSH"
+        },
+        "FlyingDrone": {
+            "version": 1,
+            "url": "enemy0207/enemyFlyingDrone.prbSH"
+        },
+        "FireSalamanderB": {
+            "version": 1,
+            "url": "enemy0207/enemyFireSalamanderB.prbSH"
+        },
+        "FlyingDrone2": {
+            "version": 1,
+            "url": "enemy0207/enemyFlyingDrone2.prbSH"
+        },
+        "FlamingRock": {
+            "version": 1,
+            "url": "enemy0207/enemyFlamingRock.prbSH"
+        },
+        "bg_01_04": {
+            "version": 1,
+            "url": "bg/bg_01_04.imageSH"
+        },
+        "bg_01_04_02": {
+            "version": 1,
+            "url": "bg/bg_01_04_02.imageSH"
+        },
+        "bg_01_05": {
+            "version": 1,
+            "url": "bg/bg_01_05.imageSH"
+        },
+        "bg_01_06": {
+            "version": 1,
+            "url": "bg/bg_01_06.imageSH"
+        },
+        "bg_01_arena": {
+            "version": 1,
+            "url": "bg/bg_01_arena.imageSH"
+        },
+        "bg_01_boss01": {
+            "version": 1,
+            "url": "bg/bg_01_boss01.imageSH"
+        },
+        "bg_01_06_02": {
+            "version": 1,
+            "url": "bg/bg_01_06_02.imageSH"
+        }
+    },
+    "LEVEL4+": {
+        "TheCoward": {
+            "version": 1,
+            "url": "enemy0207/enemyTheCoward.prbSH"
+        },
+        "TontonRider": {
+            "version": 1,
+            "url": "enemy0207/enemyTontonRider.prbSH"
+        },
+        "SnowWizard": {
+            "version": 1,
+            "url": "enemy0207/enemySnowWizard.prbSH"
+        },
+        "bg_02_01": {
+            "version": 1,
+            "url": "bg/bg_02_01.imageSH"
+        },
+        "bg_02_02": {
+            "version": 1,
+            "url": "bg/bg_02_02.imageSH"
+        },
+        "bg_02_03": {
+            "version": 1,
+            "url": "bg/bg_02_03.imageSH"
+        },
+        "bg_02_03_02": {
+            "version": 1,
+            "url": "bg/bg_02_03_02.imageSH"
+        },
+        "bg_02_04": {
+            "version": 1,
+            "url": "bg/bg_02_04.imageSH"
+        },
+        "bg_02_04_02": {
+            "version": 1,
+            "url": "bg/bg_02_04_02.imageSH"
+        },
+        "bg_02_05": {
+            "version": 1,
+            "url": "bg/bg_02_05.imageSH"
+        },
+        "bg_02_05_02": {
+            "version": 1,
+            "url": "bg/bg_02_05_02.imageSH"
+        },
+        "bg_02_06": {
+            "version": 1,
+            "url": "bg/bg_02_06.imageSH"
+        },
+        "bg_02_06_02": {
+            "version": 1,
+            "url": "bg/bg_02_06_02.imageSH"
+        },
+        "bg_02_arena": {
+            "version": 1,
+            "url": "bg/bg_02_arena.imageSH"
+        },
+        "bg_02_boss01": {
+            "version": 1,
+            "url": "bg/bg_02_boss01.imageSH"
+        },
+        "bg_02_boss02": {
+            "version": 1,
+            "url": "bg/bg_02_boss02.imageSH"
+        },
+        "bg_03_01": {
+            "version": 1,
+            "url": "bg/bg_03_01.imageSH"
+        },
+        "bg_03_01_02": {
+            "version": 1,
+            "url": "bg/bg_03_01_02.imageSH"
+        },
+        "bg_03_02": {
+            "version": 1,
+            "url": "bg/bg_03_02.imageSH"
+        },
+        "bg_03_02_02": {
+            "version": 1,
+            "url": "bg/bg_03_02_02.imageSH"
+        },
+        "bg_03_03": {
+            "version": 1,
+            "url": "bg/bg_03_03.imageSH"
+        },
+        "bg_03_03_02": {
+            "version": 1,
+            "url": "bg/bg_03_03_02.imageSH"
+        },
+        "bg_03_04": {
+            "version": 1,
+            "url": "bg/bg_03_04.imageSH"
+        },
+        "bg_03_04_02": {
+            "version": 1,
+            "url": "bg/bg_03_04_02.imageSH"
+        },
+        "bg_03_05": {
+            "version": 1,
+            "url": "bg/bg_03_05.imageSH"
+        },
+        "bg_03_arena": {
+            "version": 1,
+            "url": "bg/bg_03_arena.imageSH"
+        },
+        "bg_03_boss01": {
+            "version": 1,
+            "url": "bg/bg_03_boss01.imageSH"
+        },
+        "bg_03_boss02": {
+            "version": 1,
+            "url": "bg/bg_03_boss02.imageSH"
+        },
+        "bg_04_01": {
+            "version": 1,
+            "url": "bg/bg_04_01.imageSH"
+        },
+        "bg_04_01_02": {
+            "version": 1,
+            "url": "bg/bg_04_01_02.imageSH"
+        },
+        "bg_04_02": {
+            "version": 1,
+            "url": "bg/bg_04_02.imageSH"
+        },
+        "bg_04_02_02": {
+            "version": 1,
+            "url": "bg/bg_04_02_02.imageSH"
+        },
+        "bg_04_03": {
+            "version": 1,
+            "url": "bg/bg_04_03.imageSH"
+        },
+        "bg_04_04": {
+            "version": 1,
+            "url": "bg/bg_04_04.imageSH"
+        },
+        "bg_04_04_02": {
+            "version": 1,
+            "url": "bg/bg_04_04_02.imageSH"
+        },
+        "bg_04_05": {
+            "version": 1,
+            "url": "bg/bg_04_05.imageSH"
+        },
+        "bg_04_05_02": {
+            "version": 1,
+            "url": "bg/bg_04_05_02.imageSH"
+        },
+        "bg_04_arena": {
+            "version": 1,
+            "url": "bg/bg_04_arena.imageSH"
+        },
+        "bg_04_boss01": {
+            "version": 1,
+            "url": "bg/bg_04_boss01.imageSH"
+        },
+        "bg_04_boss02": {
+            "version": 1,
+            "url": "bg/bg_04_boss02.imageSH"
+        },
+        "newipad_bg": {
+            "version": 1,
+            "url": "bg/newipad_bg.imageSH"
+        },
+        "EmpireGeneralB": {
+            "version": 1,
+            "url": "enemy0207/enemyEmpireGeneralB.prbSH"
+        },
+        "SandHunterA": {
+            "version": 1,
+            "url": "enemy0207/enemySandHunterA.prbSH"
+        },
+        "LocustQueen": {
+            "version": 1,
+            "url": "enemy0207/enemyLocustQueen.prbSH"
+        },
+        "RobotMechB": {
+            "version": 1,
+            "url": "enemy0207/enemyRobotMechB.prbSH"
+        },
+        "LargeMech": {
+            "version": 1,
+            "url": "enemy0207/enemyLargeMech.prbSH"
+        },
+        "Doppelgangers": {
+            "version": 1,
+            "url": "enemy0207/enemyDoppelgangers.prbSH"
+        },
+        "FreezeGuy": {
+            "version": 1,
+            "url": "enemy0207/enemyFreezeGuy.prbSH"
+        },
+        "EnemyHealer": {
+            "version": 1,
+            "url": "enemy0207/enemyEnemyHealer.prbSH"
+        },
+        "Mindbender": {
+            "version": 1,
+            "url": "enemy0207/enemyMindbender.prbSH"
+        },
+        "SandHunterB": {
+            "version": 1,
+            "url": "enemy0207/enemySandHunterB.prbSH"
+        },
+        "SalamanderRider": {
+            "version": 1,
+            "url": "enemy0207/enemySalamanderRider.prbSH"
+        },
+        "SnowGnomeB": {
+            "version": 1,
+            "url": "enemy0207/enemySnowGnomeB.prbSH"
+        },
+        "MetalRover": {
+            "version": 1,
+            "url": "enemy0207/enemyMetalRover.prbSH"
+        },
+        "Yeti": {
+            "version": 1,
+            "url": "enemy0207/enemyYeti.prbSH"
+        },
+        "SnowGnomeA": {
+            "version": 1,
+            "url": "enemy0207/enemySnowGnomeA.prbSH"
+        },
+        "WormB": {
+            "version": 1,
+            "url": "enemy0207/enemyWormB.prbSH"
+        },
+        "CanonRider": {
+            "version": 1,
+            "url": "enemy0207/enemyCanonRider.prbSH"
+        },
+        "CheapShot": {
+            "version": 1,
+            "url": "enemy0207/enemyCheapShot.prbSH"
+        },
+        "WormA": {
+            "version": 1,
+            "url": "enemy0207/enemyWormA.prbSH"
+        },
+        "RobotMechA": {
+            "version": 1,
+            "url": "enemy0207/enemyRobotMechA.prbSH"
+        },
+        "WyvernRider": {
+            "version": 1,
+            "url": "enemy0207/enemyWyvernRider.prbSH"
+        },
+        "FireWizard": {
+            "version": 1,
+            "url": "enemy0207/enemyFireWizard.prbSH"
+        }
+    },
+    "Video": [
+        {
+            "version": 1,
+            "url": "videos/intro.mp4",
+            "type": "INTRO"
+        },
+        {
+            "version": 1,
+            "url": "videos/MARINE.mp4",
+            "type": "MARINE"
+        },
+        {
+            "version": 1,
+            "url": "videos/HEALER.mp4",
+            "type": "HEALER"
+        },
+        {
+            "version": 1,
+            "url": "videos/WIZARD.mp4",
+            "type": "WIZARD"
+        },
+        {
+            "version": 1,
+            "url": "videos/TANK.mp4",
+            "type": "TANK"
+        },
+        {
+            "version": 1,
+            "url": "videos/TRAINER.mp4",
+            "type": "TRAINER"
+        },
+        {
+            "version": 1,
+            "url": "videos/COWBOY.mp4",
+            "type": "COWBOY"
+        },
+        {
+            "version": 1,
+            "url": "videos/DRUID.mp4",
+            "type": "DRUID"
+        },
+        {
+            "version": 1,
+            "url": "videos/PRIEST.mp4",
+            "type": "PRIEST"
+        }
+    ]
+}

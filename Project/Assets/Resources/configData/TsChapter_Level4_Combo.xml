@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="1.Prepare">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="LockInput"              parms="true"/>
+			<action obj="TsUserBehaviorProcessor" call="LockMove"               parms=""/>
+			<action obj="TsFtueManager"           call="BlockEnemyRandomAttack" parms=""/>
+			<action obj="TsUserBehaviorProcessor" call="Sleep"                  parms=".1"/>
+			<action obj="TsUserBehaviorProcessor" call="LockObjects"            parms="STARLORD(Clone)|GAMORA(Clone)"/>
+			<action obj="TsUserBehaviorProcessor" call="LockAttack"             parms=""/>
+		</actions>
+	</Step>	
+
+
+	
+	<!--<Step hide_name="1.Teach StarLord Skill">
+		<creations>
+			<creation type="ENEMY" prefix="" obj="Ch1_Guard1" parent="" scale=".18"/>
+		</creations>
+		<actions>
+			<action obj="TsObjectMover"           call="MoveTo"               parms="Ch1_Guard1|500|0|-50"/>
+			<action obj="TsFunctionCaller"        call="SendVector3Message"   parms="Ch1_Guard1|move|350|0|-50"/>
+		</actions>
+	</Step>-->
+	
+	<Step hide_name="1.1.Tip To Set Target of Drax">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsFingerTip" parent="GameAnchor" scale="1"/>	
+			<creation type="NORMAL" prefix="Ts" obj="TsDialog"    parent="UIRoot"     scale="1"/>
+		</creations>
+		<actions>
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|** If you want to cast Combo skill of a hero with his partner, the hero or his partner must have a target at first. So, Let set a target of Drax."/> 
+			<action obj="TsObjectFactory"         call="HideGameObject"       parms="Button-Next"/>
+			<action obj="TsUserBehaviorProcessor" call="LockInput"            parms="false"/>
+			<action obj="TsUserBehaviorProcessor" call="UnlockAttack"         parms=""/>
+
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|DRAX(Clone)"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|.5"/>
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveFromSomethingToSomething|DRAX(Clone)|Ch1_Guard1|1.5|.5|3|easeInOutQuad"/>   
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|.5"/> 
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			
+			<action obj="TsUserBehaviorProcessor" call="WaitToDragSomethingOnSomething" parms="DRAX(Clone)|GameCamera|Ch1_Guard1|GameCamera"/>
+			<action obj="Ch1_Guard1"              call="LockHealth"           parms=""/>
+			
+			<action obj="TsFingerTip"             call="Stop"                 parms=""/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsFingerTip"/>
+		</actions>
+	</Step>
+	
+	
+	<Step hide_name="1.2.Tip To Click Combo Icon">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsFingerTip" parent="GameAnchor" scale="1"/>			
+		</creations>
+		<actions> 
+			<action obj="TsUserBehaviorProcessor" call="LockInput"            parms="true"/>
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|Now, tap on the Combo icon on the top."/>
+			
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|comboIcon1"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|1"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickDownSomethingAndUpLButton" parms="comboIcon1|Camera"/>
+			<action obj="Ch1_Guard1"              call="UnlockHealth"         parms=""/>
+			
+			<action obj="TsFingerTip"             call="Stop"                 parms=""/>
+			<action obj="TsUserBehaviorProcessor" call="LockInput"            parms="false"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsFingerTip"/>
+			
+			<action obj="TsUserBehaviorProcessor" call="WaitCharacterDie"     parms="Ch1_Guard1"/>
+
+		</actions>
+	</Step>
+
+	<Step hide_name="Finish">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="LockInput"         parms="false"/> 
+			<action obj="TsUserBehaviorProcessor" call="UnlockMove"        parms=""/>
+			<action obj="TsFtueManager"           call="UnblockEnemyRandomAttack" parms=""/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject" parms="TsDialog"/>
+			<action obj="TsUserBehaviorProcessor" call="UnlockObjects"     parms="STARLORD(Clone)|GAMORA(Clone)"/>
+			<action obj="PauseButton"             call="Normal"            parms=""/>"
+		</actions>
+	</Step>	
+
+</Chapter>
+

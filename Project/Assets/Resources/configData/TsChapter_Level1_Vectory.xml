@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="0.sleep">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsUserBehaviorProcessor" call="WaitToVictoryDlgOpened"     parms=""/>
+		</actions>
+	</Step>	
+	<Step hide_name="1.Talk">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsDialog"    parent="UIRoot" scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsNguiMask"  parent="UIRoot" scale="2048"/>
+		</creations>
+		<actions>        
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsNguiMask|0|0|-100"/> 
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsDialog|0|0|-200"/>
+			<action obj="TsDialog"                call="FillData"             parms="Cosmo|UI_TsDialog_8"/>
+			<action obj="TsFtueManager"           call="MarkEventFinished"    parms="1"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Button-Next|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsDialog|TsNguiMask"/>
+		</actions>
+	</Step>	
+	
+	<Step hide_name="2.Tip To Click NextLevelButton">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsFingerTip" parent="GameAnchor" scale="1"/>
+		</creations>
+		<actions>        
+			<action obj="AlertHome_btn"           call="GrayLock"             parms=""/>
+			<action obj="Replay_btn"              call="GrayLock"             parms=""/>
+			
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|Next_btn"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|1"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Next_btn|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsFingerTip"/>
+		</actions>
+	</Step>	
+</Chapter>
+

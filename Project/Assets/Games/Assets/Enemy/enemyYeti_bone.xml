@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="Shadow" pos="-4|1" roration="0" epos="0|0"/>
+  <part name="armUpL" pos="26|84" roration="6" epos="2|-28"/>
+  <part name="shldrL" pos="24|85" roration="0" epos="0|-15"/>
+  <part name="legL" pos="8|3" roration="0" epos="0|3"/>
+  <part name="legUpL" pos="4|33" roration="0" epos="1|-15"/>
+  <part name="bodyUp" pos="-9|67" roration="0" epos="0|-6"/>
+  <part name="legR" pos="-26|9" roration="0" epos="1|-1"/>
+  <part name="legUpR" pos="-17|30" roration="0" epos="-4|-15"/>
+  <part name="sash" pos="-4|28" roration="0" epos="-9|-3"/>
+  <part name="armUpR" pos="-45|81" roration="0" epos="1|-26"/>
+  <part name="shldrR" pos="-40|90" roration="0" epos="-1|-16"/>
+  <part name="head" pos="-14|81" roration="0" epos="1|37"/>
+  <part name="armDownL" pos="44|48" roration="4" epos="2|-12"/>
+  <part name="weapon" pos="-3|43" roration="-48" epos="8|4"/>
+  <part name="weapon2" pos="-3|43" roration="-48" epos="8|4"/>
+  <part name="weapon3" pos="-37|106" roration="28" epos="8|4"/>
+  <part name="armDownR" pos="-43|64" roration="0" epos="10|-15"/>
+  <part name="instance36" pos="-5|71" roration="0" epos="0|0"/>
+  <part name="ef1" pos="0|133" roration="0" epos="-2|-6"/>
+  <part name="ef2" pos="0|133" roration="0" epos="-2|-6"/>
+  <part name="ef3" pos="0|133" roration="0" epos="-2|-6"/>
+  <part name="ef4" pos="0|133" roration="0" epos="-2|-6"/>
+  <part name="ef5" pos="0|133" roration="0" epos="-2|-6"/>
+  <part name="ef6" pos="0|133" roration="0" epos="-2|-6"/>
+  <part name="ef7" pos="0|133" roration="0" epos="-2|-6"/>
+  <part name="ef8" pos="0|133" roration="0" epos="-2|-6"/>
+  <part name="ef1c" pos="0|133" roration="0" epos="-2|-6"/>
+</root>

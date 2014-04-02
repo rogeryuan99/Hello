@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="0.sleep">
+		<creations>
+		</creations>
+		<actions>
+			<!--<action obj="PauseButton"             call="GrayLock"             parms=""/>-->
+			<action obj="PreBattleDlg"            call="setReady" 			  parms="false"/>
+			<action obj="Button-Back_TeamDlg"     call="GrayLock"             parms=""/>
+			<action obj="TsUserBehaviorProcessor" call="Sleep"                parms=".1"/>
+		</actions>
+	</Step>
+	<!--
+	<Step hide_name="talk">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsDialog"    parent="UIRoot"     scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsNguiMask"  parent="UIRoot" scale="2048"/>
+		</creations>
+		<actions>
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsNguiMask|0|0|-800"/> 
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsDialog|0|0|-900"/>
+			<action obj="TsDialog"                call="FillData"             parms="Cosmo|UI_TsDialog_13"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Button-Next|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsNguiMask|TsDialog"/> 
+		</actions>
+	</Step>	
+	-->
+	<Step hide_name="1.Prepare">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="HeroStateDialog_STARLORD(Clone)/GroupNotTraing/3.Remove_btn" call="GrayLock" parms=""/>
+		</actions>
+	</Step>	
+	<Step hide_name="2.Tip to Open Team Screen">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsFingerTip" parent="GameAnchor" scale="1"/>
+		</creations>
+		<actions>        
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|HeroStateDialog_ADD0/GroupAddHero/2.Add_btn"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|1"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="HeroStateDialog_ADD0/GroupAddHero/2.Add_btn|Camera|HeroStateDialog_ADD1/GroupAddHero/2.Add_btn|Camera|HeroStateDialog_ADD2/GroupAddHero/2.Add_btn|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsFingerTip"/> 
+			<action obj="TsUserBehaviorProcessor" call="Sleep"                parms=".1"/>
+		</actions>
+	</Step>
+	<!--<Step hide_name="3.Tip to Recruited">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsFingerTip" parent="GameAnchor" scale="1"/>
+		</creations>
+		<actions>
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|Cell_1"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|1"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Cell_1|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsFingerTip"/> 
+			<action obj="TsUserBehaviorProcessor" call="Sleep"                parms=".1"/>
+		</actions>
+	</Step>
+	<Step hide_name="4.Tip to Selected">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsFingerTip" parent="GameAnchor" scale="1"/>
+		</creations>
+		<actions>
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|Cell_1"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|1"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Cell_1|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsFingerTip"/> 
+			<action obj="TsUserBehaviorProcessor" call="Sleep"                parms=".1"/>
+		</actions>
+	</Step>
+	<Step hide_name="5.Tip To Close TeamChangeDlg">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsFingerTip" parent="GameAnchor" scale="1"/>
+		</creations>
+		<actions>
+			<action obj="TsFingerTip"             call="AddMotion"            parms="MoveToSomething|Cell_1"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="ClickPrompt"/>    
+			<action obj="TsFingerTip"             call="AddMotion"            parms="Wait|1"/>
+			<action obj="TsFingerTip"             call="PlayMotion"           parms=""/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething" parms="Cell_1|Camera"/>
+			<action obj="TsObjectFactory"         call="ReleaseGameObject"    parms="TsFingerTip"/> 
+		</actions>
+	</Step>-->
+</Chapter>
+

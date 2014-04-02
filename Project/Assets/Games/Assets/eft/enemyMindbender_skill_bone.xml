@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="GZ2" pos="18|11" roration="0" epos="-25|146"/>
+  <part name="GZ3" pos="19|6" roration="0" epos="-32|216"/>
+  <part name="GZ4" pos="-18|129" roration="0" epos="0|0"/>
+  <part name="GZ7" pos="-25|-7" roration="0" epos="0|138"/>
+  <part name="jg" pos="64|300" roration="0" epos="2|-6"/>
+  <part name="jg2" pos="127|62" roration="0" epos="0|0"/>
+  <part name="jg3" pos="-177|209" roration="0" epos="0|0"/>
+  <part name="jg4" pos="-173|54" roration="12" epos="0|0"/>
+</root>

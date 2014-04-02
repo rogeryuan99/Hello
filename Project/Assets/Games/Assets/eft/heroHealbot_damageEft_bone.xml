@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="dam4" pos="1|11" roration="-104" epos="-1|0"/>
+  <part name="dam5" pos="-20|9" roration="-45" epos="-1|0"/>
+  <part name="dam6" pos="-18|-24" roration="-130" epos="-1|0"/>
+  <part name="dam7" pos="25|-11" roration="-26" epos="-1|0"/>
+  <part name="dam3" pos="0|1" roration="0" epos="0|0"/>
+  <part name="dam2" pos="4|4" roration="-17" epos="0|-1"/>
+  <part name="dam1" pos="1|2" roration="0" epos="0|0"/>
+</root>

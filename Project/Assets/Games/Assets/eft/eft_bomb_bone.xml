@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="E4" pos="-95|-9" roration="0" epos="0|0"/>
+  <part name="E1" pos="-47|-13" roration="0" epos="0|0"/>
+  <part name="E2" pos="-134|-34" roration="59" epos="0|0"/>
+  <part name="E5" pos="-128|128" roration="0" epos="0|0"/>
+  <part name="E3" pos="-170|170" roration="0" epos="0|14"/>
+</root>

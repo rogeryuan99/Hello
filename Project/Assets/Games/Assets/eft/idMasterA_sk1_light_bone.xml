@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="light4" pos="-2|26" roration="0" epos="0|0"/>
+  <part name="light5" pos="-2|26" roration="0" epos="0|0"/>
+  <part name="light6" pos="-2|26" roration="0" epos="0|0"/>
+  <part name="light3" pos="-20|3" roration="0" epos="6|156"/>
+  <part name="light2" pos="-9|176" roration="0" epos="0|0"/>
+</root>

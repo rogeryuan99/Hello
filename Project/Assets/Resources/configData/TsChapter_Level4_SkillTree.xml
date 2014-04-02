@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="0.sleep">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="PauseButton"             call="GrayLock" parms=""/>
+			<action obj="Button-Back"             call="GrayLock" parms=""/>
+			<action obj="BATTLE"                  call="GrayLock" parms=""/>
+			<action obj="TsUserBehaviorProcessor" call="Sleep"    parms="0.5"/>
+		</actions>
+	</Step>	
+	<Step hide_name="1.Prepare">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsDialog"     parent="UIRoot"     scale="1"/>
+		</creations>
+		<actions>        
+			<action obj="TsObjectFactory"         call="HideGameObject"       parms="Button-Next"/>
+			<action obj="TsObjectMover"           call="MoveToInLocal"        parms="TsDialog|0|0|-200"/>
+			<action obj="TsDialog"                call="FillData"             parms="Narrator|UI_TsDialog_15"/>
+			
+			<action obj="HeroStateDialog_STARLORD(Clone)/Buttons/Train_btn" call="FingerTipByTutorial" parms="10.1|Ts|TsFingerTip2|HeroStateDialog_STARLORD(Clone)/Buttons/Train_btn"/>
+			<action obj="HeroStateDialog_DRAX(Clone)/Buttons/Train_btn"     call="FingerTipByTutorial" parms="11.1|Ts|TsFingerTip3|HeroStateDialog_DRAX(Clone)/Buttons/Train_btn"/>
+			<!--<action obj="HeroStateDialog_GAMORA(Clone)/Buttons/Train_btn"   call="Normal"              parms=""/>-->
+			
+			<action obj="LevelManager"            call="enabledBattleButton"                    parms="false"/>
+		</actions>
+	</Step>	
+</Chapter>

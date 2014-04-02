@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <heroSkills type="STARLORD">
+		<skill id="STARLORD1" name="Fire Blast" level="1" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="35" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="10%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD2" name="Drax Combo" level="2" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY"  comboPartner="" partnerSkillID="">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD5A" name="Wind Blast" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD5B" name="Shield Generator" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="10" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="20%" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" hp="" AOERadius="300"/>
+			<buff time="10" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD10A" name="Elemental Boost" level="10" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD10B" name="Shield Boost" level="10" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD15" name="Rhomann Dey Combo" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY" comboPartner="" partnerSkillID="GAMORA15A">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD15A" name="Ice Storm" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="0" atk_PHY="20%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="0" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD15B" name="Life Generator" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="10" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="10%" AOERadius="300"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD20A" name="Advanced Weapons Tech" level="20" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD20B" name="Personal Shield Generator" level="20" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+     	</skill>
+		<skill id="STARLORD25" name="Ship Link" level="25" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD30A" name="Fire Storm" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="STARLORD30B" name="Orbital Bombardment" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="0" atk_PHY="90%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="500"/>
+			<buff time="0" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+    </heroSkills>
+    <heroSkills type="GROOT">
+		<skill id="GROOT1" name="Regrowth" level="1" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="35" coolDown="10" target="NONE">
+           	<num time="1" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="50%" AOERadius="0"/>
+			<buff time="0" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GROOT2" name="Regrowth" level="2" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="NONE" comboPartner="" partnerSkillID="GAMORA15A">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GROOT5A" name="Vine Shield" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="35" coolDown="10" target="PLAYER">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="50%" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="10%" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GROOT5B" name="Root" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="20%" hp="0"/>
+      	</skill>
+		<skill id="GROOT10A" name="Unbreakable" level="10" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GROOT10B" name="Thornwood" level="10" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GROOT15" name="Quasar Combo" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY" comboPartner="" partnerSkillID="GAMORA15A">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GROOT15A" name="Floral Bloom" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="35" coolDown="10" target="PLAYER">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="500" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="200"/>
+      	</skill>
+		<skill id="GROOT15B" name="Creeping Vines" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="35" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>		
+		<skill id="GROOT20A" name="Ironwood" level="20" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GROOT20B" name="Thorn Shield" level="20" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GROOT25" name="Eternal Life" level="25" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+     	</skill>
+		<skill id="GROOT30A" name="Wildwood" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="50%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="500"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GROOT30B" name="Spore Cloud" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="10" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="90%" mspd="90%" hp="0"/>
+      	</skill>
+    </heroSkills>
+	<heroSkills type="GAMORA">
+		<skill id="GAMORA1" name="Deadly Slash" level="1" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="35" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="10%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="200"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA2" name="Star-Lord Combo" level="2" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="NONE" comboPartner="" partnerSkillID="GAMORA15A">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA5A" name="Cleave" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="20%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA5B" name="Poisoned Blades" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="15%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="10%" mspd="10%" hp="0"/>
+      	</skill>
+		<skill id="GAMORA10A" name="Martial Strikes" level="10" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA10B" name="Combat Reflexes" level="10" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA15" name="Sif Combo" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY" comboPartner="" partnerSkillID="GAMORA15A">
+           	<num time="5" atk_PHY="30%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA15A" name="Pistol Shot" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+            <num time="5" atk_PHY="30%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA15B" name="Dashing Strike" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="30%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA20A" name="Combat Awareness" level="20" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA20B" name="Cybernetic Reflexes" level="20" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA25" name="Cybernetic Repair" level="25" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA30A" name="Death Strike" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="50%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="GAMORA30B" name="Deadliest Woman In The Universe" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="50%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+    </heroSkills>
+	<heroSkills type="DRAX">
+		<skill id="DRAX1" name="Dual Knife Strike" level="1" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="35" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="10%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="DRAX2" name="Gamora Combo" level="2" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="NONE" comboPartner="" partnerSkillID="GAMORA15A">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="DRAX5A" name="Come Get Some!" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE" radius="0">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="10%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="5%" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="DRAX5B" name="Slow Bleed" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="20%"/>
+      	</skill>
+		<skill id="DRAX10A" name="Perfect Weapon" level="10" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="0" target="NONE">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="DRAX10B" name="Crippling Blows" level="10" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="NONE">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="DRAX15" name="Hulk Combo" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="NONE" comboPartner="" partnerSkillID="GAMORA15A">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="DRAX15A" name="Large Angry Man" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE" comboPartner="" partnerSkillID="GAMORA15A">
+           	<num time="5" atk_PHY="30%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="DRAX15B" name="Fear Me" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="300"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="DRAX20A" name="Cosmic Power" level="20" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="NONE">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+     	</skill>
+		<skill id="DRAX20B" name="Get Off Me" level="20" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="NONE">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="DRAX25" name="Cosmic Regeneration" level="25" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="NONE">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+     	</skill>
+		<skill id="DRAX30A" name="The Destroyer" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="80%"/>
+      	</skill>
+		<skill id="DRAX30B" name="Slice And Dice" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="90%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+    </heroSkills>
+	<heroSkills type="ROCKET">
+      	<skill id="ROCKET1" name="Rocket Launcher" level="1" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="35" coolDown="10" target="ENEMY">
+           	<num time="10" atk_PHY="10%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="400"/>
+			<buff time="10" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="ROCKET2" name="Gamora Combo" level="2" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY" comboPartner="" partnerSkillID="GAMORA15A">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="ROCKET5A" name="Rocket Shot First" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="20%" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+     	</skill>
+		<skill id="ROCKET5B" name="Paint The Target" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="20%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+     	</skill>
+		<skill id="ROCKET10A" name="Overcharged Blaster" level="10" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="ROCKET10B" name="Watch My Six" level="10" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="ROCKET15" name="Bug Combo" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY" comboPartner="" partnerSkillID="GAMORA15A">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="ROCKET15A" name="Suppressing Fire" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="300"/>
+			<buff time="0" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="ROCKET15B" name="Battle Tactics" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="10" atk_PHY="40%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="ROCKET20A" name="Concussion Rockets" level="20" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+            <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+     	</skill>
+		<skill id="ROCKET20B" name="Flashbang" level="20" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+             <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+     	</skill>
+		<skill id="ROCKET25" name="Gun Drone" level="25" isPassive="true" buySilver="100" buyGold="1" buyCp="1" learnTime="99999999" coolDown="10" target="ENEMY">
+              <effect atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+   		</skill>
+		<skill id="ROCKET30A" name="Fuzzy But Deadly" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="90%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="ROCKET30B" name="Concentrate Fire" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="15" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="15" atk_PHY="20%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+    </heroSkills>
+	<heroSkills type="KORATH">
+      	<skill id="KORATH1" name="Burst Fire" level="1" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="35" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="10%" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="400"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="KORATH5A" name="Beta Baton Strike" level="5" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="0"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="20%" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+     	</skill>
+		<skill id="KORATH15A" name="Psionic Pursuit" level="15" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="ENEMY">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="300"/>
+			<buff time="0" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+		<skill id="KORATH30A" name="Baton Fury" level="30" isPassive="false" buySilver="100" buyGold="1" buyCp="1" learnTime="75" coolDown="10" target="NONE">
+           	<num time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" hp="" AOERadius="200"/>
+			<buff time="5" atk_PHY="0" atk_IMP="0" atk_PSY="0" atk_EXP="0" atk_ENG="0" atk_MAG="0" def_PHY="0" def_IMP="0" def_PSY="0" def_EXP="0" def_ENG="0" def_MAG="0" aspd="0" mspd="0" hp="0"/>
+      	</skill>
+    </heroSkills>
+</root>

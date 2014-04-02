@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="g10" pos="-6|-4" roration="0" epos="0|0"/>
+  <part name="Shadow" pos="-2|1" roration="0" epos="0|0"/>
+  <part name="dp3" pos="9|89" roration="2" epos="-9|-38"/>
+  <part name="dp2" pos="0|134" roration="-5" epos="-14|-69"/>
+  <part name="dp" pos="-9|129" roration="-5" epos="-27|-81"/>
+  <part name="armDownL" pos="19|101" roration="-1" epos="3|-19"/>
+  <part name="armUpL" pos="11|140" roration="4" epos="1|-13"/>
+  <part name="bodyDown" pos="-2|38" roration="0" epos="-5|0"/>
+  <part name="head" pos="-6|137" roration="0" epos="-1|44"/>
+  <part name="bodyUp" pos="-3|120" roration="0" epos="0|-10"/>
+  <part name="sash" pos="2|69" roration="0" epos="0|1"/>
+  <part name="weapon" pos="-22|62" roration="153" epos="-3|-5"/>
+  <part name="armDownR" pos="-29|107" roration="0" epos="2|-29"/>
+  <part name="armUpR" pos="-32|152" roration="0" epos="3|-26"/>
+  <part name="gy" pos="-73|210" roration="42" epos="0|0"/>
+  <part name="g1" pos="-15|100" roration="0" epos="12|6"/>
+  <part name="g2" pos="24|90" roration="0" epos="0|0"/>
+  <part name="g3" pos="-25|122" roration="0" epos="0|0"/>
+  <part name="g4" pos="-1|50" roration="0" epos="0|0"/>
+  <part name="g5" pos="-54|50" roration="0" epos="0|0"/>
+  <part name="g6" pos="30|29" roration="0" epos="0|0"/>
+  <part name="g7" pos="-23|46" roration="0" epos="0|0"/>
+  <part name="g8" pos="-7|78" roration="0" epos="0|0"/>
+  <part name="gj" pos="57|202" roration="-15" epos="0|0"/>	
+</root>

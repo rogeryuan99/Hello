@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="d_light1" pos="-45|5" roration="0" epos="0|0"/>
+  <part name="d_light2" pos="-45|5" roration="0" epos="0|0"/>
+</root>

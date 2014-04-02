@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="Shadow" pos="-40|-3" roration="0" epos="0|0"/>
+  <part name="SRarmL" pos="-46|123" roration="1" epos="24|-19"/>
+  <part name="SRbodyUP" pos="-69|118" roration="0" epos="0|0"/>
+  <part name="SRhead" pos="-68|138" roration="0" epos="0|49"/>
+  <part name="SRarmUpR" pos="-89|130" roration="25" epos="-7|-10"/>
+  <part name="legL" pos="-53|16" roration="0" epos="0|0"/>
+  <part name="armL" pos="25|6" roration="0" epos="2|6"/>
+  <part name="bodyUp" pos="-30|64" roration="0" epos="0|0"/>
+  <part name="bodyDown" pos="-127|53" roration="-9" epos="-21|-11"/>
+  <part name="legUPR" pos="-79|53" roration="0" epos="-6|-9"/>
+  <part name="headDOWN" pos="33|66" roration="1" epos="38|-8"/>
+  <part name="headUP" pos="27|89" roration="0" epos="32|4"/>
+  <part name="armUpR" pos="-3|67" roration="11" epos="-6|-11"/>
+  <part name="armDOWNR" pos="-8|30" roration="0" epos="-6|-11"/>
+  <part name="legDOWNR" pos="-89|30" roration="0" epos="-6|-11"/>
+  <part name="SRlegUPR" pos="-56|91" roration="0" epos="-6|-11"/>
+  <part name="SRlegDOWNR" pos="-46|70" roration="0" epos="-6|-11"/>
+  <part name="SRbodyDOWN" pos="-63|97" roration="0" epos="0|-9"/>
+  <part name="SRarmDOWNR" pos="-92|99" roration="44" epos="16|-50"/>
+  <part name="ef" pos="-6|113" roration="0" epos="0|0"/>
+  <part name="ef4" pos="25|174" roration="-8" epos="0|0"/>
+  <part name="ef5" pos="25|174" roration="-8" epos="0|0"/>
+  <part name="ef6" pos="25|174" roration="-8" epos="0|0"/>
+  <part name="ef3" pos="47|154" roration="127" epos="0|0"/>
+</root>

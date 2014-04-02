@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="FEMALE_Arm_Back_Lower_01"/>
+  <part name="FEMALE_Arm_Back_Upper_01"/>
+  <part name="FEMALE_Arm_Top_Lower_01"/>
+  <part name="FEMALE_Arm_Top_Lower_01__1"/>
+  <part name="FEMALE_Arm_Top_Lower_01__2"/>
+  <part name="FEMALE_Arm_Top_Lower_01__3"/>
+  <part name="FEMALE_Arm_Top_Lower_01n"/>
+  <part name="FEMALE_Arm_Top_Lower_02"/>
+  <part name="FEMALE_Arm_Top_Upper_01"/>
+  <part name="FEMALE_Head_01_left"/>
+  <part name="FEMALE_Head_02_left"/>
+  <part name="FEMALE_Head_04_left"/>
+  <part name="FEMALE_Head_05_left"/>
+  <part name="FEMALE_Leg_Back_Lower_01"/>
+  <part name="FEMALE_Leg_Back_Upper_01"/>
+  <part name="FEMALE_Leg_Top_Lower_01"/>
+  <part name="FEMALE_Leg_Top_Upper01"/>
+  <part name="FEMALE_Torso_01"/>
+  <part name="FEMALE_Weapon_01"/>
+  <part name="FEMALE_Weapon_02"/>
+  <part name="FEMALE_Weapon_03"/>
+  <part name="FEMALE_Weapon_04"/>
+  <part name="drop_shadow"/>
+  <part name="nebula10"/>
+  <part name="nebula10__1"/>
+  <part name="nebula_21"/>
+  <part name="nebula_34"/>
+  <part name="nebula_34__1"/>
+  <part name="nebula_55"/>
+</root>

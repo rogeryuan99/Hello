@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="1.ChapterDlg">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="BackButton"              call="GrayLock"                     parms=""/>
+			<!--<action obj="ListOffset/Grid"         call="GlowOneAndGrayLockOthers"     parms="Kyln"/>-->
+			
+			<action obj="TsUserBehaviorProcessor" call="Sleep"                        parms=".1"/>
+			<action obj="TsUserBehaviorProcessor" call="WaitToClickSomething"         parms="Ch1|2D Camera"/>
+		</actions>
+	</Step>	
+</Chapter>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <act name="D" totalFrame="31">
+	  <guangbo>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="1" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="2" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="3" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="4" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="5" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="6" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="7" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="8" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="9" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="10" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="11" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="12" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="13" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="14" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="15"/>
+	    <data pos="-130.05|63.5" rotation="115" scale="1.217|1.217" frame="16"/>
+	    <data pos="-130.1|63.5" rotation="-128" scale="1.436|1.436" frame="17"/>
+	    <data pos="-130.1|63.45" rotation="-96" scale="1.795|1.795" frame="18"/>
+	    <data pos="-130.05|63.45" rotation="-64" scale="2.153|2.153" frame="19"/>
+	    <data pos="-130.1|63.55" rotation="-32" scale="2.512|2.512" frame="20"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="21" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="22" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="23" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="24" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="25" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="26" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="27" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="28" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="29" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="30" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="31" v="0"/>
+	  </guangbo>
+	  <guangbo2>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="1" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="2" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="3" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="4" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="5" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="6" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="7" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="8" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="9" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="10" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="11" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="12" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="13" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="14" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="15" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="16" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="1.000|1.000" frame="17"/>
+	    <data pos="-130.05|63.5" rotation="115" scale="1.217|1.217" frame="18"/>
+	    <data pos="-130.1|63.5" rotation="-128" scale="1.436|1.436" frame="19"/>
+	    <data pos="-130.1|63.45" rotation="-96" scale="1.795|1.795" frame="20"/>
+	    <data pos="-130.05|63.45" rotation="-64" scale="2.153|2.153" frame="21"/>
+	    <data pos="-130.1|63.55" rotation="-32" scale="2.512|2.512" frame="22"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="23" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="24" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="25" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="26" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="27" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="28" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="29" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="30" v="0"/>
+	    <data pos="-130.1|63.5" rotation="0" scale="2.876|2.876" frame="31" v="0"/>
+	  </guangbo2>
+	  <head3>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="1" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="2" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="3" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="4" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="5" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="6" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="7" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="8" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="9" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="10" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="11" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="12" v="0"/>
+	    <data pos="-109|62.45" rotation="-43" scale="0.827|0.827" frame="13"/>
+	    <data pos="-116.95|65.7" rotation="-43" scale="0.939|0.939" frame="14"/>
+	    <data pos="-125.05|68.95" rotation="-43" scale="1.054|1.054" frame="15"/>
+	    <data pos="-126.45|69.5" rotation="-43" scale="1.072|1.072" frame="16"/>
+	    <data pos="-127.75|70" rotation="-43" scale="1.091|1.091" frame="17"/>
+	    <data pos="-129.05|70.6" rotation="-43" scale="1.110|1.110" frame="18"/>
+	    <data pos="-130.35|71.15" rotation="-43" scale="1.130|1.130" frame="19"/>
+	    <data pos="-131.65|71.7" rotation="-43" scale="1.149|1.149" frame="20"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="21" v="0"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="22" v="0"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="23" v="0"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="24" v="0"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="25" v="0"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="26" v="0"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="27" v="0"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="28" v="0"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="29" v="0"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="30" v="0"/>
+	    <data pos="-133.05|72.25" rotation="-43" scale="1.170|1.170" frame="31" v="0"/>
+	  </head3>
+	  <guangying>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="1" v="0"/>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="2" v="0"/>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="3" v="0"/>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="4" v="0"/>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="5" v="0"/>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="6" v="0"/>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="7" v="0"/>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="8" v="0"/>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="9" v="0"/>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="10" v="0"/>
+	    <data pos="-21.8|21.95" rotation="0" scale="1.000|1.000" frame="11"/>
+	    <data pos="-23|26" rotation="0" scale="1.040|1.040" frame="12"/>
+	    <data pos="-24.15|30.15" rotation="0" scale="1.079|1.079" frame="13"/>
+	    <data pos="-25.35|34.2" rotation="0" scale="1.119|1.119" frame="14"/>
+	    <data pos="-26.5|38.4" rotation="0" scale="1.159|1.159" frame="15"/>
+	    <data pos="-27.65|42.45" rotation="0" scale="1.198|1.198" frame="16"/>
+	    <data pos="-28.85|46.55" rotation="0" scale="1.238|1.238" frame="17"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="18" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="19" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="20" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="21" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="22" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="23" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="24" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="25" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="26" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="27" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="28" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="29" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="30" v="0"/>
+	    <data pos="-30.05|50.65" rotation="0" scale="1.278|1.278" frame="31" v="0"/>
+	  </guangying>
+	</act>
+</root>

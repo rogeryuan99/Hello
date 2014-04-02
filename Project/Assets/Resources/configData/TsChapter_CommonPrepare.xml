@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="Prepare">
+		<creations>
+			<creation type="NORMAL" prefix="Ts" obj="TsUserBehaviorProcessor" parent=""           scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsObjectMover"    parent=""       scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsFunctionCaller" parent=""       scale="1"/>
+			<creation type="NORMAL" prefix="Ts" obj="TsObjectFactory"  parent=""       scale="1"/>
+		</creations>
+		<actions>
+		</actions>
+	</Step>	
+</Chapter>
+

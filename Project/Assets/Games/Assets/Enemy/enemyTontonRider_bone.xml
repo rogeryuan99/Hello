@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="SRlegUPL" pos="-18|135" roration="0" epos="20|-44"/>
+  <part name="SRarmL" pos="-5|180" roration="1" epos="11|-32"/>
+  <part name="legLUPL" pos="-45|64" roration="0" epos="9|-9"/>
+  <part name="legL" pos="-24|26" roration="0" epos="0|0"/>
+  <part name="armL" pos="24|114" roration="1" epos="10|-42"/>
+  <part name="bodyDown" pos="-78|70" roration="1" epos="-30|-13"/>
+  <part name="bodyUp" pos="-28|107" roration="0" epos="0|0"/>
+  <part name="legLUPR" pos="-58|66" roration="0" epos="10|-12"/>
+  <part name="headUP" pos="37|154" roration="0" epos="16|22"/>
+  <part name="armUpR" pos="7|100" roration="0" epos="7|-35"/>
+  <part name="legDownR" pos="-39|39" roration="0" epos="0|-13"/>
+  <part name="SRlegUPR" pos="-34|133" roration="0" epos="14|-38"/>
+  <part name="SRbodyUP" pos="-25|164" roration="-6" epos="0|0"/>
+  <part name="SRhead" pos="-26|183" roration="0" epos="0|35"/>
+  <part name="weapon" pos="-40|128" roration="-21" epos="39|0"/>
+  <part name="SRarmUpR" pos="-48|186" roration="10" epos="-7|-12"/>
+  <part name="SRarmDOWNR" pos="-59|159" roration="-18" epos="19|-18"/>
+  <part name="eft1" pos="38|193" roration="0" epos="0|0"/>
+  <part name="eft3" pos="85|49" roration="-1" epos="0|0"/>
+  <part name="eft2" pos="80|78" roration="0" epos="0|0"/>
+</root>

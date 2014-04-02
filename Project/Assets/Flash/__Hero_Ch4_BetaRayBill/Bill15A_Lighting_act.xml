@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <act name="Skill15A" totalFrame="10">
+    <Special_effects_97c>
+      <data pos="397.85|1503.25" frame="1" m="0.001|0|0|0.001" a="0" v="0"/>
+      <data pos="397.85|1503.25" frame="9" m="1.000|0.000|0.000|1.000" a="1"/>
+      <data pos="397.85|1503.25" frame="10" m="1.000|0.000|0.000|1.000" a="1"/>
+    </Special_effects_97c>
+    <Special_effects_96c>
+      <data pos="414.9|1762.05" frame="1" m="0.001|0|0|0.001" a="0" v="0"/>
+      <data pos="414.9|1762.05" frame="7" m="1.000|0.000|0.000|1.000" a="1"/>
+      <data pos="414.9|1762.05" frame="8" m="1.000|0.000|0.000|1.000" a="1"/>
+      <data pos="414.9|1762.05" frame="9" m="0.001|0|0|0.001" a="0" v="0"/>
+    </Special_effects_96c>
+    <Special_effects_95c>
+      <data pos="450.5|1733.5" frame="1" m="0.001|0|0|0.001" a="0" v="0"/>
+      <data pos="450.5|1733.5" frame="5" m="1.000|0.000|0.000|1.000" a="1"/>
+      <data pos="450.5|1733.5" frame="6" m="1.000|0.000|0.000|1.000" a="1"/>
+      <data pos="450.5|1733.5" frame="7" m="0.001|0|0|0.001" a="0" v="0"/>
+    </Special_effects_95c>
+    <Special_effects_94c>
+      <data pos="380.4|1774.1" frame="1" m="0.001|0|0|0.001" a="0" v="0"/>
+      <data pos="380.4|1774.1" frame="3" m="1.000|0.000|0.000|1.000" a="1"/>
+      <data pos="380.4|1774.1" frame="4" m="1.000|0.000|0.000|1.000" a="1"/>
+      <data pos="380.4|1774.1" frame="5" m="0.001|0|0|0.001" a="0" v="0"/>
+    </Special_effects_94c>
+    <Special_effects_93c>
+      <data pos="422.1|2213.55" frame="1" m="0.001|0|0|0.001" a="0" v="0"/>
+      <data pos="422.1|2213.55" frame="2" m="1.000|0.000|0.000|1.000" a="1"/>
+      <data pos="422.1|2213.55" frame="3" m="0.001|0|0|0.001" a="0" v="0"/>
+    </Special_effects_93c>
+    <Special_effects_92c>
+      <data pos="385.95|2442.35" frame="1" m="1.000|0.000|0.000|1.000" a="1"/>
+      <data pos="385.95|2442.35" frame="2" m="0.001|0|0|0.001" a="0" v="0"/>
+    </Special_effects_92c>
+  </act>
+</root>

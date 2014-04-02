@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<act name="flameEF" totalFrame="33">
+ <flame15>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="1"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="2"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="3"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="4"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="5"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="6"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="7"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="8"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="9"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="10"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="11"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="12"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="13"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="14"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="15"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="16"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="17"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="18"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="19"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="20"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="21"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="22"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="23"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="24"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="25"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="26"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="27"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="28"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="29"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="30"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="31"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="32"/>
+    <data pos="12|-21" rotation="0" scale="1.000|1.000" frame="33"/>
+  </flame15>
+  <flame19>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="1"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="2"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="3"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="4"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="5"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="6"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="7"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="8"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="9"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="10"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="11"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="12"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="13"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="14"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="15"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="16"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="17"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="18"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="19"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="20"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="21"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="22"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="23"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="24"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="25"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="26"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="27"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="28"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="29"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="30"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="31"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="32"/>
+    <data pos="-7|16" rotation="0" scale="1.922|1.417" frame="33"/>
+  </flame19>
+  <flame1>
+    <data pos="-12|-54" rotation="0" scale="0.931|0.910" frame="1"/>
+    <data pos="-12|-54" rotation="0" scale="0.931|0.930" frame="2"/>
+    <data pos="-12|-53" rotation="0" scale="0.931|0.950" frame="3"/>
+    <data pos="-12|-53" rotation="0" scale="0.942|0.970" frame="4"/>
+    <data pos="-12|-53" rotation="0" scale="0.953|0.990" frame="5"/>
+    <data pos="-12|-53" rotation="0" scale="0.949|0.975" frame="6"/>
+    <data pos="-12|-53" rotation="0" scale="0.944|0.960" frame="7"/>
+    <data pos="-12|-54" rotation="0" scale="0.938|0.935" frame="8"/>
+    <data pos="-12|-54" rotation="0" scale="0.931|0.910" frame="9"/>
+    <data pos="-12|-54" rotation="0" scale="0.931|0.930" frame="10"/>
+    <data pos="-12|-53" rotation="0" scale="0.931|0.950" frame="11"/>
+    <data pos="-12|-53" rotation="0" scale="0.942|0.970" frame="12"/>
+    <data pos="-12|-53" rotation="0" scale="0.953|0.990" frame="13"/>
+    <data pos="-12|-53" rotation="0" scale="0.949|0.975" frame="14"/>
+    <data pos="-12|-53" rotation="0" scale="0.944|0.960" frame="15"/>
+    <data pos="-12|-54" rotation="0" scale="0.938|0.935" frame="16"/>
+    <data pos="-12|-54" rotation="0" scale="0.931|0.910" frame="17"/>
+    <data pos="-12|-54" rotation="0" scale="0.931|0.930" frame="18"/>
+    <data pos="-12|-53" rotation="0" scale="0.931|0.950" frame="19"/>
+    <data pos="-12|-53" rotation="0" scale="0.942|0.970" frame="20"/>
+    <data pos="-12|-53" rotation="0" scale="0.953|0.990" frame="21"/>
+    <data pos="-12|-53" rotation="0" scale="0.949|0.975" frame="22"/>
+    <data pos="-12|-53" rotation="0" scale="0.944|0.960" frame="23"/>
+    <data pos="-12|-54" rotation="0" scale="0.938|0.935" frame="24"/>
+    <data pos="-12|-54" rotation="0" scale="0.931|0.910" frame="25"/>
+    <data pos="-12|-54" rotation="0" scale="0.931|0.930" frame="26"/>
+    <data pos="-12|-53" rotation="0" scale="0.931|0.950" frame="27"/>
+    <data pos="-12|-53" rotation="0" scale="0.942|0.970" frame="28"/>
+    <data pos="-12|-53" rotation="0" scale="0.953|0.990" frame="29"/>
+    <data pos="-12|-53" rotation="0" scale="0.949|0.975" frame="30"/>
+    <data pos="-12|-53" rotation="0" scale="0.944|0.960" frame="31"/>
+    <data pos="-12|-54" rotation="0" scale="0.938|0.935" frame="32"/>
+    <data pos="-12|-54" rotation="0" scale="0.931|0.910" frame="33"/>
+  </flame1>
+  <flame2>
+    <data pos="-11|-41" rotation="0" scale="1.000|0.814" frame="1"/>
+    <data pos="-10|-40" rotation="0" scale="1.000|0.853" frame="2"/>
+    <data pos="-9|-39" rotation="0" scale="1.000|0.893" frame="3"/>
+    <data pos="-11|-39" rotation="0" scale="1.044|0.893" frame="4"/>
+    <data pos="-12|-39" rotation="0" scale="1.088|0.893" frame="5"/>
+    <data pos="-10|-40" rotation="0" scale="1.053|0.867" frame="6"/>
+    <data pos="-8|-40" rotation="0" scale="1.019|0.842" frame="7"/>
+    <data pos="-9|-41" rotation="0" scale="1.010|0.828" frame="8"/>
+    <data pos="-10|-41" rotation="0" scale="1.000|0.814" frame="9"/>
+    <data pos="-10|-40" rotation="0" scale="1.000|0.853" frame="10"/>
+    <data pos="-9|-39" rotation="0" scale="1.000|0.893" frame="11"/>
+    <data pos="-11|-39" rotation="0" scale="1.044|0.893" frame="12"/>
+    <data pos="-12|-39" rotation="0" scale="1.088|0.893" frame="13"/>
+    <data pos="-11|-40" rotation="0" scale="1.053|0.867" frame="14"/>
+    <data pos="-9|-40" rotation="0" scale="1.019|0.842" frame="15"/>
+    <data pos="-10|-41" rotation="0" scale="1.010|0.828" frame="16"/>
+    <data pos="-11|-41" rotation="0" scale="1.000|0.814" frame="17"/>
+    <data pos="-10|-40" rotation="0" scale="1.000|0.853" frame="18"/>
+    <data pos="-9|-39" rotation="0" scale="1.000|0.893" frame="19"/>
+    <data pos="-11|-38" rotation="0" scale="1.009|0.925" frame="20"/>
+    <data pos="-12|-38" rotation="0" scale="1.019|0.957" frame="21"/>
+    <data pos="-11|-39" rotation="0" scale="1.019|0.916" frame="22"/>
+    <data pos="-9|-40" rotation="0" scale="1.019|0.874" frame="23"/>
+    <data pos="-11|-40" rotation="0" scale="1.010|0.844" frame="24"/>
+    <data pos="-12|-41" rotation="0" scale="1.000|0.814" frame="25"/>
+    <data pos="-11|-40" rotation="0" scale="1.000|0.853" frame="26"/>
+    <data pos="-9|-39" rotation="0" scale="1.000|0.893" frame="27"/>
+    <data pos="-11|-38" rotation="0" scale="1.044|0.934" frame="28"/>
+    <data pos="-12|-37" rotation="0" scale="1.088|0.974" frame="29"/>
+    <data pos="-11|-39" rotation="0" scale="1.053|0.908" frame="30"/>
+    <data pos="-9|-40" rotation="0" scale="1.019|0.842" frame="31"/>
+    <data pos="-10|-41" rotation="0" scale="1.010|0.828" frame="32"/>
+    <data pos="-11|-41" rotation="0" scale="1.000|0.814" frame="33"/>
+  </flame2>
+  <flame3>
+    <data pos="-11|-41" rotation="0" scale="1.000|0.814" frame="1"/>
+    <data pos="-11|-40" rotation="0" scale="1.005|0.829" frame="2"/>
+    <data pos="-11|-40" rotation="0" scale="1.011|0.845" frame="3"/>
+    <data pos="-11|-39" rotation="0" scale="1.020|0.865" frame="4"/>
+    <data pos="-11|-39" rotation="0" scale="1.030|0.885" frame="5"/>
+    <data pos="-11|-39" rotation="0" scale="1.015|0.885" frame="6"/>
+    <data pos="-11|-39" rotation="0" scale="1.000|0.885" frame="7"/>
+    <data pos="-11|-40" rotation="0" scale="1.000|0.849" frame="8"/>
+    <data pos="-11|-41" rotation="0" scale="1.000|0.814" frame="9"/>
+    <data pos="-11|-40" rotation="0" scale="1.005|0.829" frame="10"/>
+    <data pos="-11|-40" rotation="0" scale="1.011|0.845" frame="11"/>
+    <data pos="-11|-39" rotation="0" scale="1.020|0.865" frame="12"/>
+    <data pos="-11|-39" rotation="0" scale="1.030|0.885" frame="13"/>
+    <data pos="-11|-39" rotation="0" scale="1.015|0.885" frame="14"/>
+    <data pos="-11|-39" rotation="0" scale="1.000|0.885" frame="15"/>
+    <data pos="-11|-40" rotation="0" scale="1.000|0.849" frame="16"/>
+    <data pos="-11|-41" rotation="0" scale="1.000|0.814" frame="17"/>
+    <data pos="-11|-40" rotation="0" scale="1.005|0.829" frame="18"/>
+    <data pos="-11|-40" rotation="0" scale="1.011|0.845" frame="19"/>
+    <data pos="-11|-39" rotation="0" scale="1.020|0.865" frame="20"/>
+    <data pos="-11|-39" rotation="0" scale="1.030|0.885" frame="21"/>
+    <data pos="-11|-39" rotation="0" scale="1.015|0.885" frame="22"/>
+    <data pos="-11|-39" rotation="0" scale="1.000|0.885" frame="23"/>
+    <data pos="-11|-40" rotation="0" scale="1.000|0.849" frame="24"/>
+    <data pos="-11|-41" rotation="0" scale="1.000|0.814" frame="25"/>
+    <data pos="-11|-40" rotation="0" scale="1.005|0.829" frame="26"/>
+    <data pos="-11|-40" rotation="0" scale="1.011|0.845" frame="27"/>
+    <data pos="-11|-39" rotation="0" scale="1.020|0.865" frame="28"/>
+    <data pos="-11|-39" rotation="0" scale="1.030|0.885" frame="29"/>
+    <data pos="-11|-39" rotation="0" scale="1.015|0.885" frame="30"/>
+    <data pos="-11|-39" rotation="0" scale="1.000|0.885" frame="31"/>
+    <data pos="-11|-40" rotation="0" scale="1.000|0.849" frame="32"/>
+    <data pos="-11|-41" rotation="0" scale="1.000|0.814" frame="33"/>
+  </flame3>
+  <flame5>
+    <data pos="127|12" rotation="0" scale="1.000|0.814" frame="1"/>
+    <data pos="127|11" rotation="0" scale="1.027|0.781" frame="2"/>
+    <data pos="127|10" rotation="0" scale="1.054|0.747" frame="3"/>
+    <data pos="126|9" rotation="0" scale="1.022|0.725" frame="4"/>
+    <data pos="124|8" rotation="0" scale="0.990|0.702" frame="5"/>
+    <data pos="125|8" rotation="0" scale="1.019|0.705" frame="6"/>
+    <data pos="126|8" rotation="0" scale="1.048|0.708" frame="7"/>
+    <data pos="126|10" rotation="0" scale="1.024|0.761" frame="8"/>
+    <data pos="127|12" rotation="0" scale="1.000|0.814" frame="9"/>
+    <data pos="127|11" rotation="0" scale="1.027|0.781" frame="10"/>
+    <data pos="127|10" rotation="0" scale="1.054|0.747" frame="11"/>
+    <data pos="126|9" rotation="0" scale="1.022|0.725" frame="12"/>
+    <data pos="124|8" rotation="0" scale="0.990|0.702" frame="13"/>
+    <data pos="125|8" rotation="0" scale="1.019|0.701" frame="14"/>
+    <data pos="126|8" rotation="0" scale="1.048|0.701" frame="15"/>
+    <data pos="126|10" rotation="0" scale="1.024|0.757" frame="16"/>
+    <data pos="127|12" rotation="0" scale="1.000|0.814" frame="17"/>
+    <data pos="127|11" rotation="0" scale="1.027|0.781" frame="18"/>
+    <data pos="127|10" rotation="0" scale="1.054|0.747" frame="19"/>
+    <data pos="126|9" rotation="0" scale="1.022|0.725" frame="20"/>
+    <data pos="124|8" rotation="0" scale="0.990|0.702" frame="21"/>
+    <data pos="125|7" rotation="0" scale="1.019|0.672" frame="22"/>
+    <data pos="126|5" rotation="0" scale="1.048|0.642" frame="23"/>
+    <data pos="126|9" rotation="0" scale="1.024|0.728" frame="24"/>
+    <data pos="127|12" rotation="0" scale="1.000|0.814" frame="25"/>
+    <data pos="127|11" rotation="0" scale="1.027|0.781" frame="26"/>
+    <data pos="127|10" rotation="0" scale="1.054|0.747" frame="27"/>
+    <data pos="126|9" rotation="0" scale="1.022|0.725" frame="28"/>
+    <data pos="124|8" rotation="0" scale="0.990|0.702" frame="29"/>
+    <data pos="125|7" rotation="0" scale="1.019|0.672" frame="30"/>
+    <data pos="126|5" rotation="0" scale="1.048|0.642" frame="31"/>
+    <data pos="126|9" rotation="0" scale="1.024|0.728" frame="32"/>
+    <data pos="127|12" rotation="0" scale="1.000|0.814" frame="33"/>
+  </flame5>
+  <flame6>
+    <data pos="127|15" rotation="0" scale="1.000|0.814" frame="1"/>
+    <data pos="127|14" rotation="0" scale="1.000|0.783" frame="2"/>
+    <data pos="127|13" rotation="0" scale="1.000|0.753" frame="3"/>
+    <data pos="127|12" rotation="0" scale="1.010|0.735" frame="4"/>
+    <data pos="127|11" rotation="0" scale="1.019|0.718" frame="5"/>
+    <data pos="127|11" rotation="0" scale="1.008|0.710" frame="6"/>
+    <data pos="127|11" rotation="0" scale="0.997|0.702" frame="7"/>
+    <data pos="127|13" rotation="0" scale="0.998|0.758" frame="8"/>
+    <data pos="127|15" rotation="0" scale="1.000|0.814" frame="9"/>
+    <data pos="127|14" rotation="0" scale="1.000|0.783" frame="10"/>
+    <data pos="127|13" rotation="0" scale="1.000|0.753" frame="11"/>
+    <data pos="127|12" rotation="0" scale="1.010|0.735" frame="12"/>
+    <data pos="127|11" rotation="0" scale="1.019|0.718" frame="13"/>
+    <data pos="127|11" rotation="0" scale="1.008|0.710" frame="14"/>
+    <data pos="127|11" rotation="0" scale="0.997|0.702" frame="15"/>
+    <data pos="127|13" rotation="0" scale="0.998|0.758" frame="16"/>
+    <data pos="127|15" rotation="0" scale="1.000|0.814" frame="17"/>
+    <data pos="127|14" rotation="0" scale="1.000|0.783" frame="18"/>
+    <data pos="127|13" rotation="0" scale="1.000|0.753" frame="19"/>
+    <data pos="127|12" rotation="0" scale="1.010|0.735" frame="20"/>
+    <data pos="127|11" rotation="0" scale="1.019|0.718" frame="21"/>
+    <data pos="127|11" rotation="0" scale="1.008|0.710" frame="22"/>
+    <data pos="127|11" rotation="0" scale="0.997|0.702" frame="23"/>
+    <data pos="127|13" rotation="0" scale="0.998|0.758" frame="24"/>
+    <data pos="127|15" rotation="0" scale="1.000|0.814" frame="25"/>
+    <data pos="127|14" rotation="0" scale="1.000|0.783" frame="26"/>
+    <data pos="127|13" rotation="0" scale="1.000|0.753" frame="27"/>
+    <data pos="127|12" rotation="0" scale="1.010|0.735" frame="28"/>
+    <data pos="127|11" rotation="0" scale="1.019|0.718" frame="29"/>
+    <data pos="127|11" rotation="0" scale="1.008|0.710" frame="30"/>
+    <data pos="127|11" rotation="0" scale="0.997|0.702" frame="31"/>
+    <data pos="127|13" rotation="0" scale="0.998|0.758" frame="32"/>
+    <data pos="127|15" rotation="0" scale="1.000|0.814" frame="33"/>
+  </flame6>
+  <flame7>
+    <data pos="129|-3" rotation="0" scale="0.636|0.493" frame="1"/>
+    <data pos="129|-3" rotation="0" scale="0.636|0.511" frame="2"/>
+    <data pos="129|-2" rotation="0" scale="0.636|0.529" frame="3"/>
+    <data pos="129|-2" rotation="0" scale="0.647|0.534" frame="4"/>
+    <data pos="129|-2" rotation="0" scale="0.659|0.540" frame="5"/>
+    <data pos="129|-3" rotation="0" scale="0.641|0.517" frame="6"/>
+    <data pos="129|-3" rotation="0" scale="0.624|0.493" frame="7"/>
+    <data pos="129|-3" rotation="0" scale="0.630|0.493" frame="8"/>
+    <data pos="129|-3" rotation="0" scale="0.636|0.493" frame="9"/>
+    <data pos="129|-3" rotation="0" scale="0.636|0.511" frame="10"/>
+    <data pos="129|-2" rotation="0" scale="0.636|0.529" frame="11"/>
+    <data pos="129|-2" rotation="0" scale="0.647|0.534" frame="12"/>
+    <data pos="129|-2" rotation="0" scale="0.659|0.540" frame="13"/>
+    <data pos="129|-3" rotation="0" scale="0.641|0.517" frame="14"/>
+    <data pos="129|-3" rotation="0" scale="0.624|0.493" frame="15"/>
+    <data pos="129|-3" rotation="0" scale="0.630|0.493" frame="16"/>
+    <data pos="129|-3" rotation="0" scale="0.636|0.493" frame="17"/>
+    <data pos="129|-3" rotation="0" scale="0.636|0.511" frame="18"/>
+    <data pos="129|-2" rotation="0" scale="0.636|0.529" frame="19"/>
+    <data pos="129|-2" rotation="0" scale="0.647|0.534" frame="20"/>
+    <data pos="129|-2" rotation="0" scale="0.659|0.540" frame="21"/>
+    <data pos="129|-3" rotation="0" scale="0.641|0.517" frame="22"/>
+    <data pos="129|-3" rotation="0" scale="0.624|0.493" frame="23"/>
+    <data pos="129|-3" rotation="0" scale="0.630|0.493" frame="24"/>
+    <data pos="129|-3" rotation="0" scale="0.636|0.493" frame="25"/>
+    <data pos="129|-3" rotation="0" scale="0.636|0.511" frame="26"/>
+    <data pos="129|-2" rotation="0" scale="0.636|0.529" frame="27"/>
+    <data pos="129|-2" rotation="0" scale="0.647|0.534" frame="28"/>
+    <data pos="129|-2" rotation="0" scale="0.659|0.540" frame="29"/>
+    <data pos="129|-3" rotation="0" scale="0.641|0.517" frame="30"/>
+    <data pos="129|-3" rotation="0" scale="0.624|0.493" frame="31"/>
+    <data pos="129|-3" rotation="0" scale="0.630|0.493" frame="32"/>
+    <data pos="129|-3" rotation="0" scale="0.636|0.493" frame="33"/>
+  </flame7>
+  <flame8>
+    <data pos="135|23" rotation="-37" scale="0.369|0.300" frame="1" v="0"/>
+    <data pos="134|22" rotation="-37" scale="0.368|0.300" frame="2" v="0"/>
+    <data pos="133|21" rotation="-37" scale="0.368|0.300" frame="3" v="0"/>
+    <data pos="132|20" rotation="-37" scale="0.368|0.300" frame="4" v="0"/>
+    <data pos="131|19" rotation="-37" scale="0.369|0.300" frame="5" v="0"/>
+    <data pos="140|13" rotation="-112" scale="0.588|0.478" frame="6"/>
+    <data pos="143|22" rotation="-122" scale="0.612|0.498" frame="7"/>
+    <data pos="146|31" rotation="-132" scale="0.638|0.519" frame="8"/>
+    <data pos="149|39" rotation="-142" scale="0.664|0.540" frame="9"/>
+    <data pos="152|48" rotation="-152" scale="0.690|0.561" frame="10"/>
+    <data pos="156|56" rotation="-162" scale="0.715|0.582" frame="11"/>
+    <data pos="159|65" rotation="-172" scale="0.742|0.603" frame="12"/>
+    <data pos="162|71" rotation="168" scale="0.582|0.474" frame="13"/>
+    <data pos="164|77" rotation="150" scale="0.422|0.344" frame="14"/>
+    <data pos="167|83" rotation="131" scale="0.263|0.214" frame="15"/>
+    <data pos="171|89" rotation="112" scale="0.104|0.085" frame="16"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="17" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="18" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="19" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="20" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="21" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="22" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="23" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="24" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="25" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="26" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="27" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="28" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="29" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="30" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="31" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="32" v="0"/>
+    <data pos="141|89" rotation="112" scale="0.104|0.085" frame="33" v="0"/>
+  </flame8>
+  <flame9>
+    <data pos="-121|29" rotation="0" scale="1.000|0.814" frame="1"/>
+    <data pos="-121|29" rotation="0" scale="1.000|0.829" frame="2"/>
+    <data pos="-121|30" rotation="0" scale="1.000|0.845" frame="3"/>
+    <data pos="-121|31" rotation="0" scale="0.990|0.853" frame="4"/>
+    <data pos="-121|31" rotation="0" scale="0.980|0.861" frame="5"/>
+    <data pos="-121|29" rotation="0" scale="0.980|0.826" frame="6"/>
+    <data pos="-121|27" rotation="0" scale="0.980|0.790" frame="7"/>
+    <data pos="-121|28" rotation="0" scale="0.990|0.802" frame="8"/>
+    <data pos="-121|29" rotation="0" scale="1.000|0.814" frame="9"/>
+    <data pos="-121|29" rotation="0" scale="1.000|0.829" frame="10"/>
+    <data pos="-121|30" rotation="0" scale="1.000|0.845" frame="11"/>
+    <data pos="-121|31" rotation="0" scale="0.990|0.853" frame="12"/>
+    <data pos="-121|31" rotation="0" scale="0.980|0.861" frame="13"/>
+    <data pos="-121|29" rotation="0" scale="0.980|0.826" frame="14"/>
+    <data pos="-121|27" rotation="0" scale="0.980|0.790" frame="15"/>
+    <data pos="-121|28" rotation="0" scale="0.990|0.802" frame="16"/>
+    <data pos="-121|29" rotation="0" scale="1.000|0.814" frame="17"/>
+    <data pos="-121|29" rotation="0" scale="1.000|0.829" frame="18"/>
+    <data pos="-121|30" rotation="0" scale="1.000|0.845" frame="19"/>
+    <data pos="-121|31" rotation="0" scale="0.990|0.853" frame="20"/>
+    <data pos="-121|31" rotation="0" scale="0.980|0.861" frame="21"/>
+    <data pos="-121|29" rotation="0" scale="0.980|0.826" frame="22"/>
+    <data pos="-121|27" rotation="0" scale="0.980|0.790" frame="23"/>
+    <data pos="-121|28" rotation="0" scale="0.990|0.802" frame="24"/>
+    <data pos="-121|29" rotation="0" scale="1.000|0.814" frame="25"/>
+    <data pos="-121|29" rotation="0" scale="1.000|0.829" frame="26"/>
+    <data pos="-121|30" rotation="0" scale="1.000|0.845" frame="27"/>
+    <data pos="-121|31" rotation="0" scale="0.990|0.853" frame="28"/>
+    <data pos="-121|31" rotation="0" scale="0.980|0.861" frame="29"/>
+    <data pos="-121|29" rotation="0" scale="0.980|0.826" frame="30"/>
+    <data pos="-121|27" rotation="0" scale="0.980|0.790" frame="31"/>
+    <data pos="-121|28" rotation="0" scale="0.990|0.802" frame="32"/>
+    <data pos="-121|29" rotation="0" scale="1.000|0.814" frame="33"/>
+  </flame9>
+  <flame10>
+    <data pos="-104|26" rotation="0" scale="1.000|0.814" frame="1"/>
+    <data pos="-104|27" rotation="0" scale="0.977|0.860" frame="2"/>
+    <data pos="-104|29" rotation="0" scale="0.955|0.907" frame="3"/>
+    <data pos="-104|29" rotation="0" scale="0.955|0.919" frame="4"/>
+    <data pos="-103|30" rotation="0" scale="0.955|0.931" frame="5"/>
+    <data pos="-103|28" rotation="0" scale="1.008|0.898" frame="6"/>
+    <data pos="-103|27" rotation="0" scale="1.061|0.864" frame="7"/>
+    <data pos="-104|27" rotation="0" scale="1.031|0.839" frame="8"/>
+    <data pos="-104|26" rotation="0" scale="1.000|0.814" frame="9"/>
+    <data pos="-104|27" rotation="0" scale="0.977|0.860" frame="10"/>
+    <data pos="-103|29" rotation="0" scale="0.955|0.907" frame="11"/>
+    <data pos="-103|29" rotation="0" scale="0.955|0.919" frame="12"/>
+    <data pos="-103|30" rotation="0" scale="0.955|0.931" frame="13"/>
+    <data pos="-103|28" rotation="0" scale="1.008|0.898" frame="14"/>
+    <data pos="-103|27" rotation="0" scale="1.061|0.864" frame="15"/>
+    <data pos="-104|27" rotation="0" scale="1.031|0.839" frame="16"/>
+    <data pos="-104|26" rotation="0" scale="1.000|0.814" frame="17"/>
+    <data pos="-104|27" rotation="0" scale="0.977|0.860" frame="18"/>
+    <data pos="-103|29" rotation="0" scale="0.955|0.907" frame="19"/>
+    <data pos="-103|29" rotation="0" scale="0.955|0.919" frame="20"/>
+    <data pos="-103|30" rotation="0" scale="0.955|0.931" frame="21"/>
+    <data pos="-103|28" rotation="0" scale="1.008|0.898" frame="22"/>
+    <data pos="-103|27" rotation="0" scale="1.061|0.864" frame="23"/>
+    <data pos="-104|27" rotation="0" scale="1.031|0.839" frame="24"/>
+    <data pos="-104|26" rotation="0" scale="1.000|0.814" frame="25"/>
+    <data pos="-104|27" rotation="0" scale="0.977|0.860" frame="26"/>
+    <data pos="-103|29" rotation="0" scale="0.955|0.907" frame="27"/>
+    <data pos="-103|29" rotation="0" scale="0.955|0.919" frame="28"/>
+    <data pos="-103|30" rotation="0" scale="0.955|0.931" frame="29"/>
+    <data pos="-103|28" rotation="0" scale="1.008|0.898" frame="30"/>
+    <data pos="-103|27" rotation="0" scale="1.061|0.864" frame="31"/>
+    <data pos="-104|27" rotation="0" scale="1.031|0.839" frame="32"/>
+    <data pos="-104|26" rotation="0" scale="1.000|0.814" frame="33"/>
+  </flame10>
+  <flame11>
+    <data pos="-118|10" rotation="-180" scale="0.696|0.622" frame="1"/>
+    <data pos="-118|11" rotation="-180" scale="0.696|0.646" frame="2"/>
+    <data pos="-118|11" rotation="-180" scale="0.696|0.670" frame="3"/>
+    <data pos="-118|12" rotation="-180" scale="0.684|0.695" frame="4"/>
+    <data pos="-118|13" rotation="-180" scale="0.672|0.719" frame="5"/>
+    <data pos="-118|12" rotation="-180" scale="0.672|0.682" frame="6"/>
+    <data pos="-118|11" rotation="-180" scale="0.672|0.646" frame="7"/>
+    <data pos="-118|10" rotation="-180" scale="0.684|0.634" frame="8"/>
+    <data pos="-118|10" rotation="-180" scale="0.696|0.622" frame="9"/>
+    <data pos="-118|11" rotation="-180" scale="0.696|0.646" frame="10"/>
+    <data pos="-118|11" rotation="-180" scale="0.696|0.670" frame="11"/>
+    <data pos="-118|12" rotation="-180" scale="0.684|0.695" frame="12"/>
+    <data pos="-118|13" rotation="-180" scale="0.672|0.719" frame="13"/>
+    <data pos="-118|12" rotation="-180" scale="0.672|0.682" frame="14"/>
+    <data pos="-118|11" rotation="-180" scale="0.672|0.646" frame="15"/>
+    <data pos="-118|10" rotation="-180" scale="0.684|0.634" frame="16"/>
+    <data pos="-118|10" rotation="-180" scale="0.696|0.622" frame="17"/>
+    <data pos="-118|11" rotation="-180" scale="0.696|0.646" frame="18"/>
+    <data pos="-118|11" rotation="-180" scale="0.696|0.670" frame="19"/>
+    <data pos="-118|12" rotation="-180" scale="0.684|0.695" frame="20"/>
+    <data pos="-118|13" rotation="-180" scale="0.672|0.719" frame="21"/>
+    <data pos="-118|12" rotation="-180" scale="0.672|0.682" frame="22"/>
+    <data pos="-118|11" rotation="-180" scale="0.672|0.646" frame="23"/>
+    <data pos="-118|10" rotation="-180" scale="0.684|0.634" frame="24"/>
+    <data pos="-118|10" rotation="-180" scale="0.696|0.622" frame="25"/>
+    <data pos="-118|11" rotation="-180" scale="0.696|0.646" frame="26"/>
+    <data pos="-118|11" rotation="-180" scale="0.696|0.670" frame="27"/>
+    <data pos="-118|12" rotation="-180" scale="0.684|0.695" frame="28"/>
+    <data pos="-118|13" rotation="-180" scale="0.672|0.719" frame="29"/>
+    <data pos="-118|12" rotation="-180" scale="0.672|0.682" frame="30"/>
+    <data pos="-118|11" rotation="-180" scale="0.672|0.646" frame="31"/>
+    <data pos="-118|10" rotation="-180" scale="0.684|0.634" frame="32"/>
+    <data pos="-118|10" rotation="-180" scale="0.696|0.622" frame="33"/>
+  </flame11>
+  <flame12>
+    <data pos="7|68" rotation="0" scale="1.000|0.814" frame="1"/>
+    <data pos="7|69" rotation="0" scale="1.000|0.841" frame="2"/>
+    <data pos="7|70" rotation="0" scale="1.000|0.869" frame="3"/>
+    <data pos="7|70" rotation="0" scale="0.985|0.869" frame="4"/>
+    <data pos="7|70" rotation="0" scale="0.970|0.869" frame="5"/>
+    <data pos="7|68" rotation="0" scale="0.970|0.825" frame="6"/>
+    <data pos="7|67" rotation="0" scale="0.970|0.781" frame="7"/>
+    <data pos="7|67" rotation="0" scale="0.985|0.797" frame="8"/>
+    <data pos="7|68" rotation="0" scale="1.000|0.814" frame="9"/>
+    <data pos="7|69" rotation="0" scale="1.000|0.841" frame="10"/>
+    <data pos="7|70" rotation="0" scale="1.000|0.869" frame="11"/>
+    <data pos="7|70" rotation="0" scale="0.985|0.869" frame="12"/>
+    <data pos="7|70" rotation="0" scale="0.970|0.869" frame="13"/>
+    <data pos="7|68" rotation="0" scale="0.970|0.825" frame="14"/>
+    <data pos="7|67" rotation="0" scale="0.970|0.781" frame="15"/>
+    <data pos="7|67" rotation="0" scale="0.985|0.797" frame="16"/>
+    <data pos="7|68" rotation="0" scale="1.000|0.814" frame="17"/>
+    <data pos="7|69" rotation="0" scale="1.000|0.841" frame="18"/>
+    <data pos="7|70" rotation="0" scale="1.000|0.869" frame="19"/>
+    <data pos="7|70" rotation="0" scale="0.985|0.869" frame="20"/>
+    <data pos="7|70" rotation="0" scale="0.970|0.869" frame="21"/>
+    <data pos="7|68" rotation="0" scale="0.970|0.825" frame="22"/>
+    <data pos="7|67" rotation="0" scale="0.970|0.781" frame="23"/>
+    <data pos="7|67" rotation="0" scale="0.985|0.797" frame="24"/>
+    <data pos="7|68" rotation="0" scale="1.000|0.814" frame="25"/>
+    <data pos="7|69" rotation="0" scale="1.000|0.841" frame="26"/>
+    <data pos="7|70" rotation="0" scale="1.000|0.869" frame="27"/>
+    <data pos="7|70" rotation="0" scale="0.985|0.869" frame="28"/>
+    <data pos="7|70" rotation="0" scale="0.970|0.869" frame="29"/>
+    <data pos="7|68" rotation="0" scale="0.970|0.825" frame="30"/>
+    <data pos="7|67" rotation="0" scale="0.970|0.781" frame="31"/>
+    <data pos="7|67" rotation="0" scale="0.985|0.797" frame="32"/>
+    <data pos="7|68" rotation="0" scale="1.000|0.814" frame="33"/>
+  </flame12>
+  <flame13>
+    <data pos="8|68" rotation="0" scale="0.922|0.671" frame="1"/>
+    <data pos="7|70" rotation="0" scale="0.922|0.724" frame="2"/>
+    <data pos="7|72" rotation="0" scale="0.922|0.778" frame="3"/>
+    <data pos="6|73" rotation="0" scale="0.877|0.792" frame="4"/>
+    <data pos="6|73" rotation="0" scale="0.832|0.805" frame="5"/>
+    <data pos="5|71" rotation="0" scale="0.832|0.747" frame="6"/>
+    <data pos="5|69" rotation="0" scale="0.832|0.690" frame="7"/>
+    <data pos="6|69" rotation="0" scale="0.877|0.680" frame="8"/>
+    <data pos="8|68" rotation="0" scale="0.922|0.671" frame="9"/>
+    <data pos="7|70" rotation="0" scale="0.922|0.724" frame="10"/>
+    <data pos="7|72" rotation="0" scale="0.922|0.778" frame="11"/>
+    <data pos="6|73" rotation="0" scale="0.877|0.792" frame="12"/>
+    <data pos="6|73" rotation="0" scale="0.832|0.805" frame="13"/>
+    <data pos="5|71" rotation="0" scale="0.832|0.747" frame="14"/>
+    <data pos="5|69" rotation="0" scale="0.832|0.690" frame="15"/>
+    <data pos="7|69" rotation="0" scale="0.827|0.680" frame="16"/>
+    <data pos="8|68" rotation="0" scale="0.822|0.671" frame="17"/>
+    <data pos="7|71" rotation="0" scale="0.872|0.751" frame="18"/>
+    <data pos="7|74" rotation="0" scale="0.922|0.832" frame="19"/>
+    <data pos="6|74" rotation="0" scale="0.877|0.818" frame="20"/>
+    <data pos="6|73" rotation="0" scale="0.832|0.805" frame="21"/>
+    <data pos="5|71" rotation="0" scale="0.832|0.747" frame="22"/>
+    <data pos="5|69" rotation="0" scale="0.832|0.690" frame="23"/>
+    <data pos="6|69" rotation="0" scale="0.877|0.680" frame="24"/>
+    <data pos="8|68" rotation="0" scale="0.922|0.671" frame="25"/>
+    <data pos="7|70" rotation="0" scale="0.922|0.724" frame="26"/>
+    <data pos="7|72" rotation="0" scale="0.922|0.778" frame="27"/>
+    <data pos="6|73" rotation="0" scale="0.877|0.792" frame="28"/>
+    <data pos="6|73" rotation="0" scale="0.832|0.805" frame="29"/>
+    <data pos="5|71" rotation="0" scale="0.832|0.747" frame="30"/>
+    <data pos="5|69" rotation="0" scale="0.832|0.690" frame="31"/>
+    <data pos="6|69" rotation="0" scale="0.877|0.680" frame="32"/>
+    <data pos="8|68" rotation="0" scale="0.922|0.671" frame="33"/>
+  </flame13>
+  <flame14>
+    <data pos="-14|55" rotation="0" scale="1.000|0.814" frame="1"/>
+    <data pos="-14|56" rotation="0" scale="1.000|0.856" frame="2"/>
+    <data pos="-14|57" rotation="0" scale="1.000|0.898" frame="3"/>
+    <data pos="-14|57" rotation="0" scale="0.976|0.898" frame="4"/>
+    <data pos="-14|57" rotation="0" scale="0.953|0.898" frame="5"/>
+    <data pos="-14|56" rotation="0" scale="0.953|0.847" frame="6"/>
+    <data pos="-14|55" rotation="0" scale="0.953|0.796" frame="7"/>
+    <data pos="-14|55" rotation="0" scale="0.976|0.805" frame="8"/>
+    <data pos="-14|55" rotation="0" scale="1.000|0.814" frame="9"/>
+    <data pos="-14|56" rotation="0" scale="1.000|0.856" frame="10"/>
+    <data pos="-14|57" rotation="0" scale="1.000|0.898" frame="11"/>
+    <data pos="-14|57" rotation="0" scale="0.976|0.898" frame="12"/>
+    <data pos="-14|57" rotation="0" scale="0.953|0.898" frame="13"/>
+    <data pos="-14|56" rotation="0" scale="0.953|0.847" frame="14"/>
+    <data pos="-14|55" rotation="0" scale="0.953|0.796" frame="15"/>
+    <data pos="-14|55" rotation="0" scale="0.976|0.805" frame="16"/>
+    <data pos="-14|55" rotation="0" scale="1.000|0.814" frame="17"/>
+    <data pos="-14|56" rotation="0" scale="1.000|0.856" frame="18"/>
+    <data pos="-14|57" rotation="0" scale="1.000|0.898" frame="19"/>
+    <data pos="-14|57" rotation="0" scale="0.976|0.898" frame="20"/>
+    <data pos="-14|57" rotation="0" scale="0.953|0.898" frame="21"/>
+    <data pos="-14|56" rotation="0" scale="0.953|0.847" frame="22"/>
+    <data pos="-14|55" rotation="0" scale="0.953|0.796" frame="23"/>
+    <data pos="-14|55" rotation="0" scale="0.976|0.805" frame="24"/>
+    <data pos="-14|55" rotation="0" scale="1.000|0.814" frame="25"/>
+    <data pos="-14|56" rotation="0" scale="1.000|0.856" frame="26"/>
+    <data pos="-14|57" rotation="0" scale="1.000|0.898" frame="27"/>
+    <data pos="-14|57" rotation="0" scale="0.976|0.898" frame="28"/>
+    <data pos="-14|57" rotation="0" scale="0.953|0.898" frame="29"/>
+    <data pos="-14|56" rotation="0" scale="0.953|0.847" frame="30"/>
+    <data pos="-14|55" rotation="0" scale="0.953|0.796" frame="31"/>
+    <data pos="-14|55" rotation="0" scale="0.976|0.805" frame="32"/>
+    <data pos="-14|55" rotation="0" scale="1.000|0.814" frame="33"/>
+  </flame14>
+  <flame4>
+    <data pos="0|3" rotation="-37" scale="0.369|0.300" frame="1" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.300" frame="2" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.300" frame="3" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.300" frame="4" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.300" frame="5" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.300" frame="6" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.300" frame="7" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.300" frame="8" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.300" frame="9" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.299" frame="10" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.299" frame="11" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.299" frame="12" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.299" frame="13" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.299" frame="14" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.368|0.300" frame="15" v="0"/>
+    <data pos="0|3" rotation="-37" scale="0.369|0.300" frame="16"/>
+    <data pos="15|13" rotation="-27" scale="0.480|0.391" frame="17"/>
+    <data pos="30|22" rotation="-17" scale="0.592|0.482" frame="18"/>
+    <data pos="45|31" rotation="-8" scale="0.704|0.573" frame="19"/>
+    <data pos="51|43" rotation="1" scale="0.816|0.664" frame="20"/>
+    <data pos="58|56" rotation="11" scale="0.928|0.755" frame="21"/>
+    <data pos="64|68" rotation="21" scale="1.039|0.845" frame="22"/>
+    <data pos="71|80" rotation="31" scale="1.152|0.937" frame="23"/>
+    <data pos="66|91" rotation="31" scale="0.899|0.732" frame="24"/>
+    <data pos="65|102" rotation="56" scale="0.647|0.526" frame="25"/>
+    <data pos="64|113" rotation="81" scale="0.396|0.322" frame="26"/>
+    <data pos="63|124" rotation="106" scale="0.145|0.118" frame="27"/>
+    <data pos="8|89" rotation="31" scale="0.145|0.118" frame="28" v="0"/>
+    <data pos="8|89" rotation="31" scale="0.145|0.118" frame="29" v="0"/>
+    <data pos="8|89" rotation="31" scale="0.145|0.118" frame="30" v="0"/>
+    <data pos="8|89" rotation="31" scale="0.145|0.118" frame="31" v="0"/>
+    <data pos="8|89" rotation="31" scale="0.145|0.118" frame="32" v="0"/>
+    <data pos="8|89" rotation="31" scale="0.145|0.118" frame="33" v="0"/>
+  </flame4>
+  <flame17>
+    <data pos="-148|22" rotation="37" scale="0.339|0.276" frame="1"/>
+    <data pos="-140|30" rotation="50" scale="0.369|0.300" frame="2"/>
+    <data pos="-132|38" rotation="62" scale="0.399|0.325" frame="3"/>
+    <data pos="-124|47" rotation="75" scale="0.430|0.350" frame="4"/>
+    <data pos="-122|58" rotation="87" scale="0.461|0.375" frame="5"/>
+    <data pos="-120|69" rotation="100" scale="0.492|0.400" frame="6"/>
+    <data pos="-118|81" rotation="112" scale="0.523|0.425" frame="7"/>
+    <data pos="-117|86" rotation="120" scale="0.430|0.350" frame="8"/>
+    <data pos="-116|91" rotation="127" scale="0.337|0.274" frame="9"/>
+    <data pos="-115|96" rotation="135" scale="0.245|0.199" frame="10"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="11"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="12" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="13" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="14" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="15" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="16" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="17" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="18" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="19" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="20" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="21" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="22" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="23" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="24" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="25" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="26" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="27" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="28" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="29" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="30" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="31" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="32" v="0"/>
+    <data pos="-114|102" rotation="142" scale="0.153|0.124" frame="33" v="0"/>
+  </flame17>
+  <flame18>
+    <data pos="-6|52" rotation="37" scale="0.339|0.276" frame="1" v="0"/>
+    <data pos="-6|53" rotation="37" scale="0.338|0.275" frame="2" v="0"/>
+    <data pos="-6|55" rotation="37" scale="0.338|0.275" frame="3" v="0"/>
+    <data pos="-6|56" rotation="37" scale="0.338|0.275" frame="4" v="0"/>
+    <data pos="-6|58" rotation="37" scale="0.338|0.275" frame="5" v="0"/>
+    <data pos="-6|59" rotation="37" scale="0.338|0.275" frame="6" v="0"/>
+    <data pos="-6|61" rotation="37" scale="0.339|0.275" frame="7" v="0"/>
+    <data pos="-21|61" rotation="37" scale="0.339|0.276" frame="8"/>
+    <data pos="-9|74" rotation="55" scale="0.373|0.303" frame="9"/>
+    <data pos="3|87" rotation="72" scale="0.407|0.331" frame="10"/>
+    <data pos="15|101" rotation="90" scale="0.442|0.360" frame="11"/>
+    <data pos="17|114" rotation="107" scale="0.476|0.387" frame="12"/>
+    <data pos="19|128" rotation="125" scale="0.510|0.415" frame="13"/>
+    <data pos="21|141" rotation="142" scale="0.545|0.444" frame="14"/>
+    <data pos="20|148" rotation="154" scale="0.462|0.376" frame="15"/>
+    <data pos="19|155" rotation="166" scale="0.381|0.310" frame="16"/>
+    <data pos="18|162" rotation="178" scale="0.299|0.243" frame="17"/>
+    <data pos="17|169" rotation="-169" scale="0.216|0.176" frame="18"/>
+    <data pos="16|176" rotation="-157" scale="0.134|0.109" frame="19"/>
+    <data pos="1|176" rotation="-157" scale="0.134|0.109" frame="20" v="0"/>
+    <data pos="1|176" rotation="-157" scale="0.134|0.109" frame="21" v="0"/>
+    <data pos="0|176" rotation="-157" scale="0.134|0.109" frame="22" v="0"/>
+    <data pos="0|176" rotation="-157" scale="0.134|0.109" frame="23" v="0"/>
+    <data pos="0|176" rotation="-157" scale="0.134|0.109" frame="24" v="0"/>
+    <data pos="0|176" rotation="-157" scale="0.134|0.109" frame="25" v="0"/>
+    <data pos="0|176" rotation="-157" scale="0.134|0.109" frame="26" v="0"/>
+    <data pos="-1|176" rotation="-157" scale="0.134|0.109" frame="27" v="0"/>
+    <data pos="-1|176" rotation="-157" scale="0.134|0.109" frame="28" v="0"/>
+    <data pos="-1|176" rotation="-157" scale="0.134|0.109" frame="29" v="0"/>
+    <data pos="-2|176" rotation="-157" scale="0.134|0.109" frame="30" v="0"/>
+    <data pos="-2|176" rotation="-157" scale="0.134|0.109" frame="31" v="0"/>
+    <data pos="-2|176" rotation="-157" scale="0.134|0.109" frame="32" v="0"/>
+    <data pos="-3|176" rotation="-157" scale="0.134|0.109" frame="33" v="0"/>
+  </flame18>
+</act>
+</root>

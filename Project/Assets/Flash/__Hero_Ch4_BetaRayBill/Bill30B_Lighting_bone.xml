@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="flash_f01"/>
+  <part name="flash_f02"/>
+  <part name="flash_f03"/>
+  <part name="flash_sd"/>
+  <part name="flash_sd__1"/>
+  <part name="flash_sd__2"/>
+  <part name="flash_sd__3"/>
+  <part name="flash_sd__4"/>
+  <part name="flash_sd__5"/>
+  <part name="flash_sd__6"/>
+  <part name="flash_sd__7"/>
+  <part name="flash_sd__8"/>
+  <part name="flash_sd__9"/>
+  <part name="light_c02"/>
+</root>

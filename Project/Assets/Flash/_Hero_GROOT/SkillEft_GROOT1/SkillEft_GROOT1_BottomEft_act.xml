@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <act name="Stand" totalFrame="32">
+    <light_3C>
+      <data pos="35|-12.5" rotation="0" scale="4.400|1.453" frame="1"/>
+      <data pos="35|-12.5" rotation="0" scale="3.998|1.319" frame="2"/>
+      <data pos="35|-12.5" rotation="0" scale="2.888|0.948" frame="3"/>
+      <data pos="35|-12.5" rotation="0" scale="1.760|0.571" frame="4"/>
+      <data pos="35|-12.5" rotation="0" scale="1.342|0.432" frame="5"/>
+      <data pos="35|-12.5" rotation="0" scale="0.717|0.304" frame="6"/>
+      <data pos="35|-12.5" rotation="0" scale="0.717|0.304" frame="7" v="0"/>
+    </light_3C>
+  </act>
+</root>

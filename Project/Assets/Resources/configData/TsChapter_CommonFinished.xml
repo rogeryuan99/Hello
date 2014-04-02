@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chapter>
+	<Step hide_name="Prepare">
+		<creations>
+		</creations>
+		<actions>
+			<action obj="TsObjectFactory" call="ReleaseGameObject" parms="TsUserBehaviorProcessor|TsObjectMover|TsFunctionCaller|TsObjectFactory"/>
+		</actions>
+	</Step>	
+</Chapter>
+

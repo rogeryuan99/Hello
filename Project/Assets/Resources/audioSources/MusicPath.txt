@@ -1,0 +1,163 @@
+atk_drax =
+atk_enemy = 
+atk_gamora = 
+atk_groot = 
+atk_marine = 
+atk_shoot = 
+bg_battle = 
+bg_failure = 
+bg_vector = 
+Guardians_Combat_Temp_1a = 
+Guardians_Combat_Temp_2a = 
+Guardians_Menu_Temp_1a = 
+Skill_GAMORA5A = 
+skill_release = 
+
+AMB_CH1_A = AMB/
+AMB_CH2_A = AMB/
+AMB_CH2_B = AMB/
+AMB_Ch3_A = AMB/
+AMB_Ch3_B = AMB/
+AMB_CH4_A = AMB/
+
+MUS_Chapter1_verA = MUS/
+MUS_Chapter6_verA = MUS/
+MUS_Main_Menu = MUS/
+MUS_UI_Menus = MUS/
+
+SFX_character_damage_2a = SFX/Character_Generic/
+SFX_character_damage_2b = SFX/Character_Generic/
+SFX_character_die_2a = SFX/Character_Generic/
+SFX_character_heavy_damage_1a = SFX/Character_Generic/
+SFX_character_jog_1a = SFX/Character_Generic/
+SFX_character_jog_2a = SFX/Character_Generic/
+SFX_character_jog_3a = SFX/Character_Generic/
+SFX_hero_low_health_2a = SFX/Character_Generic/
+
+SFX_Drax_Combo1_1b = SFX/Character_Skills/Combo/
+SFX_Drax_Combo2_1a = SFX/Character_Skills/Combo/
+SFX_Gamora_Combo1_1a = SFX/Character_Skills/Combo/
+SFX_Groot_Combo1_1a = SFX/Character_Skills/Combo/
+SFX_Rocket_Combo1_1c = SFX/Character_Skills/Combo/
+SFX_StarLord_Combo1_1c = SFX/Character_Skills/Combo/
+SFX_Combo1_Melee_1b = SFX/Character_Skills/Combo/
+SFX_Combo2_Range_1b = SFX/Character_Skills/Combo/
+SFX_Combo3_Melee_Range_1b = SFX/Character_Skills/Combo/
+
+SFX_Drax_Basic_1a = SFX/Character_Skills/Drax/
+SFX_Drax_Come_Get_Some_1a = SFX/Character_Skills/Drax/
+SFX_Drax_Fear_Me_1a = SFX/Character_Skills/Drax/
+SFX_Drax_Large_Angry_Man_1a = SFX/Character_Skills/Drax/
+SFX_Drax_Slow_Bleed_1a = SFX/Character_Skills/Drax/
+SFX_Drax_DualKnifeStrike_1a = SFX/Character_Skills/Drax/
+SFX_Drax_Slice&Dice_1a = SFX/Character_Skills/Drax/
+SFX_Drax_The_Destroyer_1a = SFX/Character_Skills/Drax/
+SFX_Drax_Common_1a = SFX/Character_Skills/Drax/
+
+SFX_Gamora_Basic_1a = SFX/Character_Skills/Gamora/
+SFX_Gamora_Cleave_1a = SFX/Character_Skills/Gamora/
+SFX_Gamora_Dashing_Strike_1a = SFX/Character_Skills/Gamora/
+SFX_Gamora_Deadlist_Woman_1a = SFX/Character_Skills/Gamora/
+SFX_Gamora_Deadly_Slash_1a = SFX/Character_Skills/Gamora/
+SFX_Gamora_Deathstrike_1a = SFX/Character_Skills/Gamora/
+SFX_Gamora_Poisoned_Blades_1a = SFX/Character_Skills/Gamora/
+SFX_Gamora_PistolShoot_1a = SFX/Character_Skills/Gamora/
+
+SFX_Groot_Basic_1a = SFX/Character_Skills/Groot/
+SFX_Groot_Creeping_Vines_1a = SFX/Character_Skills/Groot/
+SFX_Groot_Regrowth_1a = SFX/Character_Skills/Groot/
+SFX_Groot_Root_1a = SFX/Character_Skills/Groot/
+SFX_Groot_SporeCloud_1a = SFX/Character_Skills/Groot/
+SFX_Groot_Vine_Shield_1a = SFX/Character_Skills/Groot/
+SFX_Groot_Wildwood_1b = SFX/Character_Skills/Groot/
+SFX_Groot_Floral_Bloom = SFX/Character_Skills/Groot/
+
+SFX_Rocket_Basic_1a = SFX/Character_Skills/Rocket/
+SFX_Rocket_Battle_Tactics_1a = SFX/Character_Skills/Rocket/
+SFX_Rocket_Concentrate_Fire_1a = SFX/Character_Skills/Rocket/
+SFX_Rocket_Fuzzy_but_Deadly_1a = SFX/Character_Skills/Rocket/
+SFX_Rocket_Paint_the_Target_1a = SFX/Character_Skills/Rocket/
+SFX_Rocket_Rocket_Launcher_1a = SFX/Character_Skills/Rocket/
+SFX_Rocket_Rocket_Shot_First_1a = SFX/Character_Skills/Rocket/
+SFX_Rocket_SuppressingFire_1a = SFX/Character_Skills/Rocket/
+
+SFX_StarLord_Basic_1a = SFX/Character_Skills/Starlord/
+SFX_StarLord_Fire_Blast_1a = SFX/Character_Skills/Starlord/
+SFX_StarLord_Fire_Storm_1a = SFX/Character_Skills/Starlord/
+SFX_StarLord_Life_Generator_1a = SFX/Character_Skills/Starlord/
+SFX_StarLord_Orbital_Bombardment_1a = SFX/Character_Skills/Starlord/
+SFX_StarLord_Shield_Generator_1a = SFX/Character_Skills/Starlord/
+SFX_StarLord_Wind_Blast_1a = SFX/Character_Skills/Starlord/
+SFX_StarLord_IceStorm_1a = SFX/Character_Skills/Starlord/
+
+SFX_Korath_Baton_Fury_1a = SFX/Character_Skills/Korath/
+SFX_Korath_Psionic_Pursuit_1a = SFX/Character_Skills/Korath/
+SFX_Korath_Beta_Baton_1a = SFX/Character_Skills/Korath/
+SFX_Korath_Burst_Fire_1a = SFX/Character_Skills/Korath/
+
+SFX_Mantis_Grand_Master_1a = SFX/Character_Skills/Mantis/
+SFX_Mantis_Staff_Strike_1a = SFX/Character_Skills/Mantis/
+SFX_Mantis_Psychic_Shield_1a = SFX/Character_Skills/Mantis/
+SFX_Mantis_Psychic_Heal_1a = SFX/Character_Skills/Mantis/
+SFX_Mantis_Force_of_Will_1a = SFX/Character_Skills/Mantis/
+SFX_Mantis_Psychic_Distraction_1a = SFX/Character_Skills/Mantis/
+SFX_Mantis_Psychic_Mastery_1a = SFX/Character_Skills/Mantis/
+
+SFX_Levan_Blaster_Pistol_1a = SFX/Character_Skills/Levan/
+SFX_Levan_Cruel_Cuts_1a = SFX/Character_Skills/Levan/
+SFX_Levan_Gunfighter_1a = SFX/Character_Skills/Levan/
+SFX_Levan_Skullduggery_1a = SFX/Character_Skills/Levan/
+
+SFX_Caiera_Chain_Slam_1a = SFX/Character_Skills/Caiera/
+SFX_Caiera_Come_Here_1a = SFX/Character_Skills/Caiera/
+SFX_Caiera_Shadow_Warrior_1a = SFX/Character_Skills/Caiera/
+SFX_Caiera_Shield_of_Sakaar_1a = SFX/Character_Skills/Caiera/
+SFX_Caiera_Shinbreaker_1a = SFX/Character_Skills/Caiera/
+SFX_Caiera_The_Oldstrong_1a = SFX/Character_Skills/Caiera/
+
+
+SFX_enemy_melee_attack_1b = SFX/Enemy/
+SFX_enemy_range_attack_1a = SFX/Enemy/
+SFX_enemy_range_attack_singleshot_1a = SFX/Enemy/
+
+SFX_rewards_1a = SFX/Misc/
+
+SFX_Level_End_Lose_1c = SFX/Temp Stingers/
+SFX_Level_End_Victory_1a = SFX/Temp Stingers/
+SFX_level_up_1b = SFX/Temp Stingers/
+SFX_pre-battle_1a = SFX/Temp Stingers/
+SFX_victory_1b = SFX/Temp Stingers/
+SFX_Chapter_End_Victory_Temp_1a = SFX/Temp Stingers/
+
+SFX_battle_starts_1a = SFX/UI/
+SFX_character_zoom_2a = SFX/UI/
+SFX_Dialog_Box_2a = SFX/UI/
+SFX_Energy_recharged_1a = SFX/UI/
+SFX_Equip_1a = SFX/UI/
+SFX_Error_Message_1c = SFX/UI/
+SFX_Item_Upgrade_1c = SFX/UI/
+SFX_Score_Star_1a = SFX/UI/
+SFX_Score_Tally_1a = SFX/UI/
+SFX_Skill_Training_1a = SFX/UI/
+SFX_Skill_Training_2a = SFX/UI/
+SFX_Skill_Training_done_1a = SFX/UI/
+SFX_Skill_Training_done_2a = SFX/UI/
+SFX_skills_recharged_1a = SFX/UI/
+SFX_swipe_move_1b = SFX/UI/
+SFX_Tap_Here_2a = SFX/UI/
+SFX_Tap_Here_3b = SFX/UI/
+SFX_UI_button_tap_2a = SFX/UI/
+SFX_UI_button_tap_simple_1b = SFX/UI/
+SFX_UI_exit_tap_2a = SFX/UI/
+SFX_UI_swipe_loop_1a = SFX/UI/
+SFX_UI_commandpoints_2a = SFX/UI/
+SFX_UI_silver_1a = SFX/UI/
+SFX_skill_icon_a = SFX/UI/
+SFX_skill_icon_1b = SFX/UI/
+
+SFX_Door_LevelComplete = SFX/
+
+SFX_Kyln_Energy_Pole_Loop_1b = SFX/Kyln/
+SFX_Kyln_Fire_Vent_1b = SFX/Kyln/
+SFX_Kyln_Land_Mine_1a = SFX/Kyln/
+SFX_Kyln_Sentry_Gun_Loop_1b = SFX/Kyln/

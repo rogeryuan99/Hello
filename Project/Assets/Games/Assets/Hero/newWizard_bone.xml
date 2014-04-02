@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <part name="Shadow" pos="-11|4" roration="0" epos="0|0"/>
+  <part name="armUpL" pos="-1|65" roration="-9" epos="1|-10"/>
+  <part name="armDownL" pos="-2|44" roration="33" epos="1|-13"/>
+  <part name="bodyDown" pos="-7|56" roration="4" epos="0|-16"/>
+  <part name="legL" pos="-2|0" roration="2" epos="2|6"/>
+  <part name="legR" pos="-18|6" roration="1" epos="0|0"/>
+  <part name="head" pos="-14|75" roration="0" epos="3|50"/>
+  <part name="head2" pos="-14|75" roration="0" epos="3|50"/>
+  <part name="bodyUp" pos="-11|36" roration="4" epos="0|0"/>
+  <part name="armUpR" pos="-31|68" roration="-17" epos="3|-9"/>
+  <part name="armDownR" pos="-43|43" roration="44" epos="10|-18"/>
+  <part name="bodyUpadd" pos="-12|37" roration="4" epos="0|0"/>
+  <part name="gq" pos="-25|45" roration="89" epos="0|0"/>
+</root>
